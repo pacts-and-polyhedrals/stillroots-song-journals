@@ -1,0 +1,74 @@
+{
+  "_id": "eefede03062b04f4",
+  "name": "15 - Torbin Crest, the Smiling Blacksmith",
+  "sort": 1600000,
+  "folder": "8d73d9572d2cba95",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "f630366a48c0ed04",
+      "name": "Form A - good work and missing history",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Torbin Crest</h1>\n<p><strong>Role:</strong> useful craftsman and innocent suspect. <strong>Location:</strong> forge. <strong>Wants:</strong> the forge to run, Thomlin to stop fretting, and the bruised strangers to stay on their feet. <strong>Knows:</strong> the inn's antler bracket was repaired three days before Perrin died; he kept the invoice.</p>\n<p>Torbin is broad and tall, with a cracked leather apron, a short dark beard and a handshake that lasts a beat too long. His smile is genuine but arrives before he has considered what is being said. Work is how he handles uncertainty.</p>\n<h3>Voice and habits</h3>\n<p>A booming, hospitable voice. Laugh once at the start of a difficult answer, then let it die when the question persists. Tap an imaginary tool against your palm. Glance at the smaller empty workbench whenever somebody asks who taught Thomlin.</p>\n<h3>Phrases</h3>\n<p>'Metal don't lie. Can't say the same for folks.'</p>\n<p>'Leave it with me. No charge.'</p>\n<p>'Good steel remembers the hammer.'</p>\n<p>'Always been my forge. More or less.'</p>\n<h3>The useful inconsistency</h3>\n<p>Torbin remembers being an assistant but cannot remember whose. Oren's initials remain on tools and the purchase deed. When shown the agreement, he says, 'That's his writing,' before insisting he does not know who 'he' is.</p>\n<p>In a quiet field he can describe Oren clearly and apologise to Thomlin. Let that relief last; it rewards the party's countermeasure rather than immediately taking it away.</p>\n<h3>Investigation</h3>\n<p>His invoice exonerates him from staging the inn death with fresh construction. He identifies <strong>pressure from above</strong>, not failure of his wall bracket, as the reason it twisted. He supplies tools to reach the mount safely. He can also identify Sella's thread as unusually strong but still cuttable.</p>\n<p><strong>Never do this:</strong> remove a player's magic-weapon properties because Torbin offered a free repair. Dream imagery must not silently rewrite their chosen equipment.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.eefede03062b04f4.JournalEntryPage.0c3379a68ef2cad2]{Next: Form B - the forge without heat}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "a"
+        }
+      },
+      "_key": "!journal.pages!eefede03062b04f4.f630366a48c0ed04"
+    },
+    {
+      "_id": "0c3379a68ef2cad2",
+      "name": "Form B - the forge without heat",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Torbin in the dream</h1>\n<p>The grin does not grow suddenly. Instead, it remains fixed while the rest of his face turns to speak. Tools jump on their hooks with each blow although the hammer never reaches the metal. The anvil leaks a thin dark line that runs uphill into the cold forge.</p>\n<blockquote>\n<p>'Your sword knew her name,' Torbin says. 'Didn't it?'</p>\n<p>He brings the hammer down. Somewhere beyond the wall, a heart answers.</p>\n<p>'Heat remembers. Steel remembers. You forgot.'</p>\n</blockquote>\n<h3>Phrases</h3>\n<p>'Leave it with me. All of it.'</p>\n<p>'We can hammer a name flat.'</p>\n<p>'You gave me your trust. That's how it starts.'</p>\n<h3>What is really speaking</h3>\n<p>This is a projected accusation, not proof Torbin betrayed anyone. The hags want the party to treat every source of practical help as dangerous. Keep his genuine invoice and useful repairs valid.</p>\n<h3>Counterplay</h3>\n<p>Place Oren's small hammer beside Torbin's or remind him of a piece made collaboratively. The tools stop striking out of time. He says, 'Two hands on the work. Mine and his.' The phantom forge reveals the red-thread route toward @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.f5226d36a26bc17d.JournalEntryPage.d00f000ecbade270]{the Memory Loom}.</p>\n<p>A character may instead quench the false fire, silence the room, or use a relevant dispelling effect. Resolve the illusion as a 4th-level spell effect for Dispel Magic. The real forge is not destroyed by breaking this image.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.eefede03062b04f4.JournalEntryPage.f630366a48c0ed04]{Previous: Form A - good work and missing history}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "b"
+        }
+      },
+      "_key": "!journal.pages!eefede03062b04f4.0c3379a68ef2cad2"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "torbin",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "02 - Villager Dossiers"
+    },
+    "stillroots-song-journals": {
+      "key": "torbin",
+      "audience": "gm",
+      "group": "02 - Villager Dossiers",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!eefede03062b04f4"
+}

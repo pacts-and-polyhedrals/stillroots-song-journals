@@ -1,0 +1,51 @@
+{
+  "_id": "631d9b3a0cacf8bd",
+  "name": "17 - Mrs. Halden, the Woman They Forget",
+  "sort": 1800000,
+  "folder": "8d73d9572d2cba95",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "a1a3175dde2cf623",
+      "name": "A living person, not another Granny",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Mrs. Halden</h1>\n<p><strong>Editorial first name:</strong> Elsbeth. <strong>Role:</strong> sympathetic elder, Oren's wife and Edda's friend. <strong>Location:</strong> Hearthhouse. <strong>Wants:</strong> somebody to sit down long enough to hear the whole story. <strong>Knows:</strong> Edda counted people by their habits; Oren used to repair every broken hinge in the home.</p>\n<p>A small, upright older woman with neat silver hair, practical spectacles and a coat that is always buttoned one hole wrong. She remembers the date of her wedding but not the name of the other person in the room. Her teacup sits beside an untouched second cup.</p>\n<h3>Voice and phrases</h3>\n<p>Dry humour; precise observations; occasional anger when patronised.</p>\n<p>'Old is not the same thing as mistaken.'</p>\n<p>'I remember waiting for him. That ought to count for something.'</p>\n<p>'If nobody lived there, who wore the step hollow?'</p>\n<p>'Don't let them put my chair away.'</p>\n<h3>Useful scene</h3>\n<p>She asks the party to retrieve Edda's red register from the sunroom. On return, she identifies the five victims as people who had begun meeting quietly, and remembers Nella asking when each would be alone.</p>\n<p><strong>Form B:</strong> her outline thins at the edges and her chair remains visible through her sleeve. She does not sprout teeth or attack. The frightening possibility is that the room is forgetting to include her. She asks the same practical question twice: 'Have you written it down?'</p>\n<h3>Rescue and consequence</h3>\n<p>Write her name beside a true detail she supplies, keep her company through the dream crossing, or bring her into a quiet ward. Any of these anchors her and earns one Lucid token. If ignored, she becomes a living dream-captive who can still be rescued at the camp or organ; she does not die automatically between scenes.</p>\n<p>She is never Nella in disguise. That distinction preserves the possibility of trusting a person after discovering a traitor.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "profile"
+        }
+      },
+      "_key": "!journal.pages!631d9b3a0cacf8bd.a1a3175dde2cf623"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "halden",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "02 - Villager Dossiers"
+    },
+    "stillroots-song-journals": {
+      "key": "halden",
+      "audience": "gm",
+      "group": "02 - Villager Dossiers",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!631d9b3a0cacf8bd"
+}

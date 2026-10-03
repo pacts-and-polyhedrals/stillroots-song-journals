@@ -1,0 +1,143 @@
+{
+  "_id": "a45d4f574d4d78a0",
+  "name": "47 - Development Archive and Source Notes",
+  "sort": 3500000,
+  "folder": "d39d910aebbb81fd",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "46414362ccc97063",
+      "name": "Discarded branches and historical listing",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Archive, not active canon</h1>\n<p>This page preserves notable earlier options without letting them contradict the playable version.</p>\n<p><strong>Earlier title:</strong> The Song Beneath the Silence; tagline 'Truth hums beneath the dream, and your name is not your own.' The final selected title is <strong>Stillroot's Song</strong>. Long lists of rejected marketing titles are not adventure canon.</p>\n<p><strong>Original hag names:</strong> Auntie Nethra, Grimma Vell and Seranae the Hollow were replaced by the Babha/Mama/Gahgah coven. Later draft changes to those hags' forms and statistics are not authoritative.</p>\n<p><strong>Earlier level and gear drafts:</strong> level 10 with one very rare, one rare and three uncommon items appeared first; the later allowance of one rare, two uncommon and two standard healing potions supersedes it. A later draft's escalation to level 15+ did not override the chosen level.</p>\n<p><strong>Original 2025 recruitment listing:</strong> Friday 31 October 2025, 20:30 labelled CST, Saturday 1 November 2025 02:30 labelled CET, roughly six hours, $15, United States-oriented slot with a possible earlier European session. This is an <strong>archived date in the past</strong>, not a current event. The time-zone labels were not internally reliable; configure any new listing using a named local time zone and an actual scheduled date.</p>\n<p><strong>Original booking link:</strong> <a href=\"https://startplaying.games/adventure/cmh9b4dda00gcif04ypa7bhx5\">https://startplaying.games/adventure/cmh9b4dda00gcif04ypa7bhx5</a></p>\n<p>The pack has not verified that old listing's present availability or reused it as a current sign-up link.</p>\n<p><strong>Unconnected campaign note:</strong> '65 days till Kamras' egg hatches.' Retained here only. No starting date or connection to Stillroot was provided.</p>\n<p><strong>Empty d100 tables:</strong> discarded as unfilled templates. No invented entries have been represented as recovered content.</p>\n<p><strong>Earlier film references:</strong> early drafts drew inspiration from psychological/body-horror films and games. Its proposed deaths were original fantasy scenes, not a verified ranking of the 'top ten' film deaths. Do not advertise them as documented recreations of particular films.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.a45d4f574d4d78a0.JournalEntryPage.15fd39142e0136dd]{Next: Earlier Terror Track - preserved, not default}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "decisions"
+        }
+      },
+      "_key": "!journal.pages!a45d4f574d4d78a0.46414362ccc97063"
+    },
+    {
+      "_id": "15fd39142e0136dd",
+      "name": "Earlier Terror Track - preserved, not default",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Earlier severe Terror Track</h1>\n<p>An earlier draft proposed the following track. It is archived here because its recovery and trigger rules were incomplete and several stages remove participation harshly. It is <strong>not</strong> applied automatically by the importer. The table-ready alternative is @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da.JournalEntryPage.2ea44ce04bf246b0]{on the rules page}.</p>\n<table>\n<thead>\n<tr>\n<th>Stage</th>\n<th>Name</th>\n<th>Original effect</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Unnerved</td>\n<td>Disadvantage on initiative and Insight; restless sleep.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Shaken</td>\n<td>Disadvantage on Wisdom saves and Perception.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Disturbed</td>\n<td>No Inspiration benefits; disadvantage on death saves.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fragmented</td>\n<td>DC 15 Wisdom save each dawn or receive a false memory.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Hollow</td>\n<td>Long rests restore half HP and no spell slots.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Broken</td>\n<td>Reduced to 0 HP, unconscious, dreaming with eyes open.</td>\n</tr>\n</tbody>\n</table>\n<p>The draft said normal long rests did not cure it, but supplied no complete recovery procedure. Do not spring those penalties on players after presenting the more recoverable version. Choose one disclosed ruleset before play.</p>\n<p><strong>Earlier Memory Sync:</strong> characters started at three points and lost one on certain failed dream saves; at zero they forgot a person or fact. This overlaps with Terror and is retained as an optional narrative tracker only, not an additional compulsory debuff ladder.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.a45d4f574d4d78a0.JournalEntryPage.46414362ccc97063]{Previous: Discarded branches and historical listing} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.a45d4f574d4d78a0.JournalEntryPage.08548354ea958344]{Next: Earlier death-scene concepts}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "terror"
+        }
+      },
+      "_key": "!journal.pages!a45d4f574d4d78a0.15fd39142e0136dd"
+    },
+    {
+      "_id": "08548354ea958344",
+      "name": "Earlier death-scene concepts",
+      "type": "text",
+      "sort": 300000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Alternate scenes, not extra compulsory murders</h1>\n<p><strong>The Hanging Bellringer:</strong> a bell tower, a victim suspended in its mechanism, a note warning not to wake the hymn. The user later relocated and replaced this scene. It may serve as a nightmare image in the chapel but is not a second crystal-site crime.</p>\n<p><strong>The Mirror-Flesh Girl:</strong> an adult victim beside a broken mirror whose reflection still moves. Use as an optional dream room at the inn, with the reflected timing as the useful clue. The final main inn murder is <strong>Mounted</strong>, on the antlers.</p>\n<p><strong>The Sawmill Sermon:</strong> a body laid out beside a disused saw, flowers replacing the expected blood, a corrupted prayer. The sawmill is not on the final mandatory location list. Reuse its sound motif only if needed.</p>\n<p><strong>The Mind-Eaten Man:</strong> an elderly victim facing a wall of tally marks in a cellar. The final Hearthhouse scene instead uses Edda's register and rocking chair, which integrate the location and a living witness more coherently.</p>\n<p><strong>The Singing Guts:</strong> a corpse arranged as an instrument at the well, later relocated to the bakery. The user then asked for wholly new environmental scenes; the bakery's current case is <strong>The Cradle Crust</strong>.</p>\n<p><strong>Room for One:</strong> a guest bed whose occupant's identity shifts beneath the sheet. Retained as an optional inn nightmare rather than a second main corpse.</p>\n<p>The aim of these alternatives is dread with investigable facts, not maximal anatomical detail or a higher body count. Avoid contradicting the fixed five-victim chronology when borrowing an image.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.a45d4f574d4d78a0.JournalEntryPage.15fd39142e0136dd]{Previous: Earlier Terror Track - preserved, not default} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.a45d4f574d4d78a0.JournalEntryPage.f651ae5028ea95f6]{Next: Original riddle wording}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "alternates"
+        }
+      },
+      "_key": "!journal.pages!a45d4f574d4d78a0.08548354ea958344"
+    },
+    {
+      "_id": "f651ae5028ea95f6",
+      "name": "Original riddle wording",
+      "type": "text",
+      "sort": 400000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>The two earlier riddles</h1>\n<p>These retain the original requested answers. Cleaner versions appear in the current @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.321cee58cb2e099b.JournalEntryPage.59b122fdf736e1b1]{jail puzzle} and player handouts.</p>\n<h2>Answer: Unicorn</h2>\n<p>'I am born of moonlight, but shun the night.<br/>\nI bear a horn, but make no sound.<br/>\nMy blood can heal, my step leaves none.<br/>\nI vanish when hunted, yet appear to the pure.<br/>\nWhat am I?'</p>\n<p>This is poetic, not a literal statement of D&amp;D unicorn mechanics. The 'shun the night' and 'make no sound' lines can mislead; accept the intended answer generously.</p>\n<h2>Answer: Blood</h2>\n<p>'Worn by the dead and feared by the wise,<br/>\nI spill in grief, in rage, in lies.<br/>\nIn every pact and blade I flow -<br/>\nA price, a bond, a truth below.<br/>\nYou wear me now, though not by choice.<br/>\nWhat am I?'</p>\n<p>No actual blood or self-injury is required to solve either puzzle. Spoken answers, carved symbols or a red ink mark are sufficient in the fiction.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.a45d4f574d4d78a0.JournalEntryPage.08548354ea958344]{Previous: Earlier death-scene concepts} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.a45d4f574d4d78a0.JournalEntryPage.e36ca5c978404284]{Next: Technical references and provenance}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "riddles"
+        }
+      },
+      "_key": "!journal.pages!a45d4f574d4d78a0.f651ae5028ea95f6"
+    },
+    {
+      "_id": "e36ca5c978404284",
+      "name": "Technical references and provenance",
+      "type": "text",
+      "sort": 500000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Provenance and version boundary</h1>\n<p><strong>Adventure source:</strong> the author's development drafts, consolidated with explicitly labelled connective writing and proposed rules. Named characters, the author's hags, selected locations, latest character allowance, Uppa's spirit-troll backstory and optional lore are retained; discarded branches are labelled above.</p>\n<p><strong>False hydra concept:</strong> Arnold K.'s Goblin Punch article, 'False Hydra', 4 September 2014. This pack uses a custom coven/dream encounter rather than reproducing a third-party commercial stat block. <a href=\"https://goblinpunch.blogspot.com/2014/09/false-hydra.html\">https://goblinpunch.blogspot.com/2014/09/false-hydra.html</a></p>\n<p><strong>Foundry target:</strong> version 14. Journals use core JournalEntry documents containing text JournalEntryPage documents; no old top-level content-only journal format and no system-specific Actor or Item schema is imported.</p>\n<p><strong>D&amp;D5e target:</strong> 5.3.3. Its release manifest declares minimum Foundry 13.347 and verified 14. <a href=\"https://raw.githubusercontent.com/foundryvtt/dnd5e/release-5.3.3/system.json\">https://raw.githubusercontent.com/foundryvtt/dnd5e/release-5.3.3/system.json</a></p>\n<p><strong>Core journal documentation:</strong> <a href=\"https://foundryvtt.com/api/v14/classes/foundry.documents.BaseJournalEntry.html\">https://foundryvtt.com/api/v14/classes/foundry.documents.BaseJournalEntry.html</a></p>\n<p><strong>Core journal page documentation:</strong> <a href=\"https://foundryvtt.com/api/v14/classes/foundry.documents.BaseJournalEntryPage.html\">https://foundryvtt.com/api/v14/classes/foundry.documents.BaseJournalEntryPage.html</a></p>\n<p><strong>Creation options, including embedded-ID retention:</strong> <a href=\"https://foundryvtt.com/api/interfaces/foundry.abstract.types.DatabaseCreateOperation.html\">https://foundryvtt.com/api/interfaces/foundry.abstract.types.DatabaseCreateOperation.html</a></p>\n<p><strong>Module format:</strong> <a href=\"https://foundryvtt.com/article/module-development/\">https://foundryvtt.com/article/module-development/</a></p>\n<h3>Validation limits</h3>\n<p>The delivered data and scripts receive offline checks for IDs, links, JSON, HTML, permissions, import idempotence and syntax. These checks run outside Foundry, so a live Foundry 14 / D&amp;D5e 5.3.3 import and gameplay test is <strong>not claimed</strong>. Use a backed-up test world first.</p>\n<p>The source hags' claimed CRs and the custom ritual encounter have not been independently playtested. Statistics are reference text, not automated actor mechanics.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.a45d4f574d4d78a0.JournalEntryPage.f651ae5028ea95f6]{Previous: Original riddle wording}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "sources"
+        }
+      },
+      "_key": "!journal.pages!a45d4f574d4d78a0.e36ca5c978404284"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "archive",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "06 - Production and Archive"
+    },
+    "stillroots-song-journals": {
+      "key": "archive",
+      "audience": "gm",
+      "group": "06 - Production and Archive",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!a45d4f574d4d78a0"
+}

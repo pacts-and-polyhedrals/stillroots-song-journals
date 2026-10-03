@@ -1,0 +1,51 @@
+{
+  "_id": "64c139810b16c4e4",
+  "name": "09 - Editable GM Session Tracker",
+  "sort": 1000000,
+  "folder": "ca0320f726c0fc33",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "c61dd3ead01ed869",
+      "name": "Session state",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Working notes - edit this page during play</h1>\n<p><strong>Session date:</strong> __________  <strong>Party count:</strong> ____  <strong>Rules edition:</strong> ____  <strong>Terror version announced:</strong> ____</p>\n<table>\n<thead>\n<tr>\n<th>PC</th>\n<th>Uppa bond / anchor</th>\n<th>Terror 0-6</th>\n<th>Lucid 0-3</th>\n<th>Personal imagery boundaries</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td></td>\n<td>0</td>\n<td>1</td>\n<td></td>\n</tr>\n<tr>\n<td>2</td>\n<td></td>\n<td>0</td>\n<td>1</td>\n<td></td>\n</tr>\n<tr>\n<td>3</td>\n<td></td>\n<td>0</td>\n<td>1</td>\n<td></td>\n</tr>\n<tr>\n<td>4</td>\n<td></td>\n<td>0</td>\n<td>1</td>\n<td></td>\n</tr>\n<tr>\n<td>5</td>\n<td></td>\n<td>0</td>\n<td>1</td>\n<td></td>\n</tr>\n<tr>\n<td>6</td>\n<td></td>\n<td>0</td>\n<td>1</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p><strong>Do not record blind death-save results on a player-visible copy.</strong></p>\n<table>\n<thead>\n<tr>\n<th>World state</th>\n<th>Current value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Evening choir clock</td>\n<td>0 / 6</td>\n</tr>\n<tr>\n<td>Uppa</td>\n<td>Dead / restored / preserved</td>\n</tr>\n<tr>\n<td>Safe refuge</td>\n<td></td>\n</tr>\n<tr>\n<td>Nella</td>\n<td>Undetected / exposed / captured / destroyed / escaped</td>\n</tr>\n<tr>\n<td>Mrs. Halden</td>\n<td>Safe / at risk / rescued</td>\n</tr>\n<tr>\n<td>Clues physically retained</td>\n<td></td>\n</tr>\n<tr>\n<td>Countermeasures tested</td>\n<td></td>\n</tr>\n<tr>\n<td>Chosen final price, if any</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Finale component</th>\n<th>HP / state</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Hydra</td>\n<td>220 / 260 / 320; circle chosen value</td>\n</tr>\n<tr>\n<td>Names stop</td>\n<td>45 / exposed / disabled</td>\n</tr>\n<tr>\n<td>Trust stop</td>\n<td>45 / exposed / disabled</td>\n</tr>\n<tr>\n<td>Flesh stop</td>\n<td>45 / exposed / disabled</td>\n</tr>\n<tr>\n<td>Core</td>\n<td>Shielded / 60 HP / unbinding successes 0-2</td>\n</tr>\n<tr>\n<td>Legendary resistance</td>\n<td>2 / 1 / 0</td>\n</tr>\n<tr>\n<td>Legendary action points</td>\n<td></td>\n</tr>\n<tr>\n<td>Regeneration suppressed until</td>\n<td></td>\n</tr>\n<tr>\n<td>Last lair effect</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h3>End-of-session facts</h3>\n<p>People saved: __________. Names restored: __________. Permanent consequences explicitly agreed: __________. Unresolved clues: __________.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "session"
+        }
+      },
+      "_key": "!journal.pages!64c139810b16c4e4.c61dd3ead01ed869"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "tracker",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "00 - Run the Game"
+    },
+    "stillroots-song-journals": {
+      "key": "tracker",
+      "audience": "gm",
+      "group": "00 - Run the Game",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!64c139810b16c4e4"
+}

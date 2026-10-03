@@ -1,0 +1,51 @@
+{
+  "_id": "a4a82098d2ad6ed2",
+  "name": "10 - Cast Index and Relationships",
+  "sort": 1100000,
+  "folder": "8d73d9572d2cba95",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "4f320c24b0608764",
+      "name": "Who is who",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Faces of Stillroot</h1>\n<table>\n<thead>\n<tr>\n<th>Person</th>\n<th>Waking role</th>\n<th>Under the dream</th>\n<th>Relationship / useful lead</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.042891bee7c93b81]{Marnie Clover}</td>\n<td>Butcher's widow</td>\n<td>Perfectly clean apron; impossible chopping</td>\n<td>Garrick's wife; fed Ada's resistance group.</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.faaa4ec63b69cf5f]{Thomlin}</td>\n<td>Apprentice smith</td>\n<td>Unmoving mouth; independent hammer-shadow</td>\n<td>Remembers his missing master, Oren Halden.</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.353fd39665abdf09]{Reverend Ervin Hoss}</td>\n<td>Priest and carer</td>\n<td>Endless blue stole; unsynchronised sermon</td>\n<td>Can help Uppa; holds Jonas's repair chest.</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.aee1f0bbefed24bb]{Naya and Coppers}</td>\n<td>Nervous child</td>\n<td>Tall shadow; rabbit turns independently</td>\n<td>Saw Nella's basket; safe witness, never a corpse.</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.eefede03062b04f4]{Torbin Crest}</td>\n<td>Current blacksmith</td>\n<td>Unnatural grin; self-moving tools</td>\n<td>Worked with Oren; repaired the inn's bracket.</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.abd471fb49f0eaa2]{Granny Nella}</td>\n<td>Apple-pie seller</td>\n<td>Dream-construct, the Cradle Maw</td>\n<td>Fixed local culprit; coven emissary.</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.631d9b3a0cacf8bd]{Mrs. Halden}</td>\n<td>Elderly resident of Hearthhouse</td>\n<td>A fading outline, not a monster</td>\n<td>Oren's wife; Edda's friend; Nella is not her.</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.9848b98a77681d3a.JournalEntryPage.9e992d5eb0bd1e4d]{Uppa Kase}</td>\n<td>Fallen verdan bard</td>\n<td>A memory used by the dream</td>\n<td>The party's shared bond and reason for refuge.</td>\n</tr>\n<tr>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.c1ad48ca063c7686]{Jonas Verstand}</td>\n<td>Lost Dream Warden</td>\n<td>Limited memory-echo</td>\n<td>Journal author and failed investigator.</td>\n</tr>\n<tr>\n<td>Jeb</td>\n<td>Humblenook proprietor</td>\n<td>Repeats yesterday's order</td>\n<td>Innocent; lets the PCs into Perrin's room.</td>\n</tr>\n</tbody>\n</table>\n<h3>Relationship correction</h3>\n<p>Thomlin's 'Mister Halden' is <strong>Oren Halden</strong>, the vanished older smith. <strong>Torbin Crest is a different man</strong>, formerly his colleague and now running the forge. Oren was never an alias of Torbin. Mrs. Halden is Oren's surviving wife. This bridge resolves the conflicting blacksmith references without deleting either NPC.</p>\n<h3>Performance rule</h3>\n<p>Return to the same gesture and phrase before changing one word in a dream. A recognisable person becoming slightly wrong is stronger than a new monster appearing in their clothes. Use Form B after an established dream cue, not constantly.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "index"
+        }
+      },
+      "_key": "!journal.pages!a4a82098d2ad6ed2.4f320c24b0608764"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "cast",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "02 - Villager Dossiers"
+    },
+    "stillroots-song-journals": {
+      "key": "cast",
+      "audience": "gm",
+      "group": "02 - Villager Dossiers",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!a4a82098d2ad6ed2"
+}

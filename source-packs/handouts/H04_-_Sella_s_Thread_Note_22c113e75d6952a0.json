@@ -1,0 +1,51 @@
+{
+  "_id": "22c113e75d6952a0",
+  "name": "H04 - Sella's Thread Note",
+  "sort": 4400000,
+  "folder": "6bbdde26a71965b0",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "0fdd71dce27d8035",
+      "name": "Pinned to the red spool",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal sr-handout\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; PLAYER HANDOUT</p><h1>Keep one end fixed</h1>\n<p>The passage can put the door somewhere else. It cannot make a continuous length of thread become two separate lengths without cutting it.</p>\n<p>Do not follow the voice. Follow what is in your hand.</p>\n<p>At the loom I counted three cords. One carried names. One moved like a serpent. One breathed.</p>\n<p>The fourth did nothing until the others answered.</p>\n<p>Nella has asked for her cuff back. I will give her the coat, not the book.</p>\n<ul>\n<li>Sella</li>\n</ul>\n</section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "thread"
+        }
+      },
+      "_key": "!journal.pages!22c113e75d6952a0.0fdd71dce27d8035"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "h-thread",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "player",
+      "stillrootGroup": "Player - Reveal Handouts"
+    },
+    "stillroots-song-journals": {
+      "key": "h-thread",
+      "audience": "player",
+      "group": "Player - Reveal Handouts",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!22c113e75d6952a0"
+}

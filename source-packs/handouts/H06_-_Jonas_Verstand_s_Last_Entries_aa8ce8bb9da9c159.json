@@ -1,0 +1,51 @@
+{
+  "_id": "aa8ce8bb9da9c159",
+  "name": "H06 - Jonas Verstand's Last Entries",
+  "sort": 4600000,
+  "folder": "6bbdde26a71965b0",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "fe57b3a1caeb87cf",
+      "name": "The Dream Warden's notebook",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal sr-handout\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; PLAYER HANDOUT</p><h1>From Jonas Verstand's notebook</h1>\n<p><strong>First entry</strong></p>\n<p>I will begin with names. Oren Halden. Garrick Clover. There are others. If I begin with a theory, I can be persuaded that I imagined it. These are names of people whose work is still in our hands.</p>\n<p><strong>Later</strong></p>\n<p>The sound interferes with recognition. Wax helped. A truly quiet room helped more. Neither changed the papers I had already hidden. The papers are not mistaken because I cannot remember writing them.</p>\n<p><strong>Later</strong></p>\n<p>I saw the thing beneath the well. Pale necks. Too many almost-human faces. It sings while the village explains away what it does. A false hydra, if the old account is to be believed. But this one has been taught another trick.</p>\n<p>There are three minds behind the dream. Babha Yagha. Mama Yagha. Gahgah Yagha. The last has two mouths, though there are still three wills at work.</p>\n<p><strong>Last complete entry</strong></p>\n<p>An organ carries the song into sleeping minds. Three stops protect its centre. Names. Trust. Flesh. Break the replies, then break the source. The voices claim everything is theirs. It is not.</p>\n<p>A name is not a debt.</p>\n<p>Trust is freely given.</p>\n<p>The body is not a prison.</p>\n<p>I have left a way to enter together: a fixed red cord, a light, and a remembered truth from each willing companion. Sleep, trance or stillness will do. Do not drug yourselves for my sake. Do not come alone.</p>\n<p><strong>In the margin</strong></p>\n<p>I went alone. That was my error.</p>\n</section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "journal"
+        }
+      },
+      "_key": "!journal.pages!aa8ce8bb9da9c159.fe57b3a1caeb87cf"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "h-journal",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "player",
+      "stillrootGroup": "Player - Reveal Handouts"
+    },
+    "stillroots-song-journals": {
+      "key": "h-journal",
+      "audience": "player",
+      "group": "Player - Reveal Handouts",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!aa8ce8bb9da9c159"
+}

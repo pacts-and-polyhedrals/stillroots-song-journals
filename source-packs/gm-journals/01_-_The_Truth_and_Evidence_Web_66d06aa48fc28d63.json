@@ -1,0 +1,97 @@
+{
+  "_id": "66d06aa48fc28d63",
+  "name": "01 - The Truth and Evidence Web",
+  "sort": 200000,
+  "folder": "ca0320f726c0fc33",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "51694b1a140cb84e",
+      "name": "The actual solution",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>What is happening</h1>\n<p><strong>Editorial bridge: a fixed solution for this compiled edition.</strong> The earlier drafts supplied atmosphere and crime scenes without one consistent culprit/timeline. This page supplies that missing structure.</p>\n<p>Babha Yagha devised a <strong>bone organ</strong> that couples a young false hydra's song to sleepers' recognition of people and places. Mama seeds invitations through food, reassurance and dream-projections. Gahgah anchors the dream to the flesh lair below Stillroot. The coven watches from a remote ritual refuge; their true bodies do not stand in the village square.</p>\n<p><strong>Granny Nella is a constructed emissary</strong>, not a fourth hag. She can enter dreams through her hospitality-mark, carry messages and channel a limited portion of the coven's nightmare shaping. Her killings are supernatural stagings; do not describe these as a reproducible mundane method. The deaths silenced five witnesses who were testing countermeasures. Each victim kept records outside the song's preferred medium of living memory.</p>\n<h3>The five witnesses</h3>\n<table>\n<thead>\n<tr>\n<th>Victim</th>\n<th>Place</th>\n<th>What they discovered</th>\n<th>Evidence that survives</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Ada Brindle, baker</td>\n<td>Bakery</td>\n<td>Blocking the sound briefly restores recognition.</td>\n<td>Wax ear-stoppers and a marked delivery ledger.</td>\n</tr>\n<tr>\n<td>Perrin Voss, adult courier</td>\n<td>Humblenook Inn</td>\n<td>Village records contradict dated outside correspondence.</td>\n<td>Arrival receipt and antler-mount scratches.</td>\n</tr>\n<tr>\n<td>Edda Senn, retired schoolmistress</td>\n<td>Hearthhouse</td>\n<td>People remember relationships through habits after names go missing.</td>\n<td>Attendance register and carved chair marks.</td>\n</tr>\n<tr>\n<td>Sella Venn, tailor</td>\n<td>Unraveled</td>\n<td>A continuous physical thread remains a reliable route through a shifting dream.</td>\n<td>Red guide-thread and Nella's distinctive repaired cuff.</td>\n</tr>\n<tr>\n<td>Corven Flint, crystal tuner</td>\n<td>Crystal formation</td>\n<td>The organ's three controls carry the coven's separate influences.</td>\n<td>Three-note sketch and a cracked resonator.</td>\n</tr>\n</tbody>\n</table>\n<p>Nella's apron contains all five customers' receipts. Her cuff was mended by Sella using a distinctive diagonal repair. A tiny clear crystal lodged in the heel of her left shoe leaves the same incomplete print at multiple sites. These details connect her to the scenes without requiring a confession.</p>\n<h3>What the song can and cannot do</h3>\n<p>It obscures perception of the hydra and emotionally linked memories. It does <strong>not</strong> erase player notes, change hit points retroactively, make doors impenetrable because the GM needs a detour, or rewrite every object in existence. The hags physically collect or enchant some papers; unenchanted records remain reliable. Wrong reflections are dream overlays, not automatic proof an NPC is evil.</p>\n<p>The victims staged at murder sites are not fully consumed by the hydra: their remains are nightmare anchors. Previously swallowed villagers, such as Oren Halden, are genuinely dead. Breaking the organ restores memories and releases living dream-captives; it does not automatically resurrect the consumed dead.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.ee23a951a94d5c8b]{Next: Timeline and NPC status}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "solution"
+        }
+      },
+      "_key": "!journal.pages!66d06aa48fc28d63.51694b1a140cb84e"
+    },
+    {
+      "_id": "ee23a951a94d5c8b",
+      "name": "Timeline and NPC status",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>A consistent chronology</h1>\n<p><strong>Several weeks ago:</strong> the coven begins its experiment. Oren Halden, the older smith who trained Thomlin, disappears. Torbin keeps the forge running and now unconsciously claims its history as his own. Marnie's husband Garrick Clover is also lost; her marriage survives in habit, not recollection.</p>\n<p><strong>Six days ago:</strong> Jonas Verstand hides his journal in the chapel's repair chest. He identifies three ritual controls, but enters the dream alone and is killed. He remains a memory-echo, not an all-knowing ghost.</p>\n<p><strong>Two days ago:</strong> Ada, Perrin, Edda, Sella and Corven form a small resistance network. Each keeps a different form of proof. Nella offers each a complimentary pie and learns where they hide their records.</p>\n<p><strong>Last night:</strong> the five witnesses are murdered in their respective locations. The song encourages locals to avoid those rooms and rationalise the absence. None of these deaths is caused by the incoming PCs. Fresh clues remain because the coven's protection is perceptual, not perfect cleaning.</p>\n<p><strong>This evening:</strong> the party arrives with Uppa. Nella takes an interest in their exhaustion. Reverend Hoss offers genuine care. The party may secure a rest and resurrection before the main investigation.</p>\n<p><strong>Tomorrow before sundown:</strong> the organ is retuned to draw the entire village into ritual sleep. Discovery can interrupt that timetable. A successful early plan changes the fiction; it does not make the GM secretly restart the process.</p>\n<h3>Living people at the start</h3>\n<p>Marnie, Thomlin, Torbin, Ervin, Naya, Jeb and Mrs. Halden are alive. Nella is a construct. Uppa is dead from the spirit troll, potentially recoverable. All five named murder victims are dead. Jonas and Oren are dead. The optional war-camp captives are alive.</p>\n<p><strong>NPC conservation:</strong> never use Marnie as the baker's corpse, Torbin as the tailor, or Granny Nella as Mrs. Halden. Their separate identities matter to the investigation.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.51694b1a140cb84e]{Previous: The actual solution} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Next: Clue matrix and reveal gates}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "timeline"
+        }
+      },
+      "_key": "!journal.pages!66d06aa48fc28d63.ee23a951a94d5c8b"
+    },
+    {
+      "_id": "70b524c8443bc0fc",
+      "name": "Clue matrix and reveal gates",
+      "type": "text",
+      "sort": 300000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Evidence, not arbitrary revelations</h1>\n<table>\n<thead>\n<tr>\n<th>Conclusion</th>\n<th>Route one</th>\n<th>Route two</th>\n<th>Route three</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Real people have been forgotten</td>\n<td>Thomlin's signed apprenticeship</td>\n<td>Edda's attendance register</td>\n<td>Perrin's dated outside letter</td>\n</tr>\n<tr>\n<td>Sound affects recognition</td>\n<td>Ada's ear-stoppers and notes</td>\n<td>Corven's acoustic sketch</td>\n<td>A Silence experiment at the square</td>\n</tr>\n<tr>\n<td>Someone local is coordinating the deaths</td>\n<td>Nella's cuff repair at Sella's</td>\n<td>Matching incomplete shoeprint at bakery and inn</td>\n<td>The same five delivery slips in Nella's basket</td>\n</tr>\n<tr>\n<td>Three intelligences guide the dream</td>\n<td>Three handwriting styles in Jonas's journal</td>\n<td>Three organ-controls in Corven's sketch</td>\n<td>Nella answers herself in three distinct voices</td>\n</tr>\n<tr>\n<td>The lair is below the well/crystals</td>\n<td>Red guide-thread to the cellar</td>\n<td>Corven's tunnel bearings</td>\n<td>Jonas's drawn downward route</td>\n</tr>\n<tr>\n<td>Destroying the focus ends the village spell</td>\n<td>Jonas's final entry</td>\n<td>Trial rooms disable individual organ effects</td>\n<td>Readable, testable links in the final arena</td>\n</tr>\n</tbody>\n</table>\n<h3>What a useful clue does</h3>\n<p>Every murder journal provides an obvious fact, one detail obtainable through a reasonable examination, at least two onward leads, and answers for Speak with Dead. If players infer the culprit early, let them confront her. If they find the physical entrance early, let them use it.</p>\n<h3>Two-site minimum</h3>\n<p>After any two murder sites, offer the next lead actively: Nella arrives to 'tidy up', Mrs. Halden asks for a missing coat, or Ervin finds Jonas's parcel. These events move evidence, not solutions, into reach.</p>\n<h3>Red herrings that resolve</h3>\n<p>Marnie owns blades but was treating an injured neighbour when the killings occurred; an independent witness and a dated dressing note corroborate her. Torbin repaired the antler bracket days before the murder; the invoice confirms the earlier date. Ervin's seal appears on the funeral sheet because he blessed it before any death. Give these exonerating facts when investigated. Do not keep innocent suspects artificially suspicious forever.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.ee23a951a94d5c8b]{Previous: Timeline and NPC status}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "web"
+        }
+      },
+      "_key": "!journal.pages!66d06aa48fc28d63.70b524c8443bc0fc"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "truth",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "00 - Run the Game"
+    },
+    "stillroots-song-journals": {
+      "key": "truth",
+      "audience": "gm",
+      "group": "00 - Run the Game",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!66d06aa48fc28d63"
+}

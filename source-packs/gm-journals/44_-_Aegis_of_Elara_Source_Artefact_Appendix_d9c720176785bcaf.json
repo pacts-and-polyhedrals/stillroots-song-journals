@@ -1,0 +1,143 @@
+{
+  "_id": "d9c720176785bcaf",
+  "name": "44 - Aegis of Elara: Source Artefact Appendix",
+  "sort": 3200000,
+  "folder": "af6d3e69f9dbf232",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "f9d38a5609b73a35",
+      "name": "The set and its incomplete overview",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>The Aegis of Elara</h1>\n<p>The supplied set description presents interconnected elemental/celestial artefacts forming a unified protective power associated with Elara, an elven guardian deity in this setting. The named components are the Starshard Amulet, Moonshadow Dagger, Sunfire Gauntlet, Windwhisper Bow and Earthheart Shield.</p>\n<p><strong>This appendix records the supplied powers, not a balanced level-10 item package.</strong> Several overview powers differ from the later detailed versions. No automatic item imports or bonuses are supplied.</p>\n<h3>Original overview properties</h3>\n<p><strong>Starshard:</strong> advantage against spells/magical effects, radiant resistance, once-per-long-rest radiant nova within 30 feet; nova damage unspecified. <strong>Moonshadow:</strong> advantage on Stealth, additional necrotic damage equal to proficiency bonus on a hit, once-per-long-rest invisibility and increased speed for an unspecified duration. <strong>Sunfire:</strong> extra fire on melee hits, fire resistance, a once-per-long-rest 20-foot-radius self-centred inferno with unspecified damage. <strong>Windwhisper:</strong> +2 bow attack rolls, extra force damage unspecified, a once-per-long-rest piercing line shot. <strong>Earthheart:</strong> increased AC unspecified, advantage on saves against spells/magic, resistance to nonmagical bludgeoning/piercing/slashing, once-per-long-rest Terra's Retribution with unspecified force damage and push.</p>\n<h3>Combined power</h3>\n<p>The overview grants unspecified additional AC, resistances, save advantage and Elara's Fury, a damaging/incapacitating blast with no final values or usage schedule. These are <strong>design notes, not executable rules</strong>. Do not quietly combine every overview benefit with every later detailed benefit. Choose and finish a version before adding an Actor Item.</p>\n<p>The detailed pages below preserve the later supplied component write-ups. No separate detailed Earthheart Shield was provided.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.d9c720176785bcaf.JournalEntryPage.9a120087dc353e02]{Next: Starshard Amulet - detailed source properties}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "overview"
+        }
+      },
+      "_key": "!journal.pages!d9c720176785bcaf.f9d38a5609b73a35"
+    },
+    {
+      "_id": "9a120087dc353e02",
+      "name": "Starshard Amulet - detailed source properties",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Starshard Amulet</h1>\n<p><strong>Artefact.</strong> A radiant amulet made from a fallen-star fragment, infused with celestial power.</p>\n<p><strong>Celestial Blessing:</strong> resistance to all damage types; advantage on saves against spells and effects attempting to control or corrupt the mind.</p>\n<p><strong>Radiant Fury:</strong> as an action, for 1 minute attacks deal an additional 4d10 radiant damage. Any enemy hitting the wearer with a melee attack takes 4d10 radiant damage. Once used, unavailable until next dawn.</p>\n<p><strong>Celestial Ward:</strong> advantage on saves against spells/effects from fiends, undead and 'creatures of darkness'; immune to being Frightened or Charmed by those creatures.</p>\n<p><strong>Cosmic Guidance:</strong> once per long rest, advantage on one chosen ability check, attack roll or saving throw.</p>\n<p><strong>Attunement:</strong> 24 hours meditating beneath an open night sky, with a deep connection to celestial forces and a pure heart, as described in the supplied narrative requirement.</p>\n<p><strong>Before use:</strong> define what 'creatures of darkness' includes; determine whether the special attunement requirement consumes an ordinary attunement slot; do not silently turn narrative moral language into surprise loss of a player's item.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.d9c720176785bcaf.JournalEntryPage.f9d38a5609b73a35]{Previous: The set and its incomplete overview} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.d9c720176785bcaf.JournalEntryPage.01e046f72235cd35]{Next: Moonshadow Dagger - detailed source properties}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "starshard"
+        }
+      },
+      "_key": "!journal.pages!d9c720176785bcaf.9a120087dc353e02"
+    },
+    {
+      "_id": "01e046f72235cd35",
+      "name": "Moonshadow Dagger - detailed source properties",
+      "type": "text",
+      "sort": 300000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Moonshadow Dagger</h1>\n<p><strong>Artefact.</strong> An otherworldly moonlit blade whose surface seems to absorb and reflect light.</p>\n<p><strong>Moonlight Strike:</strong> when a successful attack is made with the dagger, the target makes a DC 20 Constitution save or is Paralyzed for 1 minute, repeating the save at the end of each turn.</p>\n<p><strong>Eclipsing Shadows:</strong> as a bonus action, enter concealment granting advantage on Stealth and resistance to all damage except radiant. While in this state, a hit with the dagger deals an extra 6d10 necrotic damage. <strong>No duration or usage limit was supplied.</strong></p>\n<p><strong>Lunar Empowerment:</strong> under a full moon, Moonlight Strike automatically paralyses the target; Eclipsing Shadows instead grants immunity to all damage except radiant.</p>\n<p><strong>Lunar Bond:</strong> darkvision 120 feet; telepathy with willing creatures within 60 feet that are also attuned to a moon-related magic item.</p>\n<p><strong>Attunement:</strong> a full night of secluded meditation with uninterrupted full-moon exposure and the dagger bathed in moonlight.</p>\n<p><strong>Before use:</strong> specify duration/uses of the shadow state, what counts as a moon-related item, and how the automatic paralysis interacts with immunity. These powers are not appropriate as an unannounced bonus to the current rare/uncommon allowance.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.d9c720176785bcaf.JournalEntryPage.9a120087dc353e02]{Previous: Starshard Amulet - detailed source properties} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.d9c720176785bcaf.JournalEntryPage.9a9944bf65aa888b]{Next: Sunfire Gauntlet - detailed source properties}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "moonshadow"
+        }
+      },
+      "_key": "!journal.pages!d9c720176785bcaf.01e046f72235cd35"
+    },
+    {
+      "_id": "9a9944bf65aa888b",
+      "name": "Sunfire Gauntlet - detailed source properties",
+      "type": "text",
+      "sort": 400000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Sunfire Gauntlet</h1>\n<p><strong>Artefact.</strong> Golden metal engraved with solar motifs, radiating warmth and celestial light.</p>\n<p><strong>Solar Blaze:</strong> action; each creature in a 60-foot line makes a DC 20 Dexterity save: 10d10 radiant damage on failure, half on success. Once per long rest. <strong>Line width not supplied.</strong></p>\n<p><strong>Radiant Resurgence:</strong> on reaching 0 HP without being killed outright, regain all HP and gain temporary HP equal to maximum HP. Once per long rest.</p>\n<p><strong>Solar Radiance:</strong> fire resistance, advantage on saves against Blinded, bright light 30 feet and dim light a further 30 feet.</p>\n<p><strong>Solar Mastery:</strong> during the day or bright sunlight, Solar Blaze becomes 12d10 damage and Radiant Resurgence becomes once per short rest.</p>\n<p><strong>Attunement:</strong> one hour beneath an unobscured sun, concentrating on its rays.</p>\n<p><strong>Before use:</strong> clarify whether 'during the day' works indoors or underground, define the line width, and agree whether the emitted light can be suppressed. Do not let changing daylight definitions quietly refresh an expended use repeatedly.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.d9c720176785bcaf.JournalEntryPage.01e046f72235cd35]{Previous: Moonshadow Dagger - detailed source properties} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.d9c720176785bcaf.JournalEntryPage.dfcce389df0f9a05]{Next: Windwhisper Bow - detailed source properties}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "sunfire"
+        }
+      },
+      "_key": "!journal.pages!d9c720176785bcaf.9a9944bf65aa888b"
+    },
+    {
+      "_id": "dfcce389df0f9a05",
+      "name": "Windwhisper Bow - detailed source properties",
+      "type": "text",
+      "sort": 500000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Windwhisper Bow</h1>\n<p><strong>Artefact.</strong> An elven longbow engraved with feather and wind patterns.</p>\n<p><strong>Zephyr's Flight:</strong> doubles the bow's range and ignores half and three-quarters cover.</p>\n<p><strong>Gale's Fury:</strong> once per turn on a ranged hit, the target makes a DC 20 Strength save or is pushed up to 20 feet and knocked Prone.</p>\n<p><strong>Whispering Zephyrs:</strong> flying speed equal to walking speed; advantage on Stealth checks to hide outdoors and saves against Charmed or Frightened.</p>\n<p><strong>Wind's Embrace:</strong> once per long rest, as an action create a 30-foot-radius sphere centred on the wielder. Each creature in it makes DC 20 Dexterity save: 10d10 slashing damage on failure, half on success. Affected creatures are pushed 10 feet away. Winds disperse after dealing damage.</p>\n<p><strong>Attunement:</strong> one hour meditating in a secluded place with natural wind, such as a mountain or windswept forest.</p>\n<p><strong>Before use:</strong> decide whether the wielder is excluded from its own area and whether successful saves avoid the push. The overview's +2 attack bonus and extra force damage do not automatically stack with this later write-up unless the GM explicitly combines versions.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.d9c720176785bcaf.JournalEntryPage.9a9944bf65aa888b]{Previous: Sunfire Gauntlet - detailed source properties}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "windwhisper"
+        }
+      },
+      "_key": "!journal.pages!d9c720176785bcaf.dfcce389df0f9a05"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "aegis",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "05 - Optional Scenes and Lore"
+    },
+    "stillroots-song-journals": {
+      "key": "aegis",
+      "audience": "gm",
+      "group": "05 - Optional Scenes and Lore",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!d9c720176785bcaf"
+}

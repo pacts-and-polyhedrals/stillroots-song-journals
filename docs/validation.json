@@ -1,0 +1,17 @@
+{
+  "module": "stillroots-song-journals",
+  "version": "1.2.0",
+  "journals": 51,
+  "pages": 114,
+  "compendiumFolders": 9,
+  "gmJournals": 35,
+  "handouts": 16,
+  "internalLinks": 655,
+  "images": 2,
+  "sourceValidation": "passed",
+  "portableLevelDBRoundTrip": "passed",
+  "fontFiles": 3,
+  "manifestUrl": "https://github.com/pacts-and-polyhedrals/stillroots-song-journals/releases/latest/download/module.json",
+  "liveFoundryTested": false,
+  "nativeEngineTest": "requires npm run verify:native; enforced in release workflow"
+}

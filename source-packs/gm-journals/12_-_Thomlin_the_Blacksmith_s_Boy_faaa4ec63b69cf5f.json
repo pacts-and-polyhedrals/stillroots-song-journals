@@ -1,0 +1,74 @@
+{
+  "_id": "faaa4ec63b69cf5f",
+  "name": "12 - Thomlin, the Blacksmith's Boy",
+  "sort": 1300000,
+  "folder": "8d73d9572d2cba95",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "b68b3c5e3cf59eef",
+      "name": "Form A - an apprentice trying to help",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Thomlin</h1>\n<p><strong>Role:</strong> witness to a missing person; link between village histories. <strong>Location:</strong> forge. <strong>Wants:</strong> to be useful and to stop being corrected about his own apprenticeship. <strong>Knows:</strong> Oren Halden taught him; Oren's small hammer is still in its marked drawer.</p>\n<p>A soot-smudged teenager with wide green eyes, a singed glove too large for his hand and hair that never lies flat. He shifts his weight while talking, inspects everyone's damaged equipment, and offers to hold things without being asked. Make him cheerful before making him uncanny.</p>\n<h3>Voice and repeated phrases</h3>\n<p>Speak quickly, then look to an imagined adult for approval.</p>\n<p>'Mister Halden says I've got a spark. That's good, right?'</p>\n<p>'I can do that. Well... I can try.'</p>\n<p>'He keeps it in the little drawer. Everybody knows that.'</p>\n<p>'That's good, right?'</p>\n<h3>The moment to slow down</h3>\n<p>When somebody says Torbin is his only master, Thomlin gives a polite laugh. Then he checks their face. Then he checks the tool drawer. His proof is mundane: an apprenticeship agreement signed by <strong>Oren Halden</strong>, dated before Torbin took over the forge.</p>\n<p><strong>Asked to describe Oren:</strong> 'Small hands. Burn on his thumb. Never threw a bent nail away.' These particulars survive longer than the man's face. <strong>Asked where he is:</strong> Thomlin points toward Hearthhouse because Mrs. Halden will know, then looks uncertain.</p>\n<h3>What earns trust</h3>\n<p>Let him help with a safe task and acknowledge the result. He then gives the PCs the agreement voluntarily. Threatening him makes him seek Torbin, not invent a different clue.</p>\n<p><strong>Useful assistance:</strong> he identifies Torbin's earlier repair mark on the inn's antler bracket, establishing that the bracket was already damaged before Perrin died. He can fetch ordinary rope, chalk and a hammer. He is not a required combat follower.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.faaa4ec63b69cf5f.JournalEntryPage.2017f887f9791287]{Next: Form B - the shadow learns the lesson}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "a"
+        }
+      },
+      "_key": "!journal.pages!faaa4ec63b69cf5f.b68b3c5e3cf59eef"
+    },
+    {
+      "_id": "2017f887f9791287",
+      "name": "Form B - the shadow learns the lesson",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Thomlin in the dream</h1>\n<p>His lips stop a fraction before the words do. Firelight flickers in his eyes while the forge behind him is dark. One foot drags; his shadow continues to stand straight and lift an invisible hammer.</p>\n<blockquote>\n<p>'That's good, right?' Thomlin asks.</p>\n<p>His mouth has not moved.</p>\n<p>On the wall, his shadow brings down a hammer. Something rings beneath your feet. He looks toward the sound with the expression of a boy waiting to be praised.</p>\n</blockquote>\n<h3>Repeated phrases</h3>\n<p>'I had a name once. Do you remember it?'</p>\n<p>'He teaches me still. Even if he's not here anymore.'</p>\n<p>'That's good, right? That's good. Right?'</p>\n<h3>Interaction</h3>\n<p>He responds to 'apprentice' immediately but takes three beats to respond to 'Thomlin'. Showing his agreement or calling him by name while naming Oren separates the shadow from its repetitive motion. It points toward the red thread leading out of the forge.</p>\n<p><strong>Clue:</strong> the shadow strikes three different notes, then fails to strike a fourth. This previews the three organ stops and their shared core; record it as supporting evidence, not a puzzle the players must solve from sound alone.</p>\n<p><strong>No child-harm requirement:</strong> ending the dream does not require hitting Thomlin or his shadow. Blocking the shadow's hammer with a real tool, changing the rhythm, or reminding him of a completed piece of work also ends the loop.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.faaa4ec63b69cf5f.JournalEntryPage.b68b3c5e3cf59eef]{Previous: Form A - an apprentice trying to help}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "b"
+        }
+      },
+      "_key": "!journal.pages!faaa4ec63b69cf5f.2017f887f9791287"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "thomlin",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "02 - Villager Dossiers"
+    },
+    "stillroots-song-journals": {
+      "key": "thomlin",
+      "audience": "gm",
+      "group": "02 - Villager Dossiers",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!faaa4ec63b69cf5f"
+}

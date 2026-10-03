@@ -1,0 +1,74 @@
+{
+  "_id": "1f0c412a75cec824",
+  "name": "21 - Humblenook Inn: Mounted",
+  "sort": 2100000,
+  "folder": "5d25a994cbeca5af",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "95aed72ba154cee2",
+      "name": "The antler death",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Mounted</h1>\n<p><strong>Victim:</strong> Perrin Voss, adult courier. <strong>Purpose:</strong> external evidence and an impossible locked-room staging. <strong>Onward leads:</strong> Sella's measurements; Edda's register; Nella's print.</p>\n<h3>Opening the common room</h3>\n<p>Jeb thought Perrin had left before dawn. The courier's room is still paid for. His bag remains behind the desk; the innkeeper cannot explain why he did not notice it earlier.</p>\n<blockquote>\n<p>The common room smells of yesterday's fire and damp wool. Cups stand where their drinkers left them. A candle has burned down into the neck of a bottle, spilling wax over a hand nobody moved away.</p>\n<p>Above the hearth hangs a stag's head, its branching antlers dark against the plaster. At first the shape beneath it looks like a traveller's coat thrown over a beam.</p>\n<p>Then a boot turns slowly in the draught.</p>\n<p>A man has been forced onto the antlers. One branch holds him high beneath the ribs; another has caught his shoulder and turned his body toward the room. His feet hang well above the overturned chair below. His hands are open, not reaching, and one still grips the torn corner of a letter.</p>\n<p>Blood has followed the grooves in the antlers and dried along the stag's wooden face. Its glass eyes look over him, polished and indifferent.</p>\n<p>On the mantel, beneath a line of falling drops, someone has set a room key and a receipt. The receipt reads: ONE GUEST. ONE NIGHT. PAID IN FULL.</p>\n</blockquote>\n<p>Do not declare how Perrin was lifted until the party examines the scene. The original draft's contradictory inverted posture and anatomically impossible antler path have been replaced with a coherent, legible arrangement.</p>\n<h3>One unnatural detail</h3>\n<p>In the dark window the reflection shows the chair still upright. When moved into a quiet field, the reflection matches the actual room. The physical chair and corpse do not change.</p>\n<p><strong>Lower-detail version:</strong> the body hangs from the hunting trophy, partly obscured by a torn travelling cloak. Focus on the height, the receipt and the untouched floor.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.1f0c412a75cec824.JournalEntryPage.3f098c2082c1b133]{Next: The locked room can be solved}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "scene"
+        }
+      },
+      "_key": "!journal.pages!1f0c412a75cec824.95aed72ba154cee2"
+    },
+    {
+      "_id": "3f098c2082c1b133",
+      "name": "The locked room can be solved",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Perrin's last night</h1>\n<p><strong>True sequence:</strong> Perrin returned with copies of the witnesses' notes. Nella entered by the kitchen door, whose bolt Jeb habitually leaves loose. Her borrowed Gahgah-shadow lifted Perrin against the antlers while the construct arranged the chair and receipt. The room was bolted afterward using the same spectral thread. This is a specific supernatural crime, not an unexplainable 'dream did it'.</p>\n<table>\n<thead>\n<tr>\n<th>Examination</th>\n<th>Finding</th>\n<th>Inference</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Compare chair and antlers</td>\n<td>The chair is too short to reach the relevant branches</td>\n<td>He did not simply climb onto the trophy.</td>\n</tr>\n<tr>\n<td>Inspect the beam above</td>\n<td>Two broad hand-shaped soot smears; no pulley or ordinary lifting rig</td>\n<td>Something reached from above.</td>\n</tr>\n<tr>\n<td>Look at the kitchen threshold</td>\n<td>Flour print with the same missing triangle as the bakery</td>\n<td>One local visitor connects both sites.</td>\n</tr>\n<tr>\n<td>Open Perrin's bag</td>\n<td>A dated letter from outside Stillroot lists all five witnesses by name</td>\n<td>The missing people are not an illusion invented by the PCs.</td>\n</tr>\n<tr>\n<td>Read his receipt</td>\n<td>Jeb's original signature, followed by a later line in Nella's writing</td>\n<td>Two stages of handling.</td>\n</tr>\n<tr>\n<td>DC 14 Investigation</td>\n<td>The bolt has a thread-fine scrape leading to the hearth</td>\n<td>The locked door was manipulated after the attack.</td>\n</tr>\n<tr>\n<td>DC 15 Medicine</td>\n<td>Lifting and restraint marks precede the antler wounds</td>\n<td>The trophy was used to stage the killing, not a hunting accident.</td>\n</tr>\n</tbody>\n</table>\n<h3>Speak with Dead</h3>\n<p><strong>Who came in?</strong> 'The pie woman. Said Ada had sent more notes.'</p>\n<p><strong>How did you get above the hearth?</strong> 'Hands from above. Too large. There were two laughs.'</p>\n<p><strong>What did you carry?</strong> 'Names from here. Names from outside. They matched.'</p>\n<p><strong>What did she want?</strong> 'My bag. I tore the address away.'</p>\n<p><strong>Whose address?</strong> 'Edda Senn. Hearthhouse. Red register.'</p>\n<p>The letter names @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.e28a14cc133b79ee]{Hearthhouse} and @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.5291d63a5044e820]{Unraveled}. Torbin's earlier bracket invoice exonerates him while proving the fixture was sound before the assault.</p>\n<h3>Optional nightmare: Room for One</h3>\n<p>Use only instead of another dream scene. A closed bedroom contains a perfectly made bed with a breathing-shaped depression. Beneath the cover is Perrin's empty coat. In the mirror, someone still occupies it. A whisper says, 'We slept here. We still do.' His journal repeats the date of his arrival. The effect ends if the real receipt is placed beside it; reward one true detail, not another obligatory fight.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.1f0c412a75cec824.JournalEntryPage.95aed72ba154cee2]{Previous: The antler death}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "evidence"
+        }
+      },
+      "_key": "!journal.pages!1f0c412a75cec824.3f098c2082c1b133"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "inn",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "01 - Acts and Locations"
+    },
+    "stillroots-song-journals": {
+      "key": "inn",
+      "audience": "gm",
+      "group": "01 - Acts and Locations",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!1f0c412a75cec824"
+}

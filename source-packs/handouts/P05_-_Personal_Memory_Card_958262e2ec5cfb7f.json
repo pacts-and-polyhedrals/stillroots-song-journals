@@ -1,0 +1,51 @@
+{
+  "_id": "958262e2ec5cfb7f",
+  "name": "P05 - Personal Memory Card",
+  "sort": 4000000,
+  "folder": "842401b09e7690e7",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "9f5de284afced8af",
+      "name": "A few true things",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal sr-handout\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; PLAYER HANDOUT</p><h1>A few true things</h1>\n<p><strong>Character name:</strong> ______________________</p>\n<p><strong>The company knows me as:</strong> ______________________</p>\n<p><strong>Uppa once did this small thing for me:</strong> ______________________</p>\n<p><strong>A promise I intend to keep:</strong> ______________________</p>\n<p><strong>An object I carry for reasons beyond its value:</strong> ______________________</p>\n<p><strong>A memory I am comfortable having the story explore:</strong> ______________________</p>\n<p><strong>A subject I would rather the story avoid:</strong> tell the GM privately.</p>\n<p>You may keep this card. You never have to destroy or alter your real notes because the fiction says your character is uncertain.</p>\n</section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "card"
+        }
+      },
+      "_key": "!journal.pages!958262e2ec5cfb7f.9f5de284afced8af"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "p-anchors",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "player",
+      "stillrootGroup": "Player - Before the Game"
+    },
+    "stillroots-song-journals": {
+      "key": "p-anchors",
+      "audience": "player",
+      "group": "Player - Before the Game",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!958262e2ec5cfb7f"
+}

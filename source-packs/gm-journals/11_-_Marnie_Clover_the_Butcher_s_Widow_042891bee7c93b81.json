@@ -1,0 +1,74 @@
+{
+  "_id": "042891bee7c93b81",
+  "name": "11 - Marnie Clover, the Butcher's Widow",
+  "sort": 1200000,
+  "folder": "8d73d9572d2cba95",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "07f901c6c139ce24",
+      "name": "Form A - practical kindness",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Marnie Clover</h1>\n<p><strong>Role:</strong> innocent witness, food provider, credible red herring. <strong>Location:</strong> butcher's counter or bakery delivery door. <strong>Wants:</strong> everyone fed, work done, nobody touching the second place at her table. <strong>Knows:</strong> Ada recently asked for clean beeswax and stopped accepting Nella's pies.</p>\n<h3>Look and performance</h3>\n<p>A stout woman in her late fifties with sinewy forearms, a stained work apron and hair pinned back with two blunt skewers. Her face is weathered rather than cruel. She stands squarely, takes up precisely the space her work requires, and gives practical help before sympathy.</p>\n<p>Keep her voice low, gruff and unhurried. Deliver short sentences. Wipe an imaginary cleaver between subjects; stop wiping only when a question strikes a buried memory. Her normal expression is concentration, not an ominous grin.</p>\n<h3>Repeated phrases</h3>\n<p>'Folk need strength in times like these.'</p>\n<p>'You'll eat, aye?'</p>\n<p>'A clean cut's a kindness.'</p>\n<p>'No sense wasting what you've been given.'</p>\n<h3>Play the contradiction</h3>\n<p>She portions food for two, then wraps the second portion and claims it is tomorrow's lunch. Her wedding band has worn a pale channel in her finger. Asked about Garrick, she answers, 'Nobody by that name here,' while turning toward the back room as though expecting him to respond.</p>\n<p>A gentle question earns a better answer than intimidation. 'Someone taught you that recipe?' produces: 'Garrick hated too much salt.' She stops. Let the silence be hers before she denies saying a name.</p>\n<h3>At the table</h3>\n<p><strong>Offered aid:</strong> warm broth, clean cloth, shelter for a wounded companion. <strong>When accused:</strong> she puts the knife down before saying, 'Then ask your questions.' <strong>When shown Ada's wax:</strong> she confirms the purchase and the date; no check required. <strong>When frightened:</strong> her voice gets more efficient, not louder.</p>\n<p>Her knives are not proof of guilt. An injured neighbour corroborates where she was during the killings. Link her testimony to @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.5901d8f9115db498]{Ada's countermeasure} and @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.e28a14cc133b79ee]{the household register}.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.042891bee7c93b81.JournalEntryPage.73368b403907379b]{Next: Form B - the work continues}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "a"
+        }
+      },
+      "_key": "!journal.pages!042891bee7c93b81.07f901c6c139ce24"
+    },
+    {
+      "_id": "73368b403907379b",
+      "name": "Form B - the work continues",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Marnie in the dream</h1>\n<blockquote>\n<p>Marnie is still at her block. The apron you remember as stained is spotless. So is the knife. Her skin has the colour of flour left in rain, pulled tight across a face that no longer quite fits it.</p>\n<p>The cleaver falls. You hear it strike something soft. The block is empty.</p>\n<p>She looks up with two entirely white eyes. 'We've always eaten well. Haven't we?'</p>\n</blockquote>\n<p>Her movements repeat exactly, including the pause where she should push a cut aside. When questioned, she looks at a place beside the party and leaves room for someone to answer. Shapes under a folded cloth resemble faces, but lift the cloth and they are ordinary cuts of meat; the wrongness is the dream overlay, not evidence she murdered people.</p>\n<h3>Repeated phrases and escalation</h3>\n<p>First: 'You'll eat, aye?' Then: 'You ate, aye?' Finally: 'Who did you leave a place for?'</p>\n<p>'No waste. No names. No waste.'</p>\n<p>'I can still make enough for two.'</p>\n<h3>Counterplay</h3>\n<p>Name Garrick while showing the wedding photograph or second cup. Marnie's hand stops before the next cut. She says, in her own voice, 'That is his.' The scene yields one Lucid token to the party and a memory of Ada carrying wax toward the bakery. Violence is unnecessary.</p>\n<p>A successful DC 15 Insight check identifies the moment her looping speech breaks; it does not reveal a secret evil alignment. The overlay ends in a genuine quiet field. No automatic damage or poison is attached to her food.</p>\n<p><strong>Portrayal limit:</strong> Marnie is not a hag, a cannibal, or an enemy simply because the dream borrows butcher imagery.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.042891bee7c93b81.JournalEntryPage.07f901c6c139ce24]{Previous: Form A - practical kindness}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "b"
+        }
+      },
+      "_key": "!journal.pages!042891bee7c93b81.73368b403907379b"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "marnie",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "02 - Villager Dossiers"
+    },
+    "stillroots-song-journals": {
+      "key": "marnie",
+      "audience": "gm",
+      "group": "02 - Villager Dossiers",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!042891bee7c93b81"
+}

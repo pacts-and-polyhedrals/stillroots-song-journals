@@ -1,0 +1,97 @@
+{
+  "_id": "321cee58cb2e099b",
+  "name": "40 - The Giant's Den: The Bone Ring",
+  "sort": 2800000,
+  "folder": "af6d3e69f9dbf232",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "daf834351bb58b31",
+      "name": "A murder among the cells",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>The Bone Ring</h1>\n<p><strong>Optional sixth crime scene.</strong> Use if the giant's den is on your finished map, or replace a main murder site. <strong>Victim:</strong> Odran Pell, an adult gaoler who began counting prisoners the records denied. <strong>Culprit:</strong> Nella's coven-directed staging. This is not an extra required plot.</p>\n<blockquote>\n<p>The cell passage has been built for hands larger than yours. Iron bars vanish into stone blocks the size of coffins. Beyond them, a table and chair look child-sized, though they were made for ordinary people.</p>\n<p>In the open cell, bones have been arranged in a careful ring. Every long bone points toward the next, joint answering joint, until the pattern seems less like a pile of remains than a sentence you have not learned to read.</p>\n<p>A broken chair stands in the centre. On its seat rests a cracked helm covered by a pale, stretched mask. The mouth has been left open. A dark thread runs from it to a torn page on the floor.</p>\n<p>Someone has set a severed finger on the page like a bookmark. It points at a line with most of the words rubbed away. Only two remain: NAME INTACT.</p>\n<p>From somewhere inside the mask comes a breath. It is too late to belong to its owner.</p>\n</blockquote>\n<p>The mask and remains are dead matter moved by a magical tether. They are not evidence that an ordinary corpse has a trapped soul. At a veiled table use a carved mask and a bone pointer; the mystery is unchanged.</p>\n<h3>Scene truth</h3>\n<p>Odran discovered that the official prisoner count fell while the occupied cells did not. Nella silenced him and arranged a ritual message. The ring is an inverted mnemonic diagram, intended to isolate a name from recognition. The skin and bones were arranged <strong>after death</strong>. This replaces the earlier contradictory claim that he was both flayed alive and skinned after death.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.321cee58cb2e099b.JournalEntryPage.59b122fdf736e1b1]{Next: A solvable scene and the two riddles}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "scene"
+        }
+      },
+      "_key": "!journal.pages!321cee58cb2e099b.daf834351bb58b31"
+    },
+    {
+      "_id": "59b122fdf736e1b1",
+      "name": "A solvable scene and the two riddles",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>What the investigators can establish</h1>\n<p>The cell door has an ordinary functioning lock. It was opened with a key, not broken by a giant. A small incomplete shoeprint appears in ash beside the chair. Three different pressure patterns in the chalk match the three-part pattern from the crystal diagram.</p>\n<p><strong>Automatic clues:</strong> prison count scratched on the table exceeds the register by five; a pie-delivery slip is folded beneath the register; the hymn page originally concerned preserving the names of the dead. <strong>DC 14 Investigation:</strong> the bones were arranged after the chair broke. <strong>DC 15 Medicine:</strong> the ritual arrangement is postmortem. <strong>DC 15 Religion:</strong> the funerary text has been altered, not faithfully performed.</p>\n<h3>Speak with Dead</h3>\n<p>If the party provides access to Odran's remaining intact mouth, the spell works according to its normal requirements. The mask itself is not automatically a valid corpse. <strong>Who visited?</strong> 'Granny. She brought something for every occupied cell.' <strong>What did you find?</strong> 'Five more voices than names.' <strong>Who had a key?</strong> 'She gave it back before I knew she had it.' <strong>Where is the proof?</strong> 'Under the count book.' <strong>What did she say?</strong> 'A prison is easier to keep when nobody is missing.'</p>\n<h3>The mask's riddles</h3>\n<p>The following are <strong>new, cleaner versions of the two requested answer-riddles</strong>, retaining the answers UNICORN and BLOOD. The original phrasing is preserved in @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.a45d4f574d4d78a0.JournalEntryPage.f651ae5028ea95f6]{the archive}. Give @UUID[Compendium.stillroots-song-journals.handouts.JournalEntry.66a58efdddf8a7b6]{the first} and @UUID[Compendium.stillroots-song-journals.handouts.JournalEntry.5f4792a87634298a]{the second} separately.</p>\n<blockquote>\n<p>'One spear upon a brow of white,\nFour hooves that flee the hunter's sight.\nNo soldier I, though crowned for war;\nWhat woodland wonder bears no more?'</p>\n</blockquote>\n<p><strong>Answer: Unicorn.</strong> Accept the intended answer without debating literal zoology. A carved single-horned horse beside the ring provides a visual hint.</p>\n<blockquote>\n<p>'No mouth have I, yet wounds let me speak.\nI run when the body's walls grow weak.\nWithin you, hidden; spilled, bright red.\nWhat keeps the living from the dead?'</p>\n</blockquote>\n<p><strong>Answer: Blood.</strong> The cracked helm bears a painted red drop as a hint.</p>\n<p>Speak each answer or turn the matching carved symbol. Both release the black thread from the hymn page and reveal a route sketch to the well. <strong>No actual blood, animal harm or self-injury is required.</strong> A relevant dispelling effect, examination of the mechanism or removal of the ring's central pin also reveals the clue.</p>\n<p>Failure causes the mask to repeat the riddle in a familiar voice; no damage and no permanent lockout.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.321cee58cb2e099b.JournalEntryPage.daf834351bb58b31]{Previous: A murder among the cells} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.321cee58cb2e099b.JournalEntryPage.32cfc144af8038bd]{Next: The circle of bones - existing image}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "clues"
+        }
+      },
+      "_key": "!journal.pages!321cee58cb2e099b.59b122fdf736e1b1"
+    },
+    {
+      "_id": "32cfc144af8038bd",
+      "name": "The circle of bones - existing image",
+      "type": "text",
+      "sort": 300000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Existing scene artwork</h1>\n<p>This is the circle-of-bones illustration, held back for reveal after the party enters the cell. Its skull, broken chair, ring of bones and written scrap are illustrative; the exact count of drawn bones is not a coded solution.</p>\n<figure class=\"sr-art\"><img alt=\"A dark dungeon cell containing a ring of bones, a skull, a broken chair and a written scrap.\" src=\"modules/stillroots-song-journals/assets/bone-ring.webp\"/><figcaption>Reveal image: the Bone Ring.</figcaption></figure>\n<p>The riddle answers are supplied by the written handouts, not by trying to read the image's decorative writing.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.321cee58cb2e099b.JournalEntryPage.59b122fdf736e1b1]{Previous: A solvable scene and the two riddles}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "art"
+        }
+      },
+      "_key": "!journal.pages!321cee58cb2e099b.32cfc144af8038bd"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "jail",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "05 - Optional Scenes and Lore"
+    },
+    "stillroots-song-journals": {
+      "key": "jail",
+      "audience": "gm",
+      "group": "05 - Optional Scenes and Lore",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!321cee58cb2e099b"
+}

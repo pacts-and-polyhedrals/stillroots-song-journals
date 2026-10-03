@@ -1,0 +1,20 @@
+{
+  "name": "stillroots-song-journals",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Stillroot's Song - Halloween horror journals for Foundry VTT 14",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "build": "python3 tools/build.py",
+    "validate": "python3 tools/validate.py",
+    "verify:native": "node tools/native-packs.mjs",
+    "release": "python3 tools/release.py"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "3.0.4"
+  },
+  "engines": {
+    "node": ">=22.16.0"
+  }
+}

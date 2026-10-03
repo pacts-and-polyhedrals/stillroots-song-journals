@@ -1,0 +1,74 @@
+{
+  "_id": "1abafce5d3fc121a",
+  "name": "32 - Mechanical Audit: Explicit Decisions",
+  "sort": 2700000,
+  "folder": "17b62bca0a547d74",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "fe9a2e4a15aa531b",
+      "name": "Source errors are not silently rewritten",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Numerical audit</h1>\n<p>These observations follow directly from arithmetic or missing fields in the supplied blocks. Fixed HP can be used as intentional values; the parenthetical formulas then need not be rolled. A custom attack bonus may be deliberate and is not automatically 'wrong' because it differs from a standard proficiency calculation.</p>\n<table>\n<thead>\n<tr>\n<th>Source field</th>\n<th>Issue</th>\n<th>Proposed practical treatment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Babha HP 330 (40d10 + 120)</td>\n<td>Dice average is 340</td>\n<td>Use fixed 330; do not roll the contradictory formula.</td>\n</tr>\n<tr>\n<td>Mama HP 330 (40d10 + 120), CON +5</td>\n<td>Same average issue; bonus also does not match 40 dice at CON +5</td>\n<td>Use fixed 330; preserve her Constitution as supplied.</td>\n</tr>\n<tr>\n<td>Cauldron HP 200 (16d10 + 96)</td>\n<td>Average is 184; Huge size normally uses larger hit dice</td>\n<td>Use fixed 200.</td>\n</tr>\n<tr>\n<td>Hut HP 300 (24d10 + 144)</td>\n<td>Average is 276</td>\n<td>Use fixed 300.</td>\n</tr>\n<tr>\n<td>Valdershmort HP 325 (23d12 + 161)</td>\n<td>Average is 310.5; Constitution modifier differs from the formula's implied bonus</td>\n<td>Use fixed 325.</td>\n</tr>\n<tr>\n<td>Valdershmort WIS</td>\n<td>Score missing; only -4 modifier supplied</td>\n<td>Leave unresolved in actor conversion; choose and announce a score if building an Actor.</td>\n</tr>\n<tr>\n<td>Gahgah WIS 16 (+4)</td>\n<td>Score 16 normally gives +3</td>\n<td>The listed saves may be intentionally custom. Suggested base ability modifier +3, without silently changing listed save/skill bonuses.</td>\n</tr>\n<tr>\n<td>Gahgah HP 325 (22d10 + 198)</td>\n<td>Average is 319</td>\n<td>Use fixed 325.</td>\n</tr>\n<tr>\n<td>Gahgah Claw 17 (2d10 + 8)</td>\n<td>Formula averages 19</td>\n<td>Choose the supplied fixed 17 or the written dice; disclose which.</td>\n</tr>\n<tr>\n<td>Valdershmort Bite 22 (3d8 + 8)</td>\n<td>Formula averages 21.5, normally rounded down to 21</td>\n<td>Keep fixed 22 if that is the intended custom value.</td>\n</tr>\n<tr>\n<td>Hut/Gahgah passive Perception</td>\n<td>Does not transparently match base Wisdom/listed Perception</td>\n<td>Preserve fixed passive values unless the GM adopts a recalculation.</td>\n</tr>\n</tbody>\n</table>\n<p>No actors are imported by this journal pack, so none of these decisions is silently baked into a character sheet.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.1abafce5d3fc121a.JournalEntryPage.7b35092d566ad047]{Next: Unresolved abilities and suggested rulings}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "numbers"
+        }
+      },
+      "_key": "!journal.pages!1abafce5d3fc121a.fe9a2e4a15aa531b"
+    },
+    {
+      "_id": "7b35092d566ad047",
+      "name": "Unresolved abilities and suggested rulings",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Required rulings before a full-coven fight</h1>\n<p><strong>Babha - Soul Steal:</strong> no damage is given. Suggested completion: DC 22 Charisma save; failure takes 36 (8d8) necrotic damage and maximum HP is reduced by damage actually taken until a long rest; success takes no effect. Do not add soul imprisonment or temporary HP without explicitly choosing those further changes. This is a proposal, not source text.</p>\n<p><strong>Baleful polymorph:</strong> the exact spell text was not supplied. Attach the intended homebrew spell, or explicitly substitute Polymorph before play. Do not silently use effects from another game system.</p>\n<p><strong>Cackle:</strong> the source lacks repeat saves. Suggested: repeat at each affected creature's turn end. No added paralysis.</p>\n<p><strong>Summon Servants:</strong> unlimited summoning and 'other creatures of her choice' are unbounded. Choose allowed stat blocks and a maximum active group before combat. Never introduce a stronger unknown creature merely to negate the party's plan.</p>\n<p><strong>Cauldron hover:</strong> suggested: use the fly speed's hover normally and ignore the redundant Dash restriction, but label the change. No new splash attacks.</p>\n<p><strong>Hut Teleport:</strong> the original wording can take unwilling creatures within 120 feet without a stated save. Decide eligibility and save before an encounter; suggested only willing creatures or a clearly announced Charisma save for unwilling targets. Its range remains the supplied 10 miles.</p>\n<p><strong>Mama - summoned Yuan-ti:</strong> supply a number and named stat blocks. 'A unit' is not a runnable quantity. <strong>Venomous Bite:</strong> suggested use her normal +12 attack bonus and 5-foot reach. <strong>Yuan-ti Magic:</strong> either add a specific eligible known spell openly, or leave this option unavailable; the examples are not actually granted by her spell list. <strong>Recharge Innate Magic:</strong> suggested restore one expended per-day use of a chosen spell of 5th level or lower, not unlimited Power Word Kill cycles. <strong>Snake form:</strong> preserve the unusual no-bite rule unless the user chooses to change it.</p>\n<p><strong>Valdershmort legendary gaze:</strong> suggested select one creature able to see its eyes and resolve an initial gaze save; do not force an accelerated second petrification save before the stated end of its next turn. This prevents ambiguous double-triggering.</p>\n<p><strong>Gahgah normal Multiattack:</strong> not defined; suggested two claw/bite attacks as a normal action if a full actor is needed. <strong>Legendary Multiattack:</strong> costs only one point if read literally, giving up to six extra attacks per round. Suggested cost two points, clearly labelled as a balance change. <strong>Regeneration legendary action:</strong> suggested refresh the existing effect, not stack another 20 per round with itself. Acid remains the suppressor. <strong>Headbutts:</strong> suggested +15 to hit, 19 (2d10 + 8) bludgeoning before the stated save. <strong>Spellcasting:</strong> suggested Charisma, DC 19, but the source did not say this.</p>\n<p><strong>Riders and mounts:</strong> the source grants access to mount abilities without defining action economy. Suggested use independent creatures with their own turns; a rider does not gain a duplicate set of attacks simply by sitting on the mount. Mounted AC bonuses apply exactly as supplied. Do not double-count rider and mount regeneration.</p>\n<h3>Why the level-10 finale is separate</h3>\n<p>These unresolved actions, extremely high damage and multiple legendary-action pools make numerical CR labels insufficient for an honest balance claim. The recommended one-shot objective attacks the ritual, while these full sources remain intact for later campaign use.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.1abafce5d3fc121a.JournalEntryPage.fe9a2e4a15aa531b]{Previous: Source errors are not silently rewritten}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "rulings"
+        }
+      },
+      "_key": "!journal.pages!1abafce5d3fc121a.7b35092d566ad047"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "audit",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "04 - Coven and Creatures"
+    },
+    "stillroots-song-journals": {
+      "key": "audit",
+      "audience": "gm",
+      "group": "04 - Coven and Creatures",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!1abafce5d3fc121a"
+}

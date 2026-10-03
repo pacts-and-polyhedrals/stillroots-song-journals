@@ -1,0 +1,21 @@
+STILLROOT'S SONG - RIGHTS NOTICE
+
+Copyright DM Asmo / Pacts & Polyhedrals. All rights reserved.
+
+The adventure text, handouts, illustrations and module code may be downloaded
+and used to run the adventure at your own table. This package does not grant
+a general public redistribution, resale, or open-source license.
+
+Third-party product names, trademarks, source concepts, and any third-party
+materials remain subject to their respective rights. No affiliation with or
+endorsement by Foundry Gaming LLC or Wizards of the Coast is implied.
+
+The two bundled illustrations were produced for this adventure. No third-party
+stock image files are included.
+
+The bundled Cinzel and EB Garamond font files are licensed under the SIL Open
+Font License 1.1; see assets/fonts/OFL.txt. That license applies to the font
+files only.
+
+Build dependencies such as the official Foundry VTT CLI and classic-level
+are not bundled with the runtime module and retain their own licenses.

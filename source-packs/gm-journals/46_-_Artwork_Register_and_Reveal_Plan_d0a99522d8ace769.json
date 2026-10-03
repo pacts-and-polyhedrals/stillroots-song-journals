@@ -1,0 +1,74 @@
+{
+  "_id": "d0a99522d8ace769",
+  "name": "46 - Artwork Register and Reveal Plan",
+  "sort": 3400000,
+  "folder": "d39d910aebbb81fd",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "288761017ba59473",
+      "name": "What is actually included",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Existing artwork</h1>\n<p>Two illustrations are included as optimised WebP files. No additional portraits or maps are part of this module.</p>\n<table>\n<thead>\n<tr>\n<th>Asset</th>\n<th>Use</th>\n<th>Reveal policy</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>arrival.webp</td>\n<td>Battle-worn adventurers outside the forest, village beyond</td>\n<td>Suitable for the introduction and player welcome.</td>\n</tr>\n<tr>\n<td>bone-ring.webp</td>\n<td>Skull, broken chair and circle of bones in a cell</td>\n<td>Show only after the optional jail discovery.</td>\n</tr>\n</tbody>\n</table>\n<p>The arrival illustration is atmospheric reference, not a literal portrait of the players' chosen characters. Do not assign the depicted species, clothing or party composition to their sheets.</p>\n<p>The village map is the GM's own Inkarnate creation and is not bundled. This pack supplies a location index and linked room keys, but does not invent a Scene, map image, wall layout or coordinate data.</p>\n<h3>Foundry use</h3>\n<p>This module includes both images in its assets folder. Their paths work in the compendiums and in newly imported journals. Existing journal edits are never overwritten; the module hub can attach missing supplied art on request.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.d0a99522d8ace769.JournalEntryPage.e22ee16737cdcf13]{Next: Remaining art brief, not completed assets}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "existing"
+        }
+      },
+      "_key": "!journal.pages!d0a99522d8ace769.288761017ba59473"
+    },
+    {
+      "_id": "e22ee16737cdcf13",
+      "name": "Remaining art brief, not completed assets",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Optional production checklist</h1>\n<p><strong>Coven portraits:</strong> Babha as Malevolent Matriarch, alone and riding her cauldron; Mama as snake-haired yuan-ti/hag and riding Valdershmort; Gahgah as a massive two-headed troll-hag and riding Gargantua. Keep mounts separate from portrait tokens. Do not use the superseded Dream-Knotter/Gristle-Mother/Hush-Walker redesigns.</p>\n<p><strong>Constructs and mounts:</strong> flying iron cauldron; bird-legged hut; huge basilisk Valdershmort; tarrasque Gargantua. Show relative scale consistently.</p>\n<p><strong>Village cast:</strong> paired A/B portraits for Marnie, Thomlin, Ervin, Naya with Coppers, and Torbin; paired disguises for Nella; Mrs. Halden as an innocent elder; Jonas with notebook; Uppa as a verdan bard. Stable faces and costumes across both forms are essential.</p>\n<p><strong>Main creature:</strong> six almost-human faces on long pallid necks, semi-translucent flesh, closed mouth seams opening to sing; dark or blank eye regions consistent with the campaign's custom design. This is the local dreambound variant, not a universal description of every false hydra.</p>\n<p><strong>Locations:</strong> square, inn common room, bakery, chapel, Hearthhouse sunroom, tailor, forge, orchard, graveyard, crystals, ruins/cellar, jail; dream counterparts for Sleep Pit, Forgotten Faces, Bone Chimes, Mirror Chapel, Memory Loom, shared trial and organ arena. Existing maps do not replace optional mood illustrations, but these illustrations are not needed to run the pack.</p>\n<p><strong>Props:</strong> named keepsakes, red thread, wax ear-stoppers, delivery slips, repaired cuff, cracked resonator, bone organ, Lucid coin/card. The written handouts already carry the real clues; decorative runes should never be the only readable version.</p>\n<p><strong>Style:</strong> dark-fantasy, grim comic-book ink work with strong silhouettes. Form A should remain human and believable. Reserve the greatest distortion for the dream. Use clean readable contrast rather than making every picture so dark it hides all evidence.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.d0a99522d8ace769.JournalEntryPage.288761017ba59473]{Previous: What is actually included}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "needed"
+        }
+      },
+      "_key": "!journal.pages!d0a99522d8ace769.e22ee16737cdcf13"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "art",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "06 - Production and Archive"
+    },
+    "stillroots-song-journals": {
+      "key": "art",
+      "audience": "gm",
+      "group": "06 - Production and Archive",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!d0a99522d8ace769"
+}

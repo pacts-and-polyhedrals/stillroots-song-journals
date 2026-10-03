@@ -1,0 +1,74 @@
+{
+  "_id": "aee1f0bbefed24bb",
+  "name": "14 - Naya and Coppers",
+  "sort": 1500000,
+  "folder": "8d73d9572d2cba95",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "78ca806986b552ac",
+      "name": "Form A - a small, reliable observation",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Naya, the nervous child</h1>\n<p><strong>Role:</strong> a witness whose literal observations adults dismiss. <strong>Location:</strong> inn steps or Hearthhouse garden. <strong>Wants:</strong> her rabbit repaired and the adults to stop telling her what she did not see. <strong>Knows:</strong> Nella visits after dark and her shadow does not carry the basket when she does.</p>\n<p>Naya is about seven, with tangled hair, a mended coat and a stuffed rabbit called <strong>Coppers</strong>. One button eye is slightly larger than the other. She holds him with both arms and turns him toward a speaker before answering.</p>\n<p>Use a quiet, direct voice, not a caricature or constant eerie nursery rhyme. She can be frightened and still precise. She knows some PC names because she heard them at the inn; do not make all her knowledge supernatural.</p>\n<h3>Phrases</h3>\n<p>'Coppers says you shouldn't go near the well.'</p>\n<p>'I'm telling you the seeing part. Not the dreaming part.'</p>\n<p>'She had the basket. Her shadow didn't.'</p>\n<p>'Will you ask him? He doesn't like shouting.'</p>\n<h3>Earn her evidence</h3>\n<p>Kneel, wait, or address Coppers respectfully. Naya points to the three stitched triangles on the rabbit's repaired foot. Sella made the same repair on Nella's cuff; Naya saw it. She also describes the little clear stone stuck in Nella's shoe.</p>\n<p>Let an adult corroborate that Naya was awake at the window. She should be a useful witness, not the only route to the culprit. Refusing her request does not harm her; another path supplies the same clue.</p>\n<p><strong>Boundary:</strong> Naya is not a victim, bait who automatically dies, or a disguised hag. Her dream overlay is not her true nature.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.aee1f0bbefed24bb.JournalEntryPage.17391975dc1f0b05]{Next: Form B - a shadow too tall}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "a"
+        }
+      },
+      "_key": "!journal.pages!aee1f0bbefed24bb.78ca806986b552ac"
+    },
+    {
+      "_id": "17391975dc1f0b05",
+      "name": "Form B - a shadow too tall",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Naya in the dream</h1>\n<blockquote>\n<p>Coppers turns his head before Naya does.</p>\n<p>There is no sound of cloth moving. One button eye fixes on the last person who spoke. Naya looks up at you, and the shadow behind her rises far above the doorframe.</p>\n<p>'You dropped your name,' she says. A much older voice finishes the question with her. 'Should I keep it for you?'</p>\n</blockquote>\n<p>Keep the child still. Describe the shadow moving rather than performing an exaggerated demonic child. Her eyes briefly reflect an agreed fictional fear; avoid introducing a player's undisclosed personal trauma.</p>\n<h3>Phrases</h3>\n<p>'Coppers remembers what you forgot.'</p>\n<p>'Count us before you go.'</p>\n<p>'Who will know you came back?'</p>\n<h3>Resolution</h3>\n<p>The rabbit is a dream object, not a creature that needs to be killed. A PC can tell Naya a harmless true thing about themselves and ask her to repeat it. When she does, the tall shadow shrinks to the right size and the party gains one Lucid token.</p>\n<p><strong>Clue:</strong> Coppers points at three absent places around a table and then at the empty fourth place in the middle. This is a visual echo of three controls shielding one core. Give the same information in words if the player needs it.</p>\n<p>The voice uses Naya's likeness, but the real girl remains safe wherever the party left her in the waking village.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.aee1f0bbefed24bb.JournalEntryPage.78ca806986b552ac]{Previous: Form A - a small, reliable observation}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "b"
+        }
+      },
+      "_key": "!journal.pages!aee1f0bbefed24bb.17391975dc1f0b05"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "naya",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "02 - Villager Dossiers"
+    },
+    "stillroots-song-journals": {
+      "key": "naya",
+      "audience": "gm",
+      "group": "02 - Villager Dossiers",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!aee1f0bbefed24bb"
+}

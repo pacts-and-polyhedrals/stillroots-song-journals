@@ -1,0 +1,120 @@
+{
+  "_id": "ba872b141c8533da",
+  "name": "02 - House Rules, Terror and Dream Logic",
+  "sort": 300000,
+  "folder": "ca0320f726c0fc33",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "f27d18fd7486c1d9",
+      "name": "House rules: source and operational notes",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Your house rules</h1>\n<p>These are the table's house rules as written, not automated effects. Announce all interpretations before play.</p>\n<table>\n<thead>\n<tr>\n<th>Rule</th>\n<th>Player-facing statement</th>\n<th>Implementation note</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Powerful criticals</td>\n<td>Critical hits deal maximum damage.</td>\n<td>Your original wording did not distinguish maximising the whole critical pool from maximising only its normal dice. <strong>Proposed default:</strong> maximise all dice that belong to the critical hit; add ordinary modifiers once. A 1d8 + 4 weapon crit is 20, not 12. Select a different interpretation openly before play.</td>\n</tr>\n<tr>\n<td>Critical failures</td>\n<td>A natural 1 on an attack may lose a weapon or cause harm to self or an ally.</td>\n<td>Only attack rolls trigger this house rule, not ability checks or saves. Telegraph the fictional risk; do not invent a full extra critical hit as the penalty.</td>\n</tr>\n<tr>\n<td>Self-administered potions</td>\n<td>Drinking your own potion uses a bonus action.</td>\n<td>Applies as your table rule regardless of which edition of an item is loaded.</td>\n</tr>\n<tr>\n<td>Feeding an ally</td>\n<td>Administering a potion uses one action.</td>\n<td>Use normal reach and access to the creature.</td>\n</tr>\n<tr>\n<td>Potion maximum</td>\n<td>Healing potions restore their maximum listed healing.</td>\n<td>A standard 2d4 + 2 potion restores <strong>10 hit points</strong>.</td>\n</tr>\n<tr>\n<td>Potion toxicity</td>\n<td>More than one potion in an hour calls for the toxicity chart.</td>\n<td>The actual chart was not supplied. A clearly optional substitute is on the next page.</td>\n</tr>\n<tr>\n<td>Quick combat checks</td>\n<td>Basic Insight, Perception and similar observations are usually free.</td>\n<td>A complex search, experiment or prolonged examination may use an action; multitasking can impose disadvantage or a declared situational cost.</td>\n</tr>\n<tr>\n<td>Stackable Inspiration</td>\n<td>Inspiration can accumulate; committed roleplay and costly character choices earn it.</td>\n<td>Die size and spending limit were not supplied. <strong>Proposed default:</strong> bank d6s; spend one on an attack, save or check after rolling but before resolution. This is separate from Bardic Inspiration and the system's default Inspiration toggle.</td>\n</tr>\n<tr>\n<td>Blind death saves</td>\n<td>Only the GM knows the death-save results.</td>\n<td>Use the appropriate blind GM roll setting; do not put death-save tallies in a public journal or public chat card.</td>\n</tr>\n</tbody>\n</table>\n<h3>Fair critical failures: proposed limit</h3>\n<p>At most one fumble consequence per creature per turn. Offer a choice between a dropped unsecured item, a compromised position, or modest collateral damage appropriate to the scene. An ally hit should be a small glancing injury, not another character's complete attack routine. This limit is a suggested protection against disproportionately punishing characters with many attacks; it was not part of the original wording.</p>\n<h3>Optional replacement toxicity chart</h3>\n<p>Roll once for each potion after the first within a rolling hour. This is <strong>new homebrew</strong>, provided because the original chart was absent. Magical healing still happens; side effects do not retroactively cancel it.</p>\n<table>\n<thead>\n<tr>\n<th>d6</th>\n<th>Side effect</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Metallic nausea: disadvantage on your next ability check within 10 minutes.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Unsteady legs: speed reduced by 10 feet for 1 minute.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Blurred edges: disadvantage on sight-based Perception for 10 minutes.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Shivering hands: disadvantage on your next weapon attack within 1 minute.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Bitter aftertaste and audible hiccups for 10 minutes; no mechanical penalty.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Your body tolerates the mixture; no additional effect.</td>\n</tr>\n</tbody>\n</table>\n<p>Repeated copies of the same side effect refresh duration instead of stacking. Replace this table with your actual Acq Inc. toxicity chart when available.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da.JournalEntryPage.2ea44ce04bf246b0]{Next: Terror: six stages with playable recovery}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "house"
+        }
+      },
+      "_key": "!journal.pages!ba872b141c8533da.f27d18fd7486c1d9"
+    },
+    {
+      "_id": "2ea44ce04bf246b0",
+      "name": "Terror: six stages with playable recovery",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Terror track - proposed table-ready edition</h1>\n<p>The first draft introduced a six-stage track but left triggers and recovery vague. This version keeps the escalating debuff concept while avoiding permanent loss of turns or automatic death. <strong>It is a proposed revision; adjust the numbers to suit your table.</strong> The earlier severe version is preserved in @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.a45d4f574d4d78a0.JournalEntryPage.15fd39142e0136dd]{the archive}.</p>\n<p>Start at <strong>0</strong>. A significant, new supernatural shock may call for a <strong>DC 15 Wisdom save</strong>; use DC 16 for direct coven contact. Failure adds one stage. No more than one Terror save per PC per scene, and never repeated saves for repeatedly looking at the same corpse. Immunity to Frightened grants advantage on Terror saves, but Terror is a separate house-rule track. Bonuses and protections otherwise work normally.</p>\n<p><strong>Effects are cumulative.</strong> Do not also use the old Memory Sync penalties: memory loss here is narrative, with @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da.JournalEntryPage.fff2165a855d8ceb]{lucidity} as its counterweight.</p>\n<table>\n<thead>\n<tr>\n<th>Stage</th>\n<th>Name</th>\n<th>Added effect</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>0</td>\n<td>Grounded</td>\n<td>No penalty.</td>\n</tr>\n<tr>\n<td>1</td>\n<td>Unnerved</td>\n<td>-2 to initiative checks made while at this stage or higher.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Shaken</td>\n<td>Disadvantage on Perception checks that depend on a sense currently involved in the horror. The GM names the affected sense.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Disturbed</td>\n<td>Speed reduced by 10 feet, to a minimum of 10 feet.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Fractured</td>\n<td>-2 to attack rolls.</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Overwhelmed</td>\n<td>You cannot take reactions.</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Panic</td>\n<td>At the start of your turn choose to seek visible cover or move away from the source if possible. You may still act. After one minute, or when the threat is out of sight and hearing, return to stage 5. No automatic unconsciousness or death saves.</td>\n</tr>\n</tbody>\n</table>\n<h3>Recovery that players can plan around</h3>\n<p><strong>Grounding:</strong> an adjacent ally uses an action and an established shared memory; the frightened character attempts a DC 12 Wisdom save, reducing Terror by one on success. Each character can benefit once per scene. A Lucid token may make this save succeed.</p>\n<p><strong>Genuine respite:</strong> ten uninterrupted minutes with a willing companion in a demonstrably secure place reduces Terror by one, once between major encounters. A completed safe short rest reduces it by one instead, not an additional one. A safe long rest clears it. The party's first refuge is genuinely safe if they secure it.</p>\n<p><strong>Restoration:</strong> as adventure-specific rulings, Lesser Restoration reduces one stage and Greater Restoration clears the track. Calm Emotions suppresses the penalties while its relevant calming effect is maintained; it does not erase earned stages. State these interactions before the session.</p>\n<p><strong>Breakthrough:</strong> disabling an organ stop removes one Terror stage from each PC, once per stop. Destroying the core clears all remaining Terror.</p>\n<h3>Manual tracking</h3>\n<p>Write 'Terror 0-6' in a private character note or use the editable @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{GM session tracker}. This pack does not install Active Effects, alter actors or automatically deduct resources.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da.JournalEntryPage.f27d18fd7486c1d9]{Previous: House rules: source and operational notes} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da.JournalEntryPage.fff2165a855d8ceb]{Next: Memory, lucidity and the song}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "terror"
+        }
+      },
+      "_key": "!journal.pages!ba872b141c8533da.2ea44ce04bf246b0"
+    },
+    {
+      "_id": "fff2165a855d8ceb",
+      "name": "Memory, lucidity and the song",
+      "type": "text",
+      "sort": 300000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>The dream has rules</h1>\n<p><strong>Recognition, not reality erasure:</strong> the song makes certain things difficult for affected characters to connect. State a sensation, offer a choice, and preserve their ability to investigate. 'You cannot remember meeting him, but the signed note in your hand is real' is playable. 'You never found that note' is not.</p>\n<h3>Lucid tokens</h3>\n<p>Each PC begins with <strong>one Lucid token</strong>, maximum three held. Award one for preserving an endangered witness, establishing a reliable countermeasure, recovering a named keepsake, or helping a companion reject a false memory. Award once per discovery, not once per repeated description.</p>\n<p>Spend a token to do one of the following: succeed on a save against an adventure-specific memory illusion or Terror; remember a fact the character has genuinely learned; or make one minor dream detail conform to an established memory. The last use can provide a handrail, a light, a familiar tool, or a route marker, but cannot create a weapon of unlimited damage or erase a boss.</p>\n<p>A token is not required to act on notes, talk to a friend, or recall their own name under ordinary circumstances.</p>\n<h3>Form A and Form B</h3>\n<p><strong>Form A</strong> is a villager in waking life under a perceptual haze. <strong>Form B</strong> is a dream overlay using that villager's image. Seeing a Form B does not mean the innocent person has transformed into a monster or deserves an attack. Nella is the exception: her unmasking reveals an actual construct.</p>\n<p>Mark transitions consistently with two cues: the four-note hum stops halfway through its phrase; reflections move one heartbeat late. Let a successful countermeasure end the overlay. Do not switch states merely to invalidate a successful player action.</p>\n<h3>Hearing protection and Silence</h3>\n<p>For this homebrew creature, ordinary effective hearing protection grants advantage on song-related saves. A Deafened creature or one inside magical Silence is <strong>not affected by the audible recognition song</strong> while that condition lasts. This does not automatically end an already established dream tether; the party must deal with the organ or its local anchors. That distinction is a declared property of this adventure, not a retroactive excuse.</p>\n<p>NPCs inside a quiet field regain the ability to connect current evidence. Already missing memories return gradually with names, keepsakes and the destruction of the focus. Test results are repeatable.</p>\n<h3>Entering deliberately</h3>\n<p>Jonas's lucid crossing works for willing sleepers, meditating characters and creatures that do not need normal sleep. It is an adventure ritual, not a misuse of the Dream spell. Everyone keeps their normal abilities, equipment and agency. The shared dream is anchored to a physical cistern; characters may instead reach it through the actual tunnels.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da.JournalEntryPage.2ea44ce04bf246b0]{Previous: Terror: six stages with playable recovery} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da.JournalEntryPage.df8d3611860d6c82]{Next: Do not punish useful magic}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "dreams"
+        }
+      },
+      "_key": "!journal.pages!ba872b141c8533da.fff2165a855d8ceb"
+    },
+    {
+      "_id": "df8d3611860d6c82",
+      "name": "Do not punish useful magic",
+      "type": "text",
+      "sort": 400000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Magic at the table</h1>\n<p>The numerical spell references in this edition use the <strong>2014 rules</strong> where a version must be specified. Foundry's <strong>D&amp;D5e system version 5.3.3 is software, not an edition choice</strong>. Use the exact spell text in the world when the group uses 2024 rules. Adventure-specific exceptions below are labelled, and never silently replace a spell.</p>\n<p><strong>Speak with Dead:</strong> an intact mouth can answer what the victim knew. A missing or imprisoned soul is not, by itself, a reason to block this spell: it does not return that soul. Each crime scene includes five usable answers. A magically moving corpse is not automatically an undead creature; identify whether it is an animated object, illusion or undead before resolving targeting. [Rules reference: D&amp;D Beyond, Speak with Dead (2014).]</p>\n<p><strong>Raise Dead and Uppa:</strong> resolve the actual requirements, not a contrived refusal from the priest. Under the 2014 spell, the death must be within ten days, the soul willing and free, and vital missing parts prevent success. The consumed diamond is worth at least 500 gp. See @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.9848b98a77681d3a.JournalEntryPage.b4f049079525ebfb]{Uppa's options}. [Rules reference: D&amp;D Beyond, Raise Dead (2014).]</p>\n<p><strong>Detect Magic:</strong> reveals relevant magic and auras within its ordinary limitations; it is not an all-town compass. The scene notes distinguish magical residue from mundane evidence. Physical clues remain useful to noncasters.</p>\n<p><strong>Dispel Magic:</strong> when a scene calls a tether a spell effect of 4th level, treat it as exactly that for dispelling. Dispel Magic does not normally erase every supernatural monster trait. The organ stops explicitly provide their own dispel option.</p>\n<p><strong>Zone of Truth:</strong> Nella may evade, fall silent or reveal a carefully limited truth if the effect applies and her save fails. Do not invent immunity. Innocent witnesses genuinely misremembering are not intentionally lying.</p>\n<p><strong>Protection from Evil and Good:</strong> apply its actual protections against the creature types it names. Here, Nella's possession attempt is labelled fiendish; protections that prevent possession stop that attempt. This does not grant immunity to all investigative horror or physical attacks.</p>\n<p><strong>Locate Creature, divination, truesight and teleportation:</strong> respect their text, range, requirements and limits. A strong answer can skip a room. Truesight exposes applicable illusions; it does not generically erase a memory effect. Teleportation within the dream moves normally unless a specific ward has been identified in advance. Escape from Stillroot is possible; the remaining consequence is what happens to the people left behind, not an invisible wall.</p>\n<p><strong>Counterspell:</strong> only actual spellcasting can be counterspelled. Nella's tether explicitly counts as a spell when cast; the hydra's bite does not. Label these before dice are rolled.</p>\n<h3>Source links</h3>\n<p><a href=\"https://www.dndbeyond.com/spells/2259-speak-with-dead\">https://www.dndbeyond.com/spells/2259-speak-with-dead</a></p>\n<p><a href=\"https://www.dndbeyond.com/spells/2224-raise-dead\">https://www.dndbeyond.com/spells/2224-raise-dead</a></p>\n<p><a href=\"https://raw.githubusercontent.com/foundryvtt/dnd5e/release-5.3.3/system.json\">https://raw.githubusercontent.com/foundryvtt/dnd5e/release-5.3.3/system.json</a></p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da.JournalEntryPage.fff2165a855d8ceb]{Previous: Memory, lucidity and the song}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "magic"
+        }
+      },
+      "_key": "!journal.pages!ba872b141c8533da.df8d3611860d6c82"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "rules",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "00 - Run the Game"
+    },
+    "stillroots-song-journals": {
+      "key": "rules",
+      "audience": "gm",
+      "group": "00 - Run the Game",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!ba872b141c8533da"
+}

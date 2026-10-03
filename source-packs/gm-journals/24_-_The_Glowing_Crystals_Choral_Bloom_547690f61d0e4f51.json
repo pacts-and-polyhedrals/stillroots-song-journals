@@ -1,0 +1,74 @@
+{
+  "_id": "547690f61d0e4f51",
+  "name": "24 - The Glowing Crystals: Choral Bloom",
+  "sort": 2400000,
+  "folder": "5d25a994cbeca5af",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "ff3ec678f1ef5cf0",
+      "name": "A voice in the mineral",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Choral Bloom</h1>\n<p><strong>Victim:</strong> Corven Flint, adult crystal tuner and quarry worker. <strong>Purpose:</strong> reveal the three-control structure and another entrance beneath the village. <strong>Location:</strong> the glowing formation already on the map; it may be a cave or open glade.</p>\n<blockquote>\n<p>The glow shows through the trees before the clearing does. Pale blue light rests along the edges of leaves without illuminating their centres. The air is cooler here. When you stop walking, the faint ringing does not stop with you.</p>\n<p>Crystals rise from the earth in angled clusters, clear near their tips and clouded deeper inside. At the centre stands one larger growth. A boot shows through it. Then the folded outline of a coat. Then a face, held just beneath the mineral surface.</p>\n<p>The man inside has one hand raised toward a fracture above his head. His lips are parted around a note that never reached the air. Near his chest, tiny clear branches have grown outward like a second set of ribs.</p>\n<p>On the ground lies a tuning hammer, its handle worn by years of use. Beside it, three small crystals have been arranged around an empty ring.</p>\n<p>Your last footstep returns from the formation a moment late. Then it returns again, in a rhythm you did not make.</p>\n</blockquote>\n<p>At agreed higher intensity, the crystal can reveal where flesh and mineral have become inseparable. There is no need for an additional impalement image. The terror is an adult still trying to reach daylight from inside something transparent.</p>\n<h3>Interactive escalation</h3>\n<p>The formation repeats a word the characters have actually spoken, in that speaker's voice. It cannot reveal facts no one present has said or thought through an established effect. Silencing or damping a branch stops that branch's playback, proving the mechanism is local and testable.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.547690f61d0e4f51.JournalEntryPage.c2c4e7d5cb9f7d2e]{Next: Three notes, one focus}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "scene"
+        }
+      },
+      "_key": "!journal.pages!547690f61d0e4f51.ff3ec678f1ef5cf0"
+    },
+    {
+      "_id": "c2c4e7d5cb9f7d2e",
+      "name": "Three notes, one focus",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Corven's experiment</h1>\n<p><strong>True sequence:</strong> Corven measured the resonances beneath Stillroot. He discovered that three separate patterns feed a fourth central pulse. Nella arrived to retrieve his diagram; the coven's magic grew the formation around him before he could escape.</p>\n<table>\n<thead>\n<tr>\n<th>Examination</th>\n<th>Finding</th>\n<th>Inference</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Pick up the tuning hammer</td>\n<td>A written tally wrapped around the handle</td>\n<td>He was measuring, not worshipping.</td>\n</tr>\n<tr>\n<td>Read the chalk diagram</td>\n<td>Three controls labelled NAMES, TRUST, FLESH; a central empty circle</td>\n<td>The organ has three breakable stops and one core.</td>\n</tr>\n<tr>\n<td>Dampen a small branch</td>\n<td>Its echo stops; the other two continue</td>\n<td>Each control can be interrupted independently.</td>\n</tr>\n<tr>\n<td>Compare crystal fragments</td>\n<td>A clear splinter matches the fragment in Nella's heel</td>\n<td>Her presence connects this site to the village killings.</td>\n</tr>\n<tr>\n<td>Follow the cold draught</td>\n<td>A crawlable fissure leads into the cistern route</td>\n<td>Physical entry is possible without forced sleep.</td>\n</tr>\n<tr>\n<td>DC 15 Investigation or a relevant craft proficiency</td>\n<td>The fourth pulse only sounds after all three controls answer</td>\n<td>Explains the core's protection.</td>\n</tr>\n</tbody>\n</table>\n<h3>Speaking with Corven</h3>\n<p>His mouth is behind a thin, cracked layer, not destroyed. Carefully opening access with tools takes a few minutes and is possible without mutilating the corpse. Relevant magic may also provide access. Do not present an intact mouth while arbitrarily banning the spell.</p>\n<p><strong>Who came?</strong> 'Nella. The basket left a wet mark on the chalk.'</p>\n<p><strong>What did you find?</strong> 'Three voices. One throat beneath the well.'</p>\n<p><strong>What stops it?</strong> 'Break the three replies. Then strike the heart of the sound.'</p>\n<p><strong>Can we block it?</strong> 'Yes. Dampen one branch. Hear the gap.'</p>\n<p><strong>Where is the entrance?</strong> 'Behind the roots. Follow the cold air, not the echo.'</p>\n<h3>A bounded hazard</h3>\n<p>If someone deliberately strikes the large growth without damping it first, a resonance pulse calls for a DC 15 Constitution save: 11 (2d10) thunder damage on failure, half on success. Warn of the rising vibration before the blow. The hazard can trigger once per round, not once per attack; ordinary investigation is safe. Deafness does not confer immunity to damaging vibration, although Silence prevents thunder damage according to the spell's effect.</p>\n<p>Bring the diagram to @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.0372dd61e62dfc2b]{the organ encounter} or give it as @UUID[Compendium.stillroots-song-journals.handouts.JournalEntry.9059f0c5a20e7ecf]{a player handout}.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.547690f61d0e4f51.JournalEntryPage.ff3ec678f1ef5cf0]{Previous: A voice in the mineral}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "evidence"
+        }
+      },
+      "_key": "!journal.pages!547690f61d0e4f51.c2c4e7d5cb9f7d2e"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "crystal",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "01 - Acts and Locations"
+    },
+    "stillroots-song-journals": {
+      "key": "crystal",
+      "audience": "gm",
+      "group": "01 - Acts and Locations",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!547690f61d0e4f51"
+}

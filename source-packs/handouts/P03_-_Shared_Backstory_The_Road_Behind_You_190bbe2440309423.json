@@ -1,0 +1,51 @@
+{
+  "_id": "190bbe2440309423",
+  "name": "P03 - Shared Backstory: The Road Behind You",
+  "sort": 3800000,
+  "folder": "842401b09e7690e7",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "daebff4c19bb2a81",
+      "name": "An established company",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal sr-handout\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; PLAYER HANDOUT</p><h1>The road behind you</h1>\n<p>You have travelled together long enough to recognise one another's footfalls. Whatever first brought you into the company - a contract, a favour, a rescue or a debt - you stayed. Uppa Kase made staying easier. The verdan bard collected stories as if nobody ought to leave the world without somebody knowing they had been in it.</p>\n<p>The last job should have been simple: investigate a long-abandoned shrine and the presence haunting its ruins. Instead, you found a spirit troll. Ordinary courage did not make its wounds stay closed. The fight became a contest of endurance, spent spells and desperate improvisation, until at last you brought it down.</p>\n<p>Uppa did not rise with you. His voice stopped during the final struggle. Afterwards, in the sudden absence of that voice, you worked together to recover him. There was no argument about leaving him behind.</p>\n<p>Now his body lies wrapped in his own cloak, his instrument tied beside him. You are hurt, exhausted and carrying a companion who used to insist every arrival deserved an announcement. Someone remembers a village beyond the woods: Stillroot Hollow. An inn. A chapel. A priest who might still be able to help.</p>\n<p>You are not coming to Stillroot to hunt monsters. You are coming because you have already fought one, and the price was too high.</p>\n<h3>Add your part</h3>\n<p>What made you join this company? What small kindness did Uppa show you? What did you do that helped someone survive the spirit troll? What ordinary promise are you determined to keep if he wakes again?</p>\n<p>Leave room for the other players' answers. This is a shared history, not a competition over who suffered most or whose backstory controls the party.</p>\n</section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "backstory"
+        }
+      },
+      "_key": "!journal.pages!190bbe2440309423.daebff4c19bb2a81"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "p-backstory",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "player",
+      "stillrootGroup": "Player - Before the Game"
+    },
+    "stillroots-song-journals": {
+      "key": "p-backstory",
+      "audience": "player",
+      "group": "Player - Before the Game",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!190bbe2440309423"
+}

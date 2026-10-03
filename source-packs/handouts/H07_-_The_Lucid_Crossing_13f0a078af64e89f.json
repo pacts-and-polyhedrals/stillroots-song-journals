@@ -1,0 +1,51 @@
+{
+  "_id": "13f0a078af64e89f",
+  "name": "H07 - The Lucid Crossing",
+  "sort": 4700000,
+  "folder": "6bbdde26a71965b0",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "4965536b7a96ffcb",
+      "name": "A voluntary passage",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal sr-handout\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; PLAYER HANDOUT</p><h1>The lucid crossing</h1>\n<p>Secure a place to return to.</p>\n<p>Tie the red cord to something real. Lay it across your wrists; it must not bind you.</p>\n<p>Keep an ordinary light burning.</p>\n<p>Each willing participant speaks one remembered truth. It need not be a secret or a painful one.</p>\n<p>Close your eyes, sleep, trance or grow still. Hold the cord. Follow the door that opens.</p>\n<p>The dream does not restore spent strength. Wounds suffered there can reach the waking body. A return is possible at the marked threshold if you can keep it undisturbed for a minute.</p>\n<p>No one enters because another person consented for them.</p>\n</section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "ritual"
+        }
+      },
+      "_key": "!journal.pages!13f0a078af64e89f.4965536b7a96ffcb"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "h-crossing",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "player",
+      "stillrootGroup": "Player - Reveal Handouts"
+    },
+    "stillroots-song-journals": {
+      "key": "h-crossing",
+      "audience": "player",
+      "group": "Player - Reveal Handouts",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!13f0a078af64e89f"
+}

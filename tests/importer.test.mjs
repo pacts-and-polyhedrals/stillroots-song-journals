@@ -1,0 +1,83 @@
+import test from "node:test";
+import assert from "node:assert/strict";
+import fs from "node:fs/promises";
+import path from "node:path";
+import {MODULE_ID, normalizePackDocument, importBundle, importJournals, loadBundle} from "../scripts/importer.js";
+const root=path.resolve(import.meta.dirname,"..");
+const source=[];
+for(const pack of ["gm-journals","handouts"]) {
+  const dir=path.join(root,"source-packs",pack);
+  for(const filename of await fs.readdir(dir)) {
+    const doc=JSON.parse(await fs.readFile(path.join(dir,filename),"utf8"));
+    if(doc._key.startsWith("!journal!")) source.push({pack,doc});
+  }
+}
+source.sort((a,b)=>a.doc.sort-b.doc.sort);
+const clone=structuredClone;
+function setPath(obj,key,value) { const keys=key.split("."); let at=obj; for(const k of keys.slice(0,-1)) at=at[k]??={}; at[keys.at(-1)]=clone(value); }
+class Collection extends Map {get contents(){return [...this.values()];}render(){}}
+function environment({isGM=true,core=14,systemVersion="5.3.3"}={}) {
+  let id=0, calls=0;
+  const state={created:0,folderWrites:0,failBatch:0,blockCreate:false,confirm:true,confirmed:0,messages:[],failValidation:false,waitResult:null,shown:[]};
+  class Page {
+    constructor(data){Object.assign(this,clone(data));this.id=data._id;}
+    async update(changes){for(const [k,v]of Object.entries(changes))setPath(this,k,v);return this;}
+  }
+  class Journal {
+    async update(changes){for(const [k,v]of Object.entries(changes))setPath(this,k,v);return this;}
+    constructor(data){Object.assign(this,clone(data));this.id=data._id;this.pages=new Collection((data.pages??[]).map(p=>[p._id,new Page(p)]));this.sheet={render:async()=>this};}
+    validate(){if(state.failValidation)throw new Error("Simulated core validation failure");return true;}
+    toObject(){const {id,pages,sheet,...rest}=this;return {...clone(rest),pages:pages.contents.map(p=>{const {id,...rest}=p;return clone(rest);})};}
+    static async createDocuments(data){calls++;if(calls===state.failBatch)throw new Error("Simulated database interruption");const out=[];for(const d of data){if(state.blockCreate)break;assert(!game.journal.has(d._id));const j=new Journal(d);game.journal.set(j.id,j);out.push(j);state.created++;}return out;}
+  }
+  class Folder {
+    constructor(data){Object.assign(this,clone(data));this.id=data._id;}
+    async update(changes){for(const [k,v]of Object.entries(changes))setPath(this,k,v);return this;}
+    static async createDocuments(data){return data.map(d=>{const f=new Folder({...d,_id:foundry.utils.randomID()});game.folders.set(f.id,f);state.folderWrites++;return f;});}
+  }
+  class Dialog {constructor(options){this.options=options;}async render(){return this;}static async confirm(){state.confirmed++;return state.confirm;}static async prompt(){return true;}static async wait(){return state.waitResult;}}
+  globalThis.foundry={utils:{deepClone:clone,randomID:()=>"test"+String(++id).padStart(12,"0")},applications:{api:{DialogV2:Dialog}}};
+  globalThis.ui={notifications:{warn:t=>state.messages.push(t),info:t=>state.messages.push(t),error:t=>state.messages.push(t)}};
+  globalThis.CONFIG={JournalEntry:{documentClass:Journal},Folder:{documentClass:Folder}};
+  globalThis.game={user:{id:"gamemaster0000001",isGM},release:{generation:core},system:{id:"dnd5e",version:systemVersion},journal:new (class Journals extends Collection{static async show(doc){state.shown.push(doc.name);}})(),folders:new Collection(),modules:new Collection([[MODULE_ID,{active:true,version:"1.2.0"}]]),packs:new Collection(),users:new Collection(),settings:{register(){},registerMenu(){},get(){return "";},async set(){}}};
+  for(const pack of ["gm-journals","handouts"]){const docs=source.filter(s=>s.pack===pack).map(s=>new Journal(s.doc));game.packs.set(`${MODULE_ID}.${pack}`,{async getDocuments(){return docs;},async getDocument(id){return docs.find(d=>d.id===id);},render(){}});}
+  globalThis.fromUuid=async uuid=>{const m=uuid.match(/^JournalEntry\.([A-Za-z0-9]{16})(?:\.JournalEntryPage\.([A-Za-z0-9]{16}))?$/);return m?(m[2]?game.journal.get(m[1])?.pages.get(m[2]):game.journal.get(m[1])):null;};
+  globalThis.Hooks={once(){},on(){}};
+  const bundle={format:"stillroot-journals-v1",packId:MODULE_ID,version:"1.2.0",journals:source.map(s=>{const data=normalizePackDocument(s.doc);const f=data.flags.world;return {key:f.stillrootKey,group:f.stillrootGroup,audience:f.stillrootAudience,data};})};
+  return {state,bundle,Journal,Page,Folder};
+}
+const opts={confirm:false,open:false};
+function linksResolve(){for(const doc of game.journal.contents)for(const p of doc.pages.contents)for(const m of (p.text?.content??"").matchAll(/@UUID\[JournalEntry\.([A-Za-z0-9]{16})(?:\.JournalEntryPage\.([A-Za-z0-9]{16}))?\]/g)){assert(game.journal.has(m[1]),m[0]);if(m[2])assert(game.journal.get(m[1]).pages.has(m[2]),m[0]);}}
+
+test("fresh import: 51 journals / 114 pages / 11 folders / all links",async()=>{const {bundle}=environment();const result=await importBundle(bundle,opts);assert.equal(result.created,51);assert.equal(game.folders.size,11);assert.equal(game.journal.contents.reduce((n,j)=>n+j.pages.size,0),114);assert.deepEqual(result.linkProblems,[]);linksResolve();});
+test("all new entries hidden and pages inherit",async()=>{const {bundle}=environment();await importBundle(bundle,opts);for(const j of game.journal.contents){assert.deepEqual(j.ownership,{default:0});for(const p of j.pages.contents)assert.deepEqual(p.ownership,{default:-1});}});
+test("repeat import preserves edited prose and deliberate sharing",async()=>{const {bundle}=environment();await importBundle(bundle,opts);const first=game.journal.contents[0];first.pages.contents[0].text.content="My private editing";first.ownership.default=2;const result=await importBundle(bundle,opts);assert.equal(result.created,0);assert.equal(first.pages.contents[0].text.content,"My private editing");assert.equal(first.ownership.default,2);assert.equal(game.journal.size,51);});
+test("legacy world flags are recognized without module flags",async()=>{const {bundle}=environment();await importBundle(bundle,opts);for(const d of game.journal.contents)delete d.flags[MODULE_ID];assert.equal((await importBundle(bundle,opts)).created,0);});
+test("foreign ID collision is remapped without touching foreign entry",async()=>{const {bundle,Journal}=environment();const original=bundle.journals[0].data._id;game.journal.set(original,new Journal({_id:original,name:"Unrelated",pages:[],flags:{}}));await importBundle(bundle,opts);assert.equal(game.journal.get(original).name,"Unrelated");assert.equal(game.journal.size,52);linksResolve();});
+test("existing embedded page IDs are remapped",async()=>{const {bundle,Journal}=environment();const data=clone(bundle.journals[0].data);const remap=new Map(data.pages.map((p,i)=>[p._id,"page"+String(i).padStart(12,"0")]));for(const page of data.pages){page._id=remap.get(page._id);for(const [oldId,newId] of remap)page.text.content=page.text.content.replaceAll(".JournalEntryPage."+oldId,".JournalEntryPage."+newId);}game.journal.set(data._id,new Journal(data));await importBundle(bundle,opts);linksResolve();});
+test("deleted page links fall back to parent without restoring deleted page",async()=>{const {bundle,Journal}=environment();const data=clone(bundle.journals[0].data);data.pages=[];game.journal.set(data._id,new Journal(data));const result=await importBundle(bundle,opts);assert(result.fallbackPages.length>0);assert.equal(game.journal.get(data._id).pages.size,0);linksResolve();});
+test("partial database failure resumes without duplicates or broken links",async()=>{const {bundle,state}=environment();state.failBatch=2;const result=await importBundle(bundle,opts);assert(result.partial);assert.equal(result.created,8);state.failBatch=0;const resumed=await importBundle(bundle,opts);assert.equal(resumed.created,43);assert.equal(game.journal.size,51);linksResolve();});
+test("duplicate existing journal identities are rejected",async()=>{const {bundle,Journal}=environment();const a=clone(bundle.journals[0].data),b=clone(a);b._id="dupe000000000001";game.journal.set(a._id,new Journal(a));game.journal.set(b._id,new Journal(b));await assert.rejects(()=>importBundle(bundle,opts),/share the key/);assert.equal(game.folders.size,0);});
+test("duplicate source identities are rejected before writes",async()=>{const {bundle}=environment();bundle.journals[1].key=bundle.journals[0].key;await assert.rejects(()=>importBundle(bundle,opts),/Duplicate/);assert.equal(game.journal.size,0);});
+test("invalid internal target is rejected before writes",async()=>{const {bundle}=environment();bundle.journals[0].data.pages[0].text.content+='@UUID[JournalEntry.missing000000001]';await assert.rejects(()=>importBundle(bundle,opts),/Invalid internal source link/);assert.equal(game.folders.size,0);});
+test("player-to-GM link is refused",async()=>{const {bundle}=environment();const handout=bundle.journals.find(r=>r.audience==="player");handout.data.pages[0].text.content+=`@UUID[JournalEntry.${bundle.journals[0].data._id}]`;await assert.rejects(()=>importBundle(bundle,opts),/player handout contains a GM link/);assert.equal(game.folders.size,0);});
+test("non-GM importer cannot write",async()=>{const {bundle}=environment({isGM:false});assert.equal((await importBundle(bundle,opts)).reason,"not-gm");assert.equal(game.journal.size,0);});
+test("wrong core generation cannot write",async()=>{const {bundle}=environment({core:13});assert.equal((await importBundle(bundle,opts)).reason,"core-version");assert.equal(game.folders.size,0);});
+test("cancel confirmation creates nothing",async()=>{const {bundle,state}=environment();state.confirm=false;assert.equal((await importBundle(bundle)).reason,"user");assert.equal(game.folders.size,0);});
+test("actual-core validation is invoked before database writes",async()=>{const {bundle,state}=environment();state.failValidation=true;await assert.rejects(()=>importBundle(bundle,opts),/core validation/);assert.equal(game.folders.size,0);});
+test("blocked preCreate becomes a recoverable partial import",async()=>{const {bundle,state}=environment();state.blockCreate=true;const result=await importBundle(bundle,opts);assert(result.partial);assert.equal(result.created,0);state.blockCreate=false;assert.equal((await importBundle(bundle,opts)).created,51);});
+test("legacy partial-import foreign collision is refused",async()=>{const {bundle,state,Journal}=environment();state.failBatch=2;await importBundle(bundle,opts);const record=bundle.journals[10];game.journal.set(record.data._id,new Journal({_id:record.data._id,name:"Foreign",pages:[],flags:{}}));state.failBatch=0;await assert.rejects(()=>importBundle(bundle,opts),/partial-import ID/);assert.equal(game.journal.get(record.data._id).name,"Foreign");});
+test("loadBundle reads 51 valid pack documents and normalizes UUIDs",async()=>{environment();const bundle=await loadBundle();assert.equal(bundle.journals.length,51);for(const r of bundle.journals){assert.equal(r.data.folder,null);for(const p of r.data.pages){assert(!p._key);assert(!p.text.content.includes('@UUID[Compendium.stillroots-song-journals.'));}}});
+test("missing compendium fails without creating a world document",async()=>{environment();game.packs.delete(MODULE_ID+".handouts");await assert.rejects(()=>loadBundle(),/Missing compendium/);assert.equal(game.journal.size,0);});
+test("non-GM cannot read packed data through module API",async()=>{environment({isGM:false});await assert.rejects(()=>loadBundle(),/Only a GM/);});
+test("parallel import requests create one set",async()=>{environment();const results=await Promise.all([importJournals(opts),importJournals(opts)]);assert.equal(game.journal.size,51);assert.equal(game.folders.size,11);assert.equal(results[0].created,51);assert.equal(results[1].created,51);});
+test("secondary GM cannot begin concurrent import",async()=>{environment();game.users.activeGM={id:"someoneElse"};assert.equal((await importJournals(opts)).reason,"other-active-gm");assert.equal(game.folders.size,0);});
+test("all image sources resolve to the bundled module directory",async()=>{const {bundle}=environment();await importBundle(bundle,opts);let count=0;for(const j of game.journal.contents)for(const p of j.pages.contents){assert(!p.text.content.includes('__ASSET_ROOT__'));for(const m of p.text.content.matchAll(/<img[^>]+src="([^"]+)"/g)){assert(m[1].startsWith(`modules/${MODULE_ID}/assets/`));count++;}}assert.equal(count,2);});
+test("hub module exposes safe diagnostics and opt-in artwork attachment",async()=>{const {bundle}=environment();const main=await import("../scripts/main.js");await importBundle(bundle,opts);const report=await main.checkLinks({show:false});assert.equal(report.journals,51);assert.equal(report.pages,114);assert(report.checked>600);assert.equal(report.problems.length,0);assert.equal((await main.attachArtwork({confirm:false})).updated,0);const page=game.journal.contents.find(j=>j.flags.world.stillrootKey==="p-welcome").pages.contents[0];page.text.content=page.text.content.replace(/<figure\b[^>]*class="sr-art"[^>]*>[\s\S]*?<\/figure>/g,"");const before=page.text.content;assert.equal((await main.attachArtwork({confirm:false})).updated,1);assert(page.text.content.startsWith(before));});
+
+test("handouts start hidden and only handouts can be shared",async()=>{const {bundle,state}=environment();const main=await import("../scripts/main.js");await importBundle(bundle,opts);const before=main.handoutStatus();assert.equal(before.length,16);assert(before.every(h=>!h.shared));const result=await main.setHandoutSharing({"p-welcome":true,start:true,nonsense:true},{show:true});assert.deepEqual(result.revealed.length,1);assert.deepEqual(state.shown,result.revealed);const welcome=game.journal.contents.find(j=>j.flags.world.stillrootKey==="p-welcome");assert.equal(welcome.ownership.default,2);for(const j of game.journal.contents)if(j!==welcome)assert.equal(j.ownership.default,0);assert.equal(main.handoutStatus().filter(h=>h.shared).length,1);});
+test("hiding a handout touches only its default ownership",async()=>{const {bundle}=environment();const main=await import("../scripts/main.js");await importBundle(bundle,opts);const doc=game.journal.contents.find(j=>j.flags.world.stillrootKey==="p-welcome");doc.ownership.player0000000001=2;const prose=doc.pages.contents[0].text.content;await main.setHandoutSharing({"p-welcome":true});const again=await main.setHandoutSharing({"p-welcome":true});assert.equal(again.revealed.length,0);const result=await main.setHandoutSharing({"p-welcome":false});assert.equal(result.hidden.length,1);assert.equal(doc.ownership.default,0);assert.equal(doc.ownership.player0000000001,2);assert.equal(doc.pages.contents[0].text.content,prose);assert.equal(main.handoutStatus().find(h=>h.key==="p-welcome").selected,1);});
+test("share dialog applies ticked changes and cancel changes nothing",async()=>{const {bundle,state}=environment();const main=await import("../scripts/main.js");assert.deepEqual(await main.manageHandouts(),{revealed:[],hidden:[]});await importBundle(bundle,opts);assert.equal((await main.manageHandouts()).cancelled,true);state.waitResult="cancel";assert.equal((await main.manageHandouts()).cancelled,true);state.waitResult={changes:Object.fromEntries(main.handoutStatus().map((h,i)=>[h.key,i<3])),show:false};const result=await main.manageHandouts();assert.equal(result.revealed.length,3);assert.equal(state.shown.length,0);assert.equal(game.journal.contents.filter(j=>j.ownership.default===2).length,3);});
+test("non-GM cannot inspect or change handout sharing",async()=>{const {bundle}=environment();const main=await import("../scripts/main.js");await importBundle(bundle,opts);game.user.isGM=false;assert.throws(()=>main.handoutStatus(),/Only a GM/);await assert.rejects(()=>main.setHandoutSharing({"p-welcome":true}),/Only a GM/);assert(game.journal.contents.every(j=>j.ownership.default===0));});
+test("journal source carries no inline styles and handouts use the paper variant",async()=>{for(const {pack,doc} of source)for(const p of doc.pages){assert(!/\sstyle=/.test(p.text.content),doc.name);assert.equal(p.text.content.includes('class="sr-journal sr-handout"'),pack==="handouts",doc.name);}});
+test("later D&D5e patch releases do not raise a version notice",async()=>{const {bundle,state}=environment({systemVersion:"5.3.4"});foundry.utils.isNewerVersion=(a,b)=>a.localeCompare(b,undefined,{numeric:true})>0;state.confirm=false;let shown="";foundry.applications.api.DialogV2.confirm=async o=>{shown=o.content;return false;};await importBundle(bundle);assert(!shown.includes("Version notice"));game.system.version="5.2.0";await importBundle(bundle);assert(shown.includes("Version notice"));});

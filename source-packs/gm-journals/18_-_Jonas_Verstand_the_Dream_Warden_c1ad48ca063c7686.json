@@ -1,0 +1,51 @@
+{
+  "_id": "c1ad48ca063c7686",
+  "name": "18 - Jonas Verstand, the Dream Warden",
+  "sort": 1900000,
+  "folder": "8d73d9572d2cba95",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "fbf5cf89e2e7b381",
+      "name": "A failed investigator, not an oracle",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Jonas Verstand</h1>\n<p><strong>Role:</strong> dead investigator whose surviving work gives the party leverage. <strong>Location:</strong> his notes in the chapel; a limited echo in the dream. <strong>Appearance:</strong> a tired scholar in practical travelling robes with a waxed notebook, patched boots and an ink-darkened thumb. Do not replace him with Elysia or Eldrin Fallow.</p>\n<p>Jonas tried to catalogue the vanishings and reached the organ alone. He understood the three controls but lacked companions to interrupt them together. His defeat is evidence that cooperation matters, not proof the PCs must repeat his route exactly.</p>\n<h3>Voice and phrases</h3>\n<p>Dry, direct, almost annoyed by his own fear.</p>\n<p>'Write it before you explain it away.'</p>\n<p>'A contradiction is not a mistake until you have checked it.'</p>\n<p>'Names first. Theories after.'</p>\n<p>'Do not come alone. That was my error.'</p>\n<h3>His echo's limits</h3>\n<p>It repeats things he knew before his death. It does not identify every current spell, reveal a future betrayal, or solve each trial. If asked something new, it turns a blank page and says, 'I did not get that far.'</p>\n<h3>What the journal establishes</h3>\n<p>The sound can be blocked. Physical records survive. Three separate coven influences feed the organ. A safe route can be marked by continuous thread. The focus, not the true coven's full military power, is the attainable objective. Supply @UUID[Compendium.stillroots-song-journals.handouts.JournalEntry.aa8ce8bb9da9c159]{the handout} without hiding a required paragraph behind a failed check.</p>\n<h3>A human detail</h3>\n<p>Inside the notebook is a pressed apple leaf and a shopping list: lamp oil, bread, new gloves. The list is ordinary. Jonas was a person who expected another week, not a document written solely to explain the boss fight.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "dossier"
+        }
+      },
+      "_key": "!journal.pages!c1ad48ca063c7686.fbf5cf89e2e7b381"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "jonas",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "02 - Villager Dossiers"
+    },
+    "stillroots-song-journals": {
+      "key": "jonas",
+      "audience": "gm",
+      "group": "02 - Villager Dossiers",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!c1ad48ca063c7686"
+}

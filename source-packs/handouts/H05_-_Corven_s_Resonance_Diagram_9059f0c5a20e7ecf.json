@@ -1,0 +1,51 @@
+{
+  "_id": "9059f0c5a20e7ecf",
+  "name": "H05 - Corven's Resonance Diagram",
+  "sort": 4500000,
+  "folder": "6bbdde26a71965b0",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "1f2a546265bf879c",
+      "name": "Three replies, one centre",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal sr-handout\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; PLAYER HANDOUT</p><h1>Resonance notes</h1>\n<table>\n<thead>\n<tr>\n<th>NAMES</th>\n<th>TRUST</th>\n<th>FLESH</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>First reply</td>\n<td>Second reply</td>\n<td>Third reply</td>\n</tr>\n<tr>\n<td>Dampen separately</td>\n<td>Dampen separately</td>\n<td>Dampen separately</td>\n</tr>\n</tbody>\n</table>\n<p><strong>All three answer -&gt; the central pulse is protected.</strong></p>\n<p><strong>One falls quiet -&gt; one part of the chorus fails.</strong></p>\n<p><strong>All three fall quiet -&gt; the centre can be reached.</strong></p>\n<p>The small crystals repeat the pattern of something larger beneath the well. Follow the cold air behind the roots. The echo leads wherever it wants; the draught must come from somewhere.</p>\n<p>Do not strike the main growth before damping the smaller branches.</p>\n<ul>\n<li>C. Flint</li>\n</ul>\n</section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "diagram"
+        }
+      },
+      "_key": "!journal.pages!9059f0c5a20e7ecf.1f2a546265bf879c"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "h-diagram",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "player",
+      "stillrootGroup": "Player - Reveal Handouts"
+    },
+    "stillroots-song-journals": {
+      "key": "h-diagram",
+      "audience": "player",
+      "group": "Player - Reveal Handouts",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!9059f0c5a20e7ecf"
+}

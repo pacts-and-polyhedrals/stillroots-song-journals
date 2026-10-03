@@ -1,0 +1,120 @@
+{
+  "_id": "324a27e6b537b4f3",
+  "name": "30 - Babha Yagha's Coven: Performance",
+  "sort": 2500000,
+  "folder": "17b62bca0a547d74",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "f39361074fb17790",
+      "name": "Babha Yagha - the Malevolent Matriarch",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Babha Yagha, Grandma, the Malevolent Matriarch</h1>\n<p><strong>Use the source block in @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.61d5f0fb7403f229.JournalEntryPage.b0628313c62652f3]{Coven Statistics}.</strong> Babha is the powerful matriarch specified by the user, not the later invented Dream-Knotter. She rides a flying cauldron and commands a walking hut. Those remain separate constructs, not extra free actions without adjudication.</p>\n<h3>Presence</h3>\n<p>Large, ancient and immovably self-possessed. Her clothes suggest authority claimed over centuries: heavy fabrics, practical charms, old keys and the soot of her cauldron. No thread-hair, iron horns or stitched-skin costume is mandatory; those were earlier art suggestions, not requirements of her stat block.</p>\n<h3>Voice and motive</h3>\n<p>Speak as though the party is interrupting business she owns. Never hurry to threaten. She considers memory a resource and kindness a contract. Her pleasure is convincing a person to accept the terms willingly.</p>\n<p>'You mistake permission for freedom.'</p>\n<p>'I asked what you would give, not what you could afford.'</p>\n<p>'Every house has a grandmother. This one is mine.'</p>\n<p>'You brought your dead to our door. Such trust.'</p>\n<h3>Bargaining</h3>\n<p>She offers relief from grief, not an obviously irresistible damage bonus. State the real cost to players before any binding acceptance. A refused bargain does not let her claim the refusal was a secret consent.</p>\n<h3>When thwarted</h3>\n<p>She stops using endearments. When the Names stop falls, she says, 'That was not yours to give back.' Her true body is not injured by the projected organ's loss, but her ownership of this particular experiment is broken.</p>\n<p><strong>Mount imagery:</strong> blackened iron cauldron, magical flight, corrosive contents; enormous mobile hut with birdlike legs. Keep them as glimpses or optional campaign threats in the level-10 one-shot.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.324a27e6b537b4f3.JournalEntryPage.c032db6c2a350bb7]{Next: Mama Yagha - the Venomous Fang}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "babha"
+        }
+      },
+      "_key": "!journal.pages!324a27e6b537b4f3.f39361074fb17790"
+    },
+    {
+      "_id": "c032db6c2a350bb7",
+      "name": "Mama Yagha - the Venomous Fang",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Mama Yagha, the Venomous Fang</h1>\n<p><strong>Source block:</strong> @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.61d5f0fb7403f229.JournalEntryPage.fd5975eef11457fe]{Mama Yagha}. A Large yuan-ti/hag hybrid with <strong>snake hair</strong>, venomous fangs and a giant-snake transformation. She is not a chest-maw or a meat-hook crone. Her mount is <strong>Valdershmort</strong>, a huge basilisk.</p>\n<h3>Voice</h3>\n<p>Intimate, persuasive and offended by refusal. Begin a sentence as consolation and end it as possession. Let a few of the snakes watch people independently, but do not play her as an unintelligent beast: her supplied Intelligence is 18.</p>\n<p>'I can take the hurt away. You will not even miss what carried it.'</p>\n<p>'Look how tired you are of being yourself.'</p>\n<p>'It is not poison when you ask for it.'</p>\n<p>'Such a stubborn little pulse.'</p>\n<h3>Role in the scheme</h3>\n<p>Mama makes familiar comfort into a route for intrusion. She sponsors Nella's invitation-mark and the dream's apparent safe choices. This does not mean every meal actually poisons the party. Establish detectable effects and meaningful refusals.</p>\n<h3>Under pressure</h3>\n<p>When Trust breaks, the snakes stop agreeing with her. One turns toward her face while she says, 'I was being kind.' Her anger is the anger of somebody whose manipulation was named clearly.</p>\n<p><strong>Valdershmort's presence:</strong> heavy reptilian movement, a petrifying gaze and poison breath. The animal can appear as a silhouette reflected in crystal. Its full combat block is preserved but is not an extra surprise fight in the one-shot.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.324a27e6b537b4f3.JournalEntryPage.f39361074fb17790]{Previous: Babha Yagha - the Malevolent Matriarch} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.324a27e6b537b4f3.JournalEntryPage.e224197f7e0375e6]{Next: Gahgah Yagha - the Tenebrous Troll}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "mama"
+        }
+      },
+      "_key": "!journal.pages!324a27e6b537b4f3.c032db6c2a350bb7"
+    },
+    {
+      "_id": "e224197f7e0375e6",
+      "name": "Gahgah Yagha - the Tenebrous Troll",
+      "type": "text",
+      "sort": 300000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Gahgah Yagha, the Tenebrous Troll</h1>\n<p><strong>Source block:</strong> @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.61d5f0fb7403f229.JournalEntryPage.e5e3a1de50e7da7a]{Gahgah Yagha}. Huge fiendish troll-hag; immense strength and constitution; <strong>two heads</strong>; claws, biting, flinging and acid-sensitive regeneration. Her mount is the tarrasque <strong>Gargantua</strong>. Do not replace her with a floating eyeless hush-spirit.</p>\n<h3>Two voices, one intelligence</h3>\n<p>The left head is patient and almost conversational. The right interrupts with appetite, mockery and physical observations. They disagree about method, not about whether the party is prey. Her supplied Intelligence is 14: she can recognise tactics and remember humiliations.</p>\n<p><strong>Left:</strong> 'They have come a long way. Let them finish.' <strong>Right:</strong> 'I was going to.'</p>\n<p><strong>Left:</strong> 'You can keep your courage.' <strong>Right:</strong> 'It's the rest we want.'</p>\n<p><strong>Both, very quietly:</strong> 'We heard you coming.'</p>\n<h3>Gestures</h3>\n<p>One head watches hands while the other watches faces. A claw rests on a beam that bends under its weight. A shallow wound closes while she forgets to pay attention to it. Acid leaves a hesitation in the healing: preserve that user-defined weakness rather than replacing it with fire.</p>\n<h3>Her part in the horror</h3>\n<p>Gahgah is the weight behind the dream: lifting, holding, pinning and making metaphor physically dangerous. Her shadow, borrowed through Nella, produced the broad hand-marks at the inn. It does not give every construct all of Gahgah's full-stat attacks.</p>\n<h3>Losing</h3>\n<p>Left: 'Pull back. We can mend it.' Right: 'It won't mend.' Both look toward the severed Flesh stop. Keep this moment brief; a silent realisation is stronger than another page of taunts.</p>\n<p>Gargantua is an optional distant threat, not a mandatory tarrasque added to the level-10 finale.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.324a27e6b537b4f3.JournalEntryPage.c032db6c2a350bb7]{Previous: Mama Yagha - the Venomous Fang} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.324a27e6b537b4f3.JournalEntryPage.21e9003692b192ab]{Next: Gahgah's threshold monologue}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "gahgah"
+        }
+      },
+      "_key": "!journal.pages!324a27e6b537b4f3.e224197f7e0375e6"
+    },
+    {
+      "_id": "21e9003692b192ab",
+      "name": "Gahgah's threshold monologue",
+      "type": "text",
+      "sort": 400000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>The truth beneath your teeth</h1>\n<p>Deliver this before the projected confrontation or through the Flesh pipes. Pause for interruptions; a monologue is not immunity to attacks.</p>\n<blockquote>\n<p><strong>Left head:</strong> 'There you are. I wondered which of you would reach the door first. The brave one, perhaps. The clever one.'</p>\n<p><strong>Right head:</strong> 'The hungry one. They all come hungry.'</p>\n<p><strong>Left:</strong> 'For answers. For a bed. For someone to tell them their little friend can still be saved. You arrived carrying him so gently. Even when you could scarcely stand.'</p>\n<p><strong>Right:</strong> 'Nearly dropped him on the hill.'</p>\n<p><strong>Left:</strong> 'But you did not. That is the thing about you I like. You keep carrying what hurts.'</p>\n<p>She settles one enormous hand on the stone. Something beneath it gives a small, defeated crack.</p>\n<p><strong>Left:</strong> 'Grandma says you want the truth. Mama says you want comfort. I think you want to believe they are the same thing.'</p>\n<p><strong>Right:</strong> 'They are not.'</p>\n<p><strong>Left:</strong> 'No. A comfortable lie gives you somewhere to sleep. The truth sits beside the bed and waits for you to open your eyes.'</p>\n<p>Both heads lean closer. For a moment, neither smiles.</p>\n<p><strong>Left:</strong> 'So break the pipes. Give them back their names. Let every mother remember the chair she put away. Let every husband remember why the house grew quiet.'</p>\n<p><strong>Right:</strong> 'Then listen to your rescued village.'</p>\n<p><strong>Left:</strong> 'That is what I cannot understand about heroes. You think making it hurt again is mercy.'</p>\n<p>A smile returns, slowly, to the wrong face first.</p>\n<p><strong>Both:</strong> 'Come and show us.'</p>\n</blockquote>\n<p><strong>GM intent:</strong> she is presenting a cruel false choice. The characters can restore memory while caring for the people who grieve. Do not adopt her speech as the adventure's moral conclusion.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.324a27e6b537b4f3.JournalEntryPage.e224197f7e0375e6]{Previous: Gahgah Yagha - the Tenebrous Troll}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "monologue"
+        }
+      },
+      "_key": "!journal.pages!324a27e6b537b4f3.21e9003692b192ab"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "coven",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "04 - Coven and Creatures"
+    },
+    "stillroots-song-journals": {
+      "key": "coven",
+      "audience": "gm",
+      "group": "04 - Coven and Creatures",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!324a27e6b537b4f3"
+}

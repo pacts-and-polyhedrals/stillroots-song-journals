@@ -1,0 +1,74 @@
+{
+  "_id": "5291d63a5044e820",
+  "name": "23 - Unraveled: Threadbare Truths",
+  "sort": 2300000,
+  "folder": "5d25a994cbeca5af",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "99e46b74f7188c66",
+      "name": "The fitting room",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Threadbare Truths</h1>\n<p><strong>Victim:</strong> Sella Venn, adult tailor. <strong>Purpose:</strong> identify the repaired cuff and establish a physical way through dream geography.</p>\n<blockquote>\n<p>A little bell sounds when the door opens. The shop beyond is orderly in the way a room becomes orderly after somebody has worked through the night: folded garments, pins standing in a cushion, a stool left exactly where a tired person pushed it aside.</p>\n<p>The mannequins face the mirrors, not the door. Each wears an unfinished garment. A sleeve pinned too high. A collar waiting to be turned. Ordinary work interrupted by something that did not need the front entrance.</p>\n<p>Sella Venn hangs in the fitting space beneath a web of dark thread. It holds her wrists, shoulders and bowed head in a posture meant for somebody measuring a customer. Her feet almost reach the stool.</p>\n<p>Between her hands stretches a length of cloth covered in embroidered names. The last needle is still threaded. Every time the bell above the door trembles, the needle moves once, dragging a stitch through a name that is already complete.</p>\n<p>In the nearest mirror, Sella is standing on the stool. She is looking directly at the place where you have just stopped.</p>\n</blockquote>\n<p>The body is suspended through supernatural threads; a careful approach can lower it without inflicting more damage. The last name does not magically become a PC's name unless Nella has actually learned and placed it there.</p>\n<h3>One possible fright</h3>\n<p>A mannequin wears a coat matching a PC's silhouette. Close inspection shows it is the unfinished travelling coat Perrin ordered, not a perfect copy of the PC's unique magic armour. This preserves uncertainty without invalidating their inventory.</p>\n<p><strong>At higher body-horror intensity:</strong> some sections of the embroidered shroud are not cloth. Keep the required evidence on ordinary fabric so investigation never requires lingering over the most graphic part.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.5291d63a5044e820.JournalEntryPage.f20e0230185e781f]{Next: Follow the red thread}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "scene"
+        }
+      },
+      "_key": "!journal.pages!5291d63a5044e820.99e46b74f7188c66"
+    },
+    {
+      "_id": "f20e0230185e781f",
+      "name": "Follow the red thread",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Sella found a rule the dream could not hide</h1>\n<p><strong>True sequence:</strong> Sella left a continuous red guide-thread through a cellar route after a waking-dream incident. She also noticed that Nella's cuff was damaged in a struggle. After repairing it, she recorded the work and began comparing visits with Edda. Nella returned to reclaim that evidence and staged the body with copied sewing gestures.</p>\n<table>\n<thead>\n<tr>\n<th>Examination</th>\n<th>Finding</th>\n<th>Inference</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Inspect the order book</td>\n<td>'Nella: left cuff, three diagonal stitches; paid with apples.'</td>\n<td>Direct physical identifier, corroborated by Naya's rabbit repair.</td>\n</tr>\n<tr>\n<td>Look under the counter</td>\n<td>A red spool fixed to an iron eyelet; thread runs into a cellar crack</td>\n<td>A real route marker can survive the dream overlay.</td>\n</tr>\n<tr>\n<td>Read the cloth names</td>\n<td>Ada, Perrin, Edda, Sella, Corven; several older missing villagers</td>\n<td>The same witness network and older victims.</td>\n</tr>\n<tr>\n<td>Check a mirror in silence</td>\n<td>The reflection becomes accurate</td>\n<td>Repeatable perceptual interference.</td>\n</tr>\n<tr>\n<td>DC 14 Investigation</td>\n<td>A short length of the same repaired-cuff fabric caught on the door catch</td>\n<td>Places Nella here after the repair was completed.</td>\n</tr>\n<tr>\n<td>DC 15 Arcana</td>\n<td>The moving needle is a 4th-level animation tether</td>\n<td>Dispel Magic can end it; cutting the thread also works.</td>\n</tr>\n</tbody>\n</table>\n<h3>Speak with Dead</h3>\n<p><strong>Who killed you?</strong> 'The woman whose cuff I mended. The grandmother with no family.'</p>\n<p><strong>What did she want?</strong> 'The order book. And the thread.'</p>\n<p><strong>Where does the thread go?</strong> 'Past the cellar. Under the well. Keep one end fixed.'</p>\n<p><strong>What did you see there?</strong> 'Pipes. Three different knots. Something breathing between them.'</p>\n<p><strong>How do we follow?</strong> 'Do not guess the way. Hold the proof in your hand.'</p>\n<h3>Countermeasure</h3>\n<p>A continuous, anchored thread or rope can mark the dream route. The hags may cut or obstruct it through visible actions, but it does not disappear merely because it is useful. A PC holding it automatically recognises a looping corridor and can return to the last anchor point.</p>\n<h3>Exit leads</h3>\n<p>The cellar reaches @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.30ded8c4eb53e9e8.JournalEntryPage.b59579d1da9c0126]{the physical descent}. Corven's measurements in the order book point to @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.547690f61d0e4f51]{the crystal formation}. The cuff identifies @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.abd471fb49f0eaa2]{Nella}.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.5291d63a5044e820.JournalEntryPage.99e46b74f7188c66]{Previous: The fitting room}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "evidence"
+        }
+      },
+      "_key": "!journal.pages!5291d63a5044e820.f20e0230185e781f"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "tailor",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "01 - Acts and Locations"
+    },
+    "stillroots-song-journals": {
+      "key": "tailor",
+      "audience": "gm",
+      "group": "01 - Acts and Locations",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!5291d63a5044e820"
+}

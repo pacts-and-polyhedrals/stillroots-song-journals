@@ -1,0 +1,51 @@
+{
+  "_id": "133dceed183b3b9e",
+  "name": "P02 - Character Creation and Preparation",
+  "sort": 3700000,
+  "folder": "842401b09e7690e7",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "ff0ec0a6dc76e5ab",
+      "name": "Prepare your character",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal sr-handout\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; PLAYER HANDOUT</p><h1>Before the session</h1>\n<p>Create a <strong>level-10 character</strong> before play. Use <strong>official content</strong>; homebrew, Unearthed Arcana and third-party options require advance approval. Roll ability scores using the GM's announced method. The exact rolling procedure and hit-point method should be confirmed before finalising the sheet; no new method is silently imposed by this handout.</p>\n<p>Each character begins with <strong>one rare magic item, two uncommon magic items, and two standard healing potions</strong>. Normal attunement limits still apply. Choose appropriate ordinary adventuring equipment and record it clearly. Artefacts and sentient or campaign-disrupting items require explicit approval; do not substitute them into this allowance.</p>\n<p>Under this game's potion house rule, each standard healing potion restores <strong>10 hit points</strong>. Drinking one yourself uses a bonus action; administering one to an ally uses an action.</p>\n<p>Write a few sentences about who you were before joining the company. Add one cherished memory, one fictional fear or regret you are comfortable exploring, and one relationship with <strong>Uppa Kase</strong>, the party's verdan bard. You do not need a full novel or a secret betrayal.</p>\n<p>All platform links and connection details will be sent after you join. For now, prepare the character, finish the sheet, choose spells and items, and send the GM the short backstory and any horror boundaries privately.</p>\n<p>The opening finds your company badly hurt after a prior battle. The GM will explain any temporary starting-resource arrangement before play; chosen items are not secretly removed.</p>\n</section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "build"
+        }
+      },
+      "_key": "!journal.pages!133dceed183b3b9e.ff0ec0a6dc76e5ab"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "p-build",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "player",
+      "stillrootGroup": "Player - Before the Game"
+    },
+    "stillroots-song-journals": {
+      "key": "p-build",
+      "audience": "player",
+      "group": "Player - Before the Game",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!133dceed183b3b9e"
+}

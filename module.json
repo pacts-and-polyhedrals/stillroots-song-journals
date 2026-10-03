@@ -1,0 +1,86 @@
+{
+  "id": "stillroots-song-journals",
+  "title": "Stillroot's Song - Halloween Horror Journals",
+  "description": "A complete level-10 psychological folk-horror one-shot for D&D 5e: 51 linked journals, 114 pages, 16 player handouts on aged paper, two illustrations, and a GM hub that imports safely, checks links and reveals handouts to players. Journal content only - no maps, Actors or rule automation.",
+  "version": "1.2.0",
+  "authors": [
+    {
+      "name": "DM Asmo - Pacts & Polyhedrals",
+      "url": "https://www.patreon.com/pactsandpolyhedrals"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.3.3",
+          "verified": "5.3.3"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/journals.css",
+    "styles/hub.css"
+  ],
+  "packs": [
+    {
+      "name": "gm-journals",
+      "label": "Stillroot's Song - GM Adventure",
+      "path": "packs/gm-journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER",
+        "GAMEMASTER": "OWNER"
+      }
+    },
+    {
+      "name": "handouts",
+      "label": "Stillroot's Song - Handouts (GM-controlled)",
+      "path": "packs/handouts",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER",
+        "GAMEMASTER": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Stillroot's Song",
+      "sorting": "m",
+      "packs": [
+        "gm-journals",
+        "handouts"
+      ]
+    }
+  ],
+  "url": "https://github.com/pacts-and-polyhedrals/stillroots-song-journals",
+  "manifest": "https://github.com/pacts-and-polyhedrals/stillroots-song-journals/releases/latest/download/module.json",
+  "download": "https://github.com/pacts-and-polyhedrals/stillroots-song-journals/releases/download/v1.2.0/stillroots-song-journals.zip",
+  "bugs": "https://github.com/pacts-and-polyhedrals/stillroots-song-journals/issues",
+  "changelog": "https://github.com/pacts-and-polyhedrals/stillroots-song-journals/blob/main/CHANGELOG.md",
+  "readme": "https://github.com/pacts-and-polyhedrals/stillroots-song-journals/blob/main/README.md",
+  "license": "https://github.com/pacts-and-polyhedrals/stillroots-song-journals/blob/main/LICENSE.txt",
+  "flags": {
+    "stillroots-song-journals": {
+      "targetSystem": "5.3.3",
+      "journalCount": 51,
+      "pageCount": 114
+    }
+  }
+}

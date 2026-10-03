@@ -1,0 +1,74 @@
+{
+  "_id": "abd471fb49f0eaa2",
+  "name": "16 - Granny Nella, Apple-Pie Seller",
+  "sort": 1700000,
+  "folder": "8d73d9572d2cba95",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "d9aa3eba3f092055",
+      "name": "Form A - the invitation",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Granny Nella</h1>\n<p><strong>Role:</strong> fixed dream-spy and local culprit. <strong>True nature:</strong> a fiendish dream-construct made by the coven. <strong>Not:</strong> Mrs. Halden, Marnie or a fourth true hag. <strong>Wants:</strong> the PCs to accept her hospitality, reveal what they know, and leave their evidence unattended.</p>\n<p>A hunched older woman in a sun-faded shawl, with flour on one cheek and a basket covered by a red cloth. Her left cuff bears three conspicuous diagonal repairs. A tiny clear crystal caught in her left shoe produces an incomplete triangular footprint.</p>\n<h3>Voice and physical business</h3>\n<p>Warm, rhythmic sentences with a small chuckle before advice. Place something imaginary on the table while speaking. Offer food rather than answering directly. Ask personal questions that sound considerate: how long they have travelled, who is missing, which room they sleep in.</p>\n<h3>Repeated phrases</h3>\n<p>'A slice of kindness never hurt a soul.'</p>\n<p>'Now don't go fretting. It's just a dream, sweetling.'</p>\n<p>'Every pie's got a secret. Chew slowly.'</p>\n<p>'Folk just call me Granny.'</p>\n<h3>Fair clues from the first meeting</h3>\n<p>She never eats. Her basket is warm long after the hearth goes out. She calls Uppa by name before anyone tells her. Her shadow's basket handle is absent. None of these alone proves murder, but all can be examined.</p>\n<p>The pies are ordinary food with a <strong>detectable, removable invitation sigil</strong> on their paper. Eating does not force a character to sleep, rob them of a save, or damage their body without warning. Accepting a pie gives the coven a dream-image to imitate; it is not mind-control consent. Protection, dispelling and refusal work.</p>\n<h3>Under pressure</h3>\n<p><strong>Asked about the victims:</strong> she calls each 'a poor sleeper' and changes the subject. <strong>Shown her cuff:</strong> she credits Sella, admitting the link. <strong>Caught in a falsehood:</strong> she stops smiling for one sentence and says, 'You are making it difficult to be kind.'</p>\n<p>Nella has five delivery slips in her basket and the matching heel crystal. Those are recoverable proof. Do not erase them when the players reach for them.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.abd471fb49f0eaa2.JournalEntryPage.1876c97451009c77]{Next: Form B - the Cradle Maw}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "a"
+        }
+      },
+      "_key": "!journal.pages!abd471fb49f0eaa2.d9aa3eba3f092055"
+    },
+    {
+      "_id": "1876c97451009c77",
+      "name": "Form B - the Cradle Maw",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>The unmasking</h1>\n<blockquote>\n<p>Nella sets the basket down very carefully. For the first time, its contents make no sound.</p>\n<p>'Well,' she says, 'there is no pleasing some people.'</p>\n<p>The skin beside her smile creases like paper folded too often. The crease opens. Beneath it is not bone but a depth of moving black threads, each tightening as another voice begins to speak.</p>\n<p>Her hand rests on the basket lid. All five fingers bend at an extra joint.</p>\n<p>'You were sweeter before you started asking.'</p>\n</blockquote>\n<h3>The three voices</h3>\n<p><strong>Babha:</strong> measured, proprietary, speaking of debts. <strong>Mama:</strong> coaxing, insulted that comfort has been refused. <strong>Gahgah:</strong> two overlapping interruptions, impatient with the pretence. Use one line from each, not three simultaneous speeches.</p>\n<h3>Repeated phrases</h3>\n<p>'The crust keeps the truth in. That is what keeps you safe.'</p>\n<p>'You have bones to forget.'</p>\n<p>'Why, it is only a pinch of you, dear.'</p>\n<p>'We gave them what they asked for. A little peace.'</p>\n<h3>What she admits</h3>\n<p>She delivered food to all five witnesses. She collected their names and habits. The deaths protected 'Grandma's work'. She knows the route to the well and the crystal resonator. She cannot promise a true hag's death because she is not one.</p>\n<h3>Encounter aim</h3>\n<p>Nella tries to destroy <strong>one visible document</strong> or escape along an actual doorway, not automatically steal a PC's soul. Roll initiative if the players interrupt. Use @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.30ded8c4eb53e9e8.JournalEntryPage.96eb0a7269685e56]{her compact encounter block}. If captured, her testimony can replace a missing journal clue. Her defeat leaves the cuff, heel crystal and slips intact.</p>\n<p><strong>Redemption option:</strong> the construct has borrowed a memory of genuine affection. A player who speaks to that fragment may persuade her to release one living captive before she unravels. This changes an outcome, not her responsibility for the murders.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.abd471fb49f0eaa2.JournalEntryPage.d9aa3eba3f092055]{Previous: Form A - the invitation}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "b"
+        }
+      },
+      "_key": "!journal.pages!abd471fb49f0eaa2.1876c97451009c77"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "nella",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "02 - Villager Dossiers"
+    },
+    "stillroots-song-journals": {
+      "key": "nella",
+      "audience": "gm",
+      "group": "02 - Villager Dossiers",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!abd471fb49f0eaa2"
+}

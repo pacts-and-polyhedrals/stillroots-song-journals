@@ -1,0 +1,97 @@
+{
+  "_id": "353fd39665abdf09",
+  "name": "13 - Reverend Ervin Hoss",
+  "sort": 1400000,
+  "folder": "8d73d9572d2cba95",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "2d9a4d5182b29394",
+      "name": "Form A - faith as practical care",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Reverend Ervin Hoss</h1>\n<p><strong>Role:</strong> reliable refuge, Uppa's possible resurrection, custodian of Jonas's chest. <strong>Location:</strong> chapel. <strong>Wants:</strong> his people cared for; cannot reconcile their suffering with the village's calm. <strong>Knows:</strong> several residents report the same dream and Jonas left him a locked repair chest.</p>\n<p>A thin, stoop-shouldered priest with a pale blue stole, careful hands and tired, kindly eyes. His robes are clean but repaired. He listens without filling every pause. When someone is injured, he puts a stool beneath them before speaking about gods.</p>\n<h3>Voice</h3>\n<p>Warm, soft and deliberate. Do not make him whisper sinisterly at every opportunity. He comforts through specific actions: fresh water, a clean blanket, somebody keeping watch.</p>\n<h3>Phrases</h3>\n<p>'Faith, dear friends, is what roots us through the fog.'</p>\n<p>'Tell me their name. We begin there.'</p>\n<p>'You need not be brave in this room.'</p>\n<p>'First we tend the living. Then we honour the dead.'</p>\n<h3>His contradiction</h3>\n<p>He insists the chapel has never had a bell tower. If the party points up the rope, he follows it with his eyes and loses his sentence. In a quiet field he can recognise the tower and recalls it was deliberately muffled after an unexplained night of ringing.</p>\n<p>Hoss is not lying. Insight reveals effort and distress, not duplicity. He readily permits an examination of the rope, records and tower.</p>\n<h3>Information and help</h3>\n<p>He opens Jonas's chest once the party shows a contradiction or asks about the Dream Warden. It contains @UUID[Compendium.stillroots-song-journals.handouts.JournalEntry.aa8ce8bb9da9c159]{the journal}, a red-thread diagram and a small collection of labelled keepsakes. The old lock is ordinary, not a magical puzzle.</p>\n<p>He offers the @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.9848b98a77681d3a.JournalEntryPage.b4f049079525ebfb]{resurrection opportunity} honestly. If he cannot finish it because the characters choose to investigate first, he protects Uppa's remains and describes the actual spell requirements. He never demands that the PCs harm another innocent as payment.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.353fd39665abdf09.JournalEntryPage.01c43a68c1dbb559]{Next: Form B - the sermon with no congregation}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "a"
+        }
+      },
+      "_key": "!journal.pages!353fd39665abdf09.2d9a4d5182b29394"
+    },
+    {
+      "_id": "01c43a68c1dbb559",
+      "name": "Form B - the sermon with no congregation",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Hoss in the dream</h1>\n<p>His blue stole appears to continue behind his shoulders and return through the opposite sleeve, an impossible loop rather than a functioning restraint. His eyes flick upward after each sentence, as though waiting for a prompter hidden in the rafters.</p>\n<blockquote>\n<p>'We dream because the body must forget,' says Hoss. 'The soul... it remembers.'</p>\n<p>From the empty pew behind you comes the last word again. Remembers.</p>\n<p>The priest waits for it to finish. Then he turns a page in a book whose paper is entirely blank.</p>\n</blockquote>\n<h3>Repeated phrases</h3>\n<p>'There was never a bell tower. You never heard it toll.'</p>\n<p>'All names have been accounted for.'</p>\n<p>'If the book is empty, nobody has died.'</p>\n<h3>A way through</h3>\n<p>Ask him to say Uppa's name, or read a genuine name from Edda's register. His next repetition is his own voice. The impossible stole falls into an ordinary strip of cloth. He supplies the phrase <strong>'A name is not a debt'</strong>, one of the counter-statements usable at the organ.</p>\n<p>A PC who lets Hoss finish a familiar prayer may notice the missing line automatically if they have previously heard it. No theology check is required. A DC 15 Religion check identifies the substituted language as a coercive ritual rather than a genuine local funerary rite.</p>\n<p>Do not impose actual bleeding or psychic damage simply for listening to an NPC clue. If a scene includes a damaging magical hazard, use its separately stated save and effect.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.353fd39665abdf09.JournalEntryPage.2d9a4d5182b29394]{Previous: Form A - faith as practical care} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.353fd39665abdf09.JournalEntryPage.ffcb78c78d70888b]{Next: Chapel encounter reference}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "b"
+        }
+      },
+      "_key": "!journal.pages!353fd39665abdf09.01c43a68c1dbb559"
+    },
+    {
+      "_id": "ffcb78c78d70888b",
+      "name": "Chapel encounter reference",
+      "type": "text",
+      "sort": 300000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>The chapel as a playable refuge</h1>\n<p><strong>Entry:</strong> unlatched front door; a smaller vestry can be secured. <strong>Features:</strong> altar, bell rope, shelves, washbasin, old repair chest, six bedrolls. <strong>Useful mundane tools:</strong> clean cloth, chalk, wax, cord, candles, a handbell.</p>\n<p><strong>Discoveries:</strong> the tower exists; a chapel seating plan lists names no living villager recalls; Jonas signed for a repair to the well grille. Each points to @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{the evidence web}.</p>\n<p><strong>Important distinction:</strong> the library chest contains lore, not automatic access to the actual Aegis artefacts. Finding a poem does not put a world-altering item in the party's inventory.</p>\n<p><strong>After the first rest:</strong> Hoss can accompany villagers to safety or remain with Uppa. He does not accompany the party as an extra high-level combatant. His contribution is enabling their recovery and keeping a record of their return.</p>\n<p><strong>If Nella visits:</strong> Hoss welcomes her at first. A clear accusation supported by evidence changes that; he is not incapable of learning forever. He will help bar the door once shown her repaired cuff and matched receipts.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.353fd39665abdf09.JournalEntryPage.01c43a68c1dbb559]{Previous: Form B - the sermon with no congregation}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "chapel"
+        }
+      },
+      "_key": "!journal.pages!353fd39665abdf09.ffcb78c78d70888b"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "hoss",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "02 - Villager Dossiers"
+    },
+    "stillroots-song-journals": {
+      "key": "hoss",
+      "audience": "gm",
+      "group": "02 - Villager Dossiers",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!353fd39665abdf09"
+}

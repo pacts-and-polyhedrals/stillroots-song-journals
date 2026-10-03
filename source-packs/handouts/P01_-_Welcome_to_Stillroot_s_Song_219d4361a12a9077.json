@@ -1,0 +1,51 @@
+{
+  "_id": "219d4361a12a9077",
+  "name": "P01 - Welcome to Stillroot's Song",
+  "sort": 3600000,
+  "folder": "842401b09e7690e7",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "c7c3708654d55ea9",
+      "name": "A place to rest",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal sr-handout\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; PLAYER HANDOUT</p><h1>Stillroot's Song</h1>\n<h2>Can you trust your memory?</h2>\n<p>Welcome to Stillroot Hollow, a fog-wrapped village buried deep in forgotten woods. The locals are polite. The streets are quiet. There is a warm room waiting for travellers who have been on the road too long. Nothing ever seems wrong... except the feeling that something is.</p>\n<p>This is a <strong>level-10 D&amp;D one-shot for 4-6 players</strong>, lasting about <strong>4-6 hours</strong>. Expect an unsettling mystery, character-driven tension, difficult choices and moments of danger. Investigation and cooperation matter as much as powerful abilities. The horror builds slowly; the things you notice may matter later.</p>\n<p>Your characters are an established adventuring company arriving wounded and exhausted after a hard victory. You are looking for refuge and help for a fallen friend. Bring someone who can care about another person, ask a question when an answer feels wrong, and stand beside companions when courage becomes difficult.</p>\n<p>The game uses agreed horror boundaries. You can ask to pause, veil a description or redirect a scene. The characters may be frightened; the players should remain welcome and able to participate.</p>\n<figure class=\"sr-art\"><img alt=\"Battle-worn fantasy adventurers at the edge of a dark forest, with a mist-shrouded village beyond.\" src=\"modules/stillroots-song-journals/assets/arrival.webp\"/><figcaption>Stillroot Hollow waits beyond the trees.</figcaption></figure>\n</section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "welcome"
+        }
+      },
+      "_key": "!journal.pages!219d4361a12a9077.c7c3708654d55ea9"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "p-welcome",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "player",
+      "stillrootGroup": "Player - Before the Game"
+    },
+    "stillroots-song-journals": {
+      "key": "p-welcome",
+      "audience": "player",
+      "group": "Player - Before the Game",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!219d4361a12a9077"
+}

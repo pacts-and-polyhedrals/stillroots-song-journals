@@ -1,0 +1,51 @@
+{
+  "_id": "b67a37bea76de4b0",
+  "name": "H01 - Perrin's Outside Letter",
+  "sort": 4100000,
+  "folder": "6bbdde26a71965b0",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "8163c7df58c751c7",
+      "name": "A dated piece of correspondence",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal sr-handout\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; PLAYER HANDOUT</p><h1>To Perrin Voss, Humblenook Inn</h1>\n<p>Perrin,</p>\n<p>I checked the copies you sent. Ada Brindle's orders are in our books. Edda Senn signed the school register herself. Sella Venn bought the red thread, and Corven Flint paid for the tuning tools in coin, not on credit.</p>\n<p>I do not know what they are telling you in Stillroot. These people exist. I have met three of them.</p>\n<p>You asked me to write that plainly, without dressing it up. There it is.</p>\n<p>Keep the original receipts. Do not leave all your proof in one house. I will expect your reply after the next market day.</p>\n<ul>\n<li>L.</li>\n</ul>\n<p><em>An outside postmark predates the party's arrival by two days.</em></p>\n</section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "letter"
+        }
+      },
+      "_key": "!journal.pages!b67a37bea76de4b0.8163c7df58c751c7"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "h-letter",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "player",
+      "stillrootGroup": "Player - Reveal Handouts"
+    },
+    "stillroots-song-journals": {
+      "key": "h-letter",
+      "audience": "player",
+      "group": "Player - Reveal Handouts",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!b67a37bea76de4b0"
+}

@@ -1,0 +1,97 @@
+{
+  "_id": "9848b98a77681d3a",
+  "name": "03 - Arrival, Refuge and Uppa Kase",
+  "sort": 400000,
+  "folder": "5d25a994cbeca5af",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "4b20bc33c371cbd3",
+      "name": "The road to refuge",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Ashes before Stillroot</h1>\n<p><strong>Read aloud at the start.</strong> The spirit troll battle has already happened; it is not an extra combat tax on a one-shot.</p>\n<blockquote>\n<p>The rain has found every split in your armour. It gathers beneath bandages, runs cold along bruised skin and turns the road to black paste under your boots. Behind you lie the ruins and the thing you finally stopped. Ahead, the trees stand close enough to hide a village.</p>\n<p>Uppa Kase travels between you in his own cloak. The little verdan once complained that nobody appreciated the importance of a good entrance. Now his battered instrument knocks softly against the stretcher with every step, supplying the only rhythm he cannot argue with.</p>\n<p>You have spent the spells that mattered. Bound the wounds you could reach. Said 'not much farther' until the words no longer promise anything.</p>\n<p>Then the forest opens. Far below, lanterns burn in a fold of dark hills. A chimney releases a thin ribbon of smoke. You can make out an inn, a chapel and a few roofs pressed close around an empty square. Warmth. A bed. A priest, perhaps.</p>\n<p>A weathered sign leans beside the path. STILLROOT HOLLOW. Beneath the name someone has painted a smaller promise: TRAVELLERS REST EASY HERE.</p>\n<p>From the village comes the sound of a door being shut. At this distance, you should not have heard it.</p>\n</blockquote>\n<p>Ask each player for one image from the spirit troll fight and one small, ordinary memory of Uppa. Do not assign blame for his death. The party won and carried him out together.</p>\n<h3>Starting depletion</h3>\n<p>The user specified an injured, spent party. <strong>Proposed play-ready implementation:</strong> start at half maximum HP, no spell slots, and expended short-rest class features, but preserve all chosen equipment and the two starting healing potions. Agree this before play; do not alter sheets through the importer. Hoss provides a secure room and the party can complete an ordinary rest before the lethal investigation. The opening is about accepting help, not surviving a surprise boss while empty.</p>\n<p>For a less restrictive table, describe the exhaustion without changing resources. Either approach is valid; the mechanical depletion is an explicit proposal.</p>\n<h3>Welcome beats</h3>\n<p>Jeb opens the inn without asking for a deposit. Torbin offers to mend a strap. Naya watches the stretcher, then moves her rabbit's paw as though waving to its occupant. Nella arrives last, carrying a covered basket, and already has the correct number of plates.</p>\n<p>One chair at supper remains empty. It is set for Uppa. When questioned, Nella says, 'Habit, dear.' Nobody recalls who told her his name.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.9848b98a77681d3a.JournalEntryPage.b4f049079525ebfb]{Next: A priest, a body and a genuine chance}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "opening"
+        }
+      },
+      "_key": "!journal.pages!9848b98a77681d3a.4b20bc33c371cbd3"
+    },
+    {
+      "_id": "b4f049079525ebfb",
+      "name": "A priest, a body and a genuine chance",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Bringing Uppa back</h1>\n<p><strong>Uppa Kase:</strong> adult verdan bard; quick warmth, terrible puns, brave when somebody else is afraid. He is a shared companion, not the GM's protagonist. His player-authored relationships matter more than a combat sheet.</p>\n<p><strong>Reverend Ervin Hoss</strong> can perform Raise Dead in this compiled edition. This capability is an editorial bridge: an ordinary generic priest stat block would not supply it. He has one appropriately valuable diamond reserved for emergencies and is willing to use it. He asks the party to protect his patients and help understand the disturbances, not to buy their friend's life by agreeing to a secret bargain.</p>\n<blockquote>\n<p>Hoss does not make a speech when he sees the stretcher. He washes his hands. He asks Uppa's name and waits until somebody can say it without looking away.</p>\n<p>'Then that is the name I shall call,' he says. 'Not a title. Not a debt. His name.'</p>\n<p>He unfolds a clean cloth on the altar. For the first time since the ruins, somebody speaks of your companion as though he might answer.</p>\n</blockquote>\n<h3>Resolve the requirements honestly</h3>\n<p>The body is less than a day dead in the default opening. Essential body parts have been recovered. Uppa's soul is willing and free; no secret soul imprisonment is imposed merely to delay the hook. Allow the ritual after its normal casting time. If the PCs can accomplish resurrection themselves, that works too.</p>\n<p>If you retain the earlier description that the spirit troll destroyed vital parts, Raise Dead is insufficient. Announce that medical finding immediately and offer access to appropriately stronger magic as an explicit alternative, rather than spending the diamond on a hidden automatic failure. Do not casually declare a level-10 PC can cast Resurrection.</p>\n<p>Uppa returns frail and shaken, using the chosen spell's normal consequences. He does not regain a full adventuring loadout through resurrection. He stays to help patients and records the party's names in the chapel book. If players bring him along, he assists with memories and conversation rather than taking a full combat turn.</p>\n<h3>If Uppa remains dead</h3>\n<p>A respectful place and preservation magic, if available, keep his body safe. His absence can motivate the party without making success in the mystery a guaranteed resurrection. Tell players what recovery is possible in the fiction.</p>\n<h3>Safe shelter</h3>\n<p>The chapel's small room can be secured normally. Nella cannot simply enter because the GM wants a nightmare. A consecrated, quiet refuge is a reward the players can verify. Allow one complete recovery period. Start the evening-choir clock afterwards.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.9848b98a77681d3a.JournalEntryPage.4b20bc33c371cbd3]{Previous: The road to refuge} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.9848b98a77681d3a.JournalEntryPage.9e992d5eb0bd1e4d]{Next: Uppa as an emotional anchor}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "uppa"
+        }
+      },
+      "_key": "!journal.pages!9848b98a77681d3a.b4f049079525ebfb"
+    },
+    {
+      "_id": "9e992d5eb0bd1e4d",
+      "name": "Uppa as an emotional anchor",
+      "type": "text",
+      "sort": 300000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Play Uppa sparingly</h1>\n<p><strong>When alive:</strong> quick patter with pauses to watch whether people are actually laughing. He remembers food preferences, asks about bruises, and makes grand announcements for minor tasks. <strong>Signature:</strong> 'UPPA KASE. Important matters deserve capitals.' His bravado is affectionate, not irritating.</p>\n<p><strong>Three repeated lines:</strong> 'Put that in the song.' 'We can be frightened on the way.' 'Nobody gets left out of the chorus.'</p>\n<p><strong>Keepsake:</strong> a dented tuning fork tied to his instrument case. Its pitch is mundane. In the dream it provides a repeatable reference note, not an automatic anti-hydra weapon.</p>\n<p><strong>When a dream uses his face:</strong> change a personal detail the table established. The false Uppa calls a PC by a nickname he disliked, praises a selfish act he would have challenged, or gets the last verse wrong. State the mismatch without asking the player to distrust all memories.</p>\n<p><strong>A useful response to an illusion:</strong> 'That sounds like something he might have said. But it isn't what he did.' A player who cites an actual shared memory earns a Lucid token once.</p>\n<p><strong>Private prompts:</strong> Who did Uppa pull away from the troll? Whose silence did he mistake for anger? What trivial debt were they planning to settle at the next inn? Which PC has never told him that one of his songs helped them?</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.9848b98a77681d3a.JournalEntryPage.b4f049079525ebfb]{Previous: A priest, a body and a genuine chance}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "uppa-roleplay"
+        }
+      },
+      "_key": "!journal.pages!9848b98a77681d3a.9e992d5eb0bd1e4d"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "arrival",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "01 - Acts and Locations"
+    },
+    "stillroots-song-journals": {
+      "key": "arrival",
+      "audience": "gm",
+      "group": "01 - Acts and Locations",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!9848b98a77681d3a"
+}

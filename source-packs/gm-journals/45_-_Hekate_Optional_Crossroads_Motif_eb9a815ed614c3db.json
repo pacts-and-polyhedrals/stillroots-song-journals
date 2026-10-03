@@ -1,0 +1,51 @@
+{
+  "_id": "eb9a815ed614c3db",
+  "name": "45 - Hekate: Optional Crossroads Motif",
+  "sort": 3300000,
+  "folder": "af6d3e69f9dbf232",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "37512a86e68858e1",
+      "name": "A torch at the threshold",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Hekate-inspired material</h1>\n<p>This optional scene uses a <strong>fantasy adaptation</strong>, not a claim that the historical goddess is an evil hag or that one modern interpretation exhausts her ancient roles.</p>\n<p>In Hesiod's <em>Theogony</em> (approximately lines 411-452), Hekate receives honour and influence across earth, sea and heaven. In the <em>Homeric Hymn to Demeter</em>, she assists Demeter with torches and later accompanies Persephone. These primary texts support using a torch-bearing guide at a boundary. Do not present the earlier 'past, present, future' explanation of her triple form as an established universal ancient meaning.</p>\n<h3>Optional dream shrine</h3>\n<blockquote>\n<p>Three narrow paths meet around a weathered post. A key hangs from it. Two lamps burn with steady flames, though everything around them moves with the dream.</p>\n<p>Beneath the key someone has written: A DOOR MAY OPEN BOTH WAYS.</p>\n</blockquote>\n<p>There is no test of a player's real religion. The shrine offers a meaningful choice: continue, return to the refuge, or help a lost memory find its name. Lighting a lamp for a specific forgotten person grants one Lucid token, once. It is not necessary to harm an animal or enact a real-world ritual.</p>\n<h3>Historical references</h3>\n<p>Hesiod, Theogony, H. G. Evelyn-White translation: <a href=\"https://www.theoi.com/Text/HesiodTheogony.html\">https://www.theoi.com/Text/HesiodTheogony.html</a></p>\n<p>Homeric Hymn to Demeter passages, collected with source citations: <a href=\"https://www.theoi.com/Khthonios/Hekate.html\">https://www.theoi.com/Khthonios/Hekate.html</a></p>\n<p>All encounter mechanics and inscriptions here are invented for Stillroot.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "shrine"
+        }
+      },
+      "_key": "!journal.pages!eb9a815ed614c3db.37512a86e68858e1"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "hekate",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "05 - Optional Scenes and Lore"
+    },
+    "stillroots-song-journals": {
+      "key": "hekate",
+      "audience": "gm",
+      "group": "05 - Optional Scenes and Lore",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!eb9a815ed614c3db"
+}

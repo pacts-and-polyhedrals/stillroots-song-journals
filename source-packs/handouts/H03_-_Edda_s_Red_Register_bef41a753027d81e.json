@@ -1,0 +1,51 @@
+{
+  "_id": "bef41a753027d81e",
+  "name": "H03 - Edda's Red Register",
+  "sort": 4300000,
+  "folder": "6bbdde26a71965b0",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "ab3eec320f6e68a9",
+      "name": "People, not empty chairs",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal sr-handout\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; PLAYER HANDOUT</p><h1>Keep these places</h1>\n<p><strong>Oren Halden:</strong> small hands, burned thumb, repaired the north window. Elsbeth takes no sugar; he always remembered.</p>\n<p><strong>Garrick Clover:</strong> more salt than Marnie allowed, laughed before the end of his own stories.</p>\n<p><strong>Ada Brindle:</strong> flour behind her left ear when she was tired.</p>\n<p><strong>Perrin Voss:</strong> taps a letter twice before sealing it.</p>\n<p><strong>Sella Venn:</strong> leaves three diagonal stitches where others leave two.</p>\n<p><strong>Corven Flint:</strong> listens to the hammer after he has put it down.</p>\n<p>I have checked the chairs again. The number of people has changed. The number of places they wore into this house has not.</p>\n<p>If I forget, please tell me something they did. A name may slide away. A kindness catches.</p>\n</section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "register"
+        }
+      },
+      "_key": "!journal.pages!bef41a753027d81e.ab3eec320f6e68a9"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "h-register",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "player",
+      "stillrootGroup": "Player - Reveal Handouts"
+    },
+    "stillroots-song-journals": {
+      "key": "h-register",
+      "audience": "player",
+      "group": "Player - Reveal Handouts",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!bef41a753027d81e"
+}

@@ -1,0 +1,74 @@
+{
+  "_id": "7227e97956ec0c2a",
+  "name": "08 - Dawn, Grief and Endings",
+  "sort": 900000,
+  "folder": "ca0320f726c0fc33",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "bed6bad522f16dc0",
+      "name": "Victory that remains a victory",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Dawn in Stillroot</h1>\n<blockquote>\n<p>The first sound is a bird outside the window. It sings without knowing what the village has survived.</p>\n<p>When you open your eyes, the room is simply a room. Cloth, stone, a guttering candle. Beyond the door, people are speaking too loudly and stopping too suddenly. Someone laughs. Someone begins to cry.</p>\n<p>The chapel bell rings once. Hoss lets the rope hang and covers his face with both hands.</p>\n<p>In the square, Mrs. Halden is saying her husband's name to anyone who will listen. At the forge, Thomlin stands beside an older man's tools while Torbin reads the apprenticeship agreement aloud.</p>\n<p>Nobody calls the morning peaceful. But it belongs to them.</p>\n</blockquote>\n<h3>Resolve individual outcomes</h3>\n<p><strong>Uppa restored:</strong> he is weak but present, records the party's names and eventually asks, 'Did we win, or is this the verse where you all pretend we did?' Let the PCs answer. <strong>Uppa still dead:</strong> Hoss describes the next real step toward resurrection; no false promise that the organ automatically solved it.</p>\n<p><strong>Living dream-captives:</strong> those saved from the camp, threshold or organ awaken. <strong>Murdered witnesses and consumed villagers:</strong> they remain dead unless revived with appropriate magic. Their names, relationships and grief return. Do not show every corpse alive in the epilogue after telling players the deaths were real.</p>\n<p><strong>The hags:</strong> their local network is destroyed. They may exist elsewhere, but cannot simply resume the same village spell next morning. Any sequel requires new action and gives the heroes' victory weight.</p>\n<h3>Rewards</h3>\n<p>The village offers shelter, aid and a collectively raised payment appropriate to the campaign. Keep the previously agreed starting magic-item allowance separate from treasure. A surviving keepsake can become a mundane token of thanks; do not automatically award an Aegis artefact or mislabel a rare item as very rare.</p>\n<h3>Final line, optional</h3>\n<p>'For a moment, beneath the birdsong, you think you hear the old hum. Then Uppa clears his throat, someone opens a window, and the moment passes.'</p>\n<p>This stinger may be a memory of trauma. It does not declare the monster secretly won.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.7227e97956ec0c2a.JournalEntryPage.fe436dcba1dec169]{Next: Bargain, retreat and debrief}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "dawn"
+        }
+      },
+      "_key": "!journal.pages!7227e97956ec0c2a.bed6bad522f16dc0"
+    },
+    {
+      "_id": "fe436dcba1dec169",
+      "name": "Bargain, retreat and debrief",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Other honest endings</h1>\n<p><strong>The chosen forgotten hero:</strong> apply only the price agreed before the offering. Companions still recognise and can introduce the hero. Give that player the last meaningful action, not a silent exclusion from the scene. A written record and a promise from friends can close the story without reversing the cost for free.</p>\n<p><strong>Retreat with survivors:</strong> the party gets people out but leaves the focus intact. The village remains dangerous, and there is a clear future objective. Name the people rescued. A partial success is not narrated as worthless because the boss was not killed.</p>\n<p><strong>Failed confrontation:</strong> the dream starts closing around the defeated party. Resolve normal death and survival rules, then an escape opportunity, rescue by a previously protected NPC, or a clearly stated bargain. Do not retroactively nullify all earlier risks, but avoid a lengthy epilogue in which players have no agency at all.</p>\n<h3>Debrief</h3>\n<p>Return to ordinary lighting and stop the ambience. Ask each player for one image their character keeps, then one thing the player enjoyed or would prefer handled differently. Record that distinction: frightening a character and distressing a player are not the same objective.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.7227e97956ec0c2a.JournalEntryPage.bed6bad522f16dc0]{Previous: Victory that remains a victory}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "other"
+        }
+      },
+      "_key": "!journal.pages!7227e97956ec0c2a.fe436dcba1dec169"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "endings",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "00 - Run the Game"
+    },
+    "stillroots-song-journals": {
+      "key": "endings",
+      "audience": "gm",
+      "group": "00 - Run the Game",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!7227e97956ec0c2a"
+}

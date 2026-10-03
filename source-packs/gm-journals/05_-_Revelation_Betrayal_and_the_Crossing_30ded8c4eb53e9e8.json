@@ -1,0 +1,143 @@
+{
+  "_id": "30ded8c4eb53e9e8",
+  "name": "05 - Revelation, Betrayal and the Crossing",
+  "sort": 600000,
+  "folder": "5d25a994cbeca5af",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "129e1f888cce2a68",
+      "name": "Answers the party can earn early",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>From suspicion to action</h1>\n<p>By this point the characters should have proof of forgotten people, a repeatable sound experiment, and a connection between Nella and several victims. They do not need the creature's proper name to act.</p>\n<h3>Jonas's repair chest</h3>\n<p>Hoss opens the chest if shown any strong contradiction, or the party can find it by following Jonas's signature on the well-repair invoice. The chest contains @UUID[Compendium.stillroots-song-journals.handouts.JournalEntry.aa8ce8bb9da9c159]{his final entries}, the red-thread route and three labelled keepsakes. No single check gates the contents.</p>\n<blockquote>\n<p>The chest contains no treasure arranged for heroes. There is a patched scarf, a child's wooden boat, a wedding band tied to a scrap of paper. Each has a name beside it. The care is what makes the collection difficult to look at.</p>\n<p>On top lies a notebook, weighted open by a small stone. The last line has been written slowly, with such pressure that the nib cut the page: IF I FORGET THEM, THESE ARE STILL THEIRS.</p>\n</blockquote>\n<h3>A coherent revelation</h3>\n<p>Let the players state their theory. Confirm supported observations, not every inference. 'Yes, the five deliveries match the five witnesses.' 'Yes, the wax made a difference.' 'No, nothing you found proves Mrs. Halden is Nella.' The point is to convert uncertainty into a plan.</p>\n<h3>If they already know a false hydra</h3>\n<p>Knowledge is not a problem. This is a coven-built variant with an organ relay; explain observable differences rather than secretly changing its rules. The investigation can shift from identifying the monster to saving people and reaching the focus.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.30ded8c4eb53e9e8.JournalEntryPage.79852b713fef3bdd]{Next: Nella cannot retroactively win}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "reveal"
+        }
+      },
+      "_key": "!journal.pages!30ded8c4eb53e9e8.129e1f888cce2a68"
+    },
+    {
+      "_id": "79852b713fef3bdd",
+      "name": "Nella cannot retroactively win",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>The betrayal</h1>\n<p>Trigger the confrontation when Nella is exposed, interrupted collecting evidence, or stopped at a secured refuge. Do not wait for the exact moment the party is mechanically helpless.</p>\n<blockquote>\n<p>Nella looks at the scraps laid out before her: the receipt, the cuff pattern, the crystal. Her smile remains for a moment after the rest of her face has stopped trying.</p>\n<p>'You had a bed,' she says. 'You had bread. You had somebody willing to tell you it would all be all right.'</p>\n<p>Something beneath her shawl draws a long breath. Another voice answers it.</p>\n<p>'Why could you not leave it at that?'</p>\n</blockquote>\n<p>She attempts to seize one named clue or retreat toward the orchard. Give everyone normal initiative and actions. Detecting her earlier prevents surprise. Defeating the construct does not summon all three full-stat hags into the room.</p>\n<h3>What remains</h3>\n<p>Her basket contains the five slips, Corven's unfinished sketch and a paper covered in invitation sigils. The cloth unravels into black strands, but the actual evidence survives. Her last sentence is a direction, not a complete solution: 'Grandma keeps the music downstairs.'</p>\n<h3>Capture and conversation</h3>\n<p>A captured Nella knows the local route and that three coven influences maintain the focus. She is not compelled to lie successfully inside Zone of Truth. On a failed save she can refuse to answer; the party's physical evidence still stands.</p>\n<h3>The trusted-ally lesson</h3>\n<p>One helper was false. That does not make every helper false. Hoss can protect Uppa, Torbin can supply a tool, Mrs. Halden can keep watch. Reward relationships that survive the revelation.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.30ded8c4eb53e9e8.JournalEntryPage.129e1f888cce2a68]{Previous: Answers the party can earn early} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.30ded8c4eb53e9e8.JournalEntryPage.96eb0a7269685e56]{Next: Granny Nella - encounter block}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "betrayal"
+        }
+      },
+      "_key": "!journal.pages!30ded8c4eb53e9e8.79852b713fef3bdd"
+    },
+    {
+      "_id": "96eb0a7269685e56",
+      "name": "Granny Nella - encounter block",
+      "type": "text",
+      "sort": 300000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Granny Nella, dream-construct</h1>\n<p><strong>New encounter adaptation; not a replacement for any true hag.</strong> Medium fiend, chaotic evil. AC 15; HP 78; speed 30 ft. STR 10 (+0), DEX 16 (+3), CON 16 (+3), INT 14 (+2), WIS 14 (+2), CHA 18 (+4). Saves Wis +5, Cha +7. Skills Deception +7, Insight +5, Stealth +6. Resistance psychic; immunity poison; immune to Charmed and Poisoned. Darkvision 60 ft.; passive Perception 12. Common and the coven's languages. <strong>Unrated custom encounter; not a certified CR.</strong></p>\n<p><strong>False Grandmother.</strong> Her disguise is a magical illusion. Physical interaction permits a DC 15 Investigation check; truesight reveals the threads. Evidence does not require penetrating the illusion.</p>\n<p><strong>Actions - Multiattack.</strong> Two Stitch-Claw attacks.</p>\n<p><strong>Stitch-Claw.</strong> Melee +6, reach 5 ft.; 7 (1d8 + 3) slashing plus 7 (2d6) psychic damage.</p>\n<p><strong>Invitation Tether (1/day; spell effect, 4th level).</strong> A creature within 30 feet makes a DC 15 Wisdom save. Failure restrains it in spectral thread for up to 1 minute, repeating the save at the end of each turn. An ally can use an action to cut the thread (AC 12, 10 HP). This is not forced sleep and never steals an action already taken. Requires Nella's concentration.</p>\n<p><strong>Bonus action - Slip the Seam (2/day).</strong> Teleport up to 20 feet to a visible unoccupied space. This cannot pass through an unseen closed door.</p>\n<p><strong>Reaction - Paper Body.</strong> When hit by an attack, reduce its damage by 7. A visible section of her disguise tears away.</p>\n<p><strong>Tactics:</strong> she prioritises escape or a clue she can visibly reach. She does not finish off downed PCs. For four depleted PCs, reduce HP to 60 and make only one claw attack; for six rested PCs, keep the block as written. This is a short reveal encounter, not the session's hardest fight.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.30ded8c4eb53e9e8.JournalEntryPage.79852b713fef3bdd]{Previous: Nella cannot retroactively win} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.30ded8c4eb53e9e8.JournalEntryPage.756de95bbc88fb5d]{Next: Voluntary lucid crossing}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "spy-stat"
+        }
+      },
+      "_key": "!journal.pages!30ded8c4eb53e9e8.96eb0a7269685e56"
+    },
+    {
+      "_id": "756de95bbc88fb5d",
+      "name": "Voluntary lucid crossing",
+      "type": "text",
+      "sort": 400000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Entering the shared dream</h1>\n<p>The ritual uses <strong>an anchored red cord, an ordinary light and one freely spoken memory from each participant</strong>. No poisonous real-world tincture recipe is needed. This replaces the earlier belladonna preparation with a fictional, non-ingestible ritual.</p>\n<p>The characters may sleep, trance or meditate. Creatures that do not sleep can participate willingly; immunity to magical sleep is not removed. The ritual takes ten quiet minutes. Their bodies remain protected in their chosen refuge, or they enter bodily through the cistern route.</p>\n<blockquote>\n<p>The cord lies across your wrists without binding them. Each remembered detail seems small in this room: a laugh, a promise, a debt of three copper pieces. Yet when the last person speaks, the light straightens as though the flame has found something firm to stand on.</p>\n<p>Behind your closed eyes, a door appears. It is the chapel door. The latch is on the wrong side.</p>\n<p>When it opens, you can hear the village breathing.</p>\n</blockquote>\n<h3>Dream stakes</h3>\n<p>Resources remain the same; entry is not a new rest. Damage and expended resources carry back to the body through the tether. At 0 HP, use the normal unconsciousness and death-save rules; allies can heal normally. This is disclosed before crossing. The party can voluntarily withdraw at the marked threshold with one minute of uninterrupted concentration by any conscious participant; allies may carry unconscious companions back.</p>\n<p>Destroying the organ returns survivors automatically. Dead characters do not silently revive unless the table chose that rule beforehand. The finale includes ways to avoid sacrificing a character.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.30ded8c4eb53e9e8.JournalEntryPage.96eb0a7269685e56]{Previous: Granny Nella - encounter block} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.30ded8c4eb53e9e8.JournalEntryPage.b59579d1da9c0126]{Next: Physical descent and alternative plans}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "ritual"
+        }
+      },
+      "_key": "!journal.pages!30ded8c4eb53e9e8.756de95bbc88fb5d"
+    },
+    {
+      "_id": "b59579d1da9c0126",
+      "name": "Physical descent and alternative plans",
+      "type": "text",
+      "sort": 500000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>No compulsory sleep railroad</h1>\n<p>The well grille, the tailor's cellar and the fissure at the crystals all reach the same under-village cistern. An ordinary locked grille can be opened, picked, broken or bypassed using appropriate abilities. Use AC 17, 30 HP for the grille and DC 15 Dexterity with thieves' tools for the lock; failure makes noise but does not seal every route.</p>\n<p>At the cistern, the boundary of the dream is visible: reflections show buildings rather than water; the red thread continues through a door that is not in the stone. Stepping through bodily is an alternative to the ritual. The final space has an accessible physical anchor, so planar travel is not a required spell tax.</p>\n<p>A party using Silence can see and approach the hidden necks in the real tunnels. They may attack the physical apparatus. Use the same organ objectives and dreambound hydra block, not a second mandatory boss after the dream boss. Success by either route breaks the same machinery.</p>\n<h3>Evacuation</h3>\n<p>The party can leave. Sheltering people beyond the local acoustic field prevents immediate recognition interference, but already tethered sleepers still need the core broken to wake fully. Evacuating willing villagers meaningfully lowers the number at risk and may replace a combat with an organised rescue.</p>\n<h3>Bypassing a room</h3>\n<p>Good reconnaissance, flight, teleportation, force or a logical shortcut may skip a trial. Record the benefit they forgo, not an invisible punishment. The finale remains solvable through direct attacks and dispelling even without every optional counter-statement.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.30ded8c4eb53e9e8.JournalEntryPage.756de95bbc88fb5d]{Previous: Voluntary lucid crossing}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "physical"
+        }
+      },
+      "_key": "!journal.pages!30ded8c4eb53e9e8.b59579d1da9c0126"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "crossing",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "01 - Acts and Locations"
+    },
+    "stillroots-song-journals": {
+      "key": "crossing",
+      "audience": "gm",
+      "group": "01 - Acts and Locations",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!30ded8c4eb53e9e8"
+}

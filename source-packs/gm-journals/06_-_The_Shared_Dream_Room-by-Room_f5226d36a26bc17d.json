@@ -1,0 +1,212 @@
+{
+  "_id": "f5226d36a26bc17d",
+  "name": "06 - The Shared Dream: Room-by-Room",
+  "sort": 700000,
+  "folder": "7dc02ee089d8ff31",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "c637d75361ad518a",
+      "name": "Dream geography and connections",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>The village turned inward</h1>\n<p>This is a <strong>room key for your existing map</strong>, not a new battlemap. Use these connections, merging rooms where your layout requires it.</p>\n<p><strong>D1 Sleep Pit / false village -&gt; D2 Hall of Forgotten Faces -&gt; D3 Bone Chime Gallery -&gt; D4 Mirror Chapel -&gt; D5 Memory Loom -&gt; D6 Shared Nightmare Trial -&gt; D7 Quiet Threshold -&gt; D8 Hydra's Maw.</strong></p>\n<p>A side route from D3 reaches the optional @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.b80c4bb719ef3065]{hag war-camp dream}. D5 can connect to @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.3d8b573a7bc9559d]{Elysia's library} as an optional refuge. The red guide-thread joins D1, D4, D5 and D7, providing a reliable return path.</p>\n<h3>Purpose, not filler</h3>\n<table>\n<thead>\n<tr>\n<th>Room</th>\n<th>New information or benefit</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>D1</td>\n<td>The dream is shared; navigation can be tested.</td>\n</tr>\n<tr>\n<td>D2</td>\n<td>Names and personal detail interrupt concealment.</td>\n</tr>\n<tr>\n<td>D3</td>\n<td>Silencing a component weakens the larger song.</td>\n</tr>\n<tr>\n<td>D4</td>\n<td>A genuine memory breaks false authority.</td>\n</tr>\n<tr>\n<td>D5</td>\n<td>Three stops protect one central organ core.</td>\n</tr>\n<tr>\n<td>D6</td>\n<td>Companions can reject the hags' accusations together.</td>\n</tr>\n<tr>\n<td>D7</td>\n<td>The party can plan and recover before the finale.</td>\n</tr>\n<tr>\n<td>D8</td>\n<td>Apply what they learned; save the village.</td>\n</tr>\n</tbody>\n</table>\n<p>For four hours, run D1, D3, D5 and a combined D6/D7 before D8. Bypassing a room never makes the core invulnerable: combat and dispelling always remain possible.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.f5226d36a26bc17d.JournalEntryPage.3153751b563b71ba]{Next: D1 - Sleep Pit and false Stillroot}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "route"
+        }
+      },
+      "_key": "!journal.pages!f5226d36a26bc17d.c637d75361ad518a"
+    },
+    {
+      "_id": "3153751b563b71ba",
+      "name": "D1 - Sleep Pit and false Stillroot",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>D1. The Sleep Pit</h1>\n<blockquote>\n<p>You stand at the bottom of a shallow bowl of pale stone. Above its rim is Stillroot's square, seen from a height that makes no sense. The well is overhead. Its rope hangs down toward you and then curves sideways through a doorway.</p>\n<p>The village is not empty. People stand in familiar arrangements: a customer at a counter, a priest beside a bed, a child holding a rabbit. They have been placed where someone remembers them belonging.</p>\n<p>None of their shadows quite reaches their feet.</p>\n</blockquote>\n<p><strong>Visible exits:</strong> a lane lined with framed portraits, the chapel door, and the anchored red cord. Following any one gets the party forward. There is no hidden correct compass direction.</p>\n<p><strong>Challenge:</strong> a villager-image steps into the path and asks, 'Who is missing?' Any genuinely known name and one personal detail lets it stand aside. Showing a signed record works. Attacking it breaks the image without harming the real villager, but earns no Lucid token.</p>\n<p><strong>Reward:</strong> one token for the party if they preserve the identity rather than merely naming a monster. <strong>Failure:</strong> the lane loops once and the party hears its own answer spoken by Nella. They can try a different approach; there is no damage tax.</p>\n<p><strong>Countermeasure:</strong> rope and chalk tied to physical anchor points remain. The dream may rearrange doorways, but the party can follow their own preparation.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.f5226d36a26bc17d.JournalEntryPage.c637d75361ad518a]{Previous: Dream geography and connections} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.f5226d36a26bc17d.JournalEntryPage.d1f6b609954c8aec]{Next: D2 - Hall of Forgotten Faces}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "pit"
+        }
+      },
+      "_key": "!journal.pages!f5226d36a26bc17d.3153751b563b71ba"
+    },
+    {
+      "_id": "d1f6b609954c8aec",
+      "name": "D2 - Hall of Forgotten Faces",
+      "type": "text",
+      "sort": 300000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>D2. Hall of Forgotten Faces</h1>\n<blockquote>\n<p>Portraits fill both walls. Some show dignified strangers. Others have been painted with such ordinary affection that they feel more private than grand: a flour-stained sleeve, a crooked smile, an unfinished cup of tea.</p>\n<p>Every brass nameplate has been polished clean.</p>\n<p>As you pass, one frame tilts. The face inside looks past you toward the space where Uppa would usually stand.</p>\n</blockquote>\n<p><strong>Puzzle:</strong> three frames correspond to people the PCs have learned about: Oren's small hammer, Edda's red book, Ada's wax. Place the matching name or object below a frame. One correct match opens the exit; all three earn one token each to up to three different PCs.</p>\n<p><strong>Checks:</strong> DC 14 Investigation identifies the matching object; a relevant recorded detail succeeds without rolling. Incorrect matches whisper an invented relationship, but do not overwrite the character's actual history.</p>\n<p><strong>Reveal:</strong> a fourth frame contains Nella's kindly face, with no personal object at all. Behind it are the five delivery slips reproduced in black thread. This is corroboration of a known culprit, not a mandatory new twist.</p>\n<p><strong>Exit:</strong> the Bone Chime Gallery. A continuous thread also permits retreat to D1.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.f5226d36a26bc17d.JournalEntryPage.3153751b563b71ba]{Previous: D1 - Sleep Pit and false Stillroot} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.f5226d36a26bc17d.JournalEntryPage.58f2359e84667cba]{Next: D3 - Bone Chime Gallery}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "faces"
+        }
+      },
+      "_key": "!journal.pages!f5226d36a26bc17d.d1f6b609954c8aec"
+    },
+    {
+      "_id": "58f2359e84667cba",
+      "name": "D3 - Bone Chime Gallery",
+      "type": "text",
+      "sort": 400000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>D3. Bone Chime Gallery</h1>\n<blockquote>\n<p>Something delicate clicks in the dark. Thin pieces of bone hang from cords across the passage, arranged at chest height, knee height, and close to the floor. None moves in the draught.</p>\n<p>Then a single chime turns toward you. The note it makes is the sound of someone drawing breath before saying your name.</p>\n</blockquote>\n<p><strong>Hazard:</strong> three chime clusters cross a 30-foot passage. Describe their rising vibration before a character touches one. Moving slowly with a hand light, using tools, wrapping a cluster, or passing through Silence disables one without a check. Otherwise a DC 15 Dexterity check using a relevant proficiency safely secures it.</p>\n<p>Failure triggers one pulse: DC 15 Wisdom save, taking 10 (3d6) psychic damage on failure, half on success. Only one pulse per character per passage, not per step. No additional Terror save is layered on the same failure.</p>\n<p><strong>Breakthrough:</strong> once a cluster is stilled, its voice drops out of the background choir. This is a rehearsal for the organ. The party obtains a <strong>counter-statement</strong>: 'A name is not a debt.'</p>\n<p><strong>Alternative:</strong> destroy a cluster (AC 12, 10 HP; immune poison and psychic). An attack first triggers the same warned pulse, then the chime stays destroyed. No regeneration.</p>\n<p><strong>Optional exit:</strong> a darkling patrol trail leads to the @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.b80c4bb719ef3065]{war camp}; it is plainly a detour.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.f5226d36a26bc17d.JournalEntryPage.d1f6b609954c8aec]{Previous: D2 - Hall of Forgotten Faces} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.f5226d36a26bc17d.JournalEntryPage.f55e738d3f46823a]{Next: D4 - Mirror Chapel}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "chimes"
+        }
+      },
+      "_key": "!journal.pages!f5226d36a26bc17d.58f2359e84667cba"
+    },
+    {
+      "_id": "f55e738d3f46823a",
+      "name": "D4 - Mirror Chapel",
+      "type": "text",
+      "sort": 500000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>D4. The Mirror Chapel</h1>\n<blockquote>\n<p>The chapel is upside down only in the windows. Around you the pews stand on stone and the altar is where it should be. In the glass, the same room hangs over an immeasurable drop.</p>\n<p>Hoss is reading from a blank book. His voice is calm. The voice answering from the windows is calmer.</p>\n<p>'All names have been accounted for.'</p>\n</blockquote>\n<p>Use @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.353fd39665abdf09.JournalEntryPage.01c43a68c1dbb559]{Hoss's Form B}. The false sermon says forgetting a person is an act of kindness. A PC counters it by describing a moment of actual care that depended on remembering: Uppa's chosen name, Mrs. Halden's tea, Thomlin's lesson.</p>\n<p><strong>Resolve:</strong> a relevant, specific memory or restored name succeeds without a roll. An improvised argument can use DC 15 Religion, Insight or Persuasion. Failure causes the window-voice to repeat the character's sentence with one cruel word changed; they can help each other try again.</p>\n<p><strong>Reward:</strong> regain one Terror stage and gain the counter-statement <strong>'Trust is freely given.'</strong> This reward occurs once for the room.</p>\n<p><strong>Keepsakes:</strong> the chapel contains dream echoes of the named items Jonas preserved. A PC can carry one to the organ; it counts as a remembrance anchor there. These are not new magic items for permanent inventory.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.f5226d36a26bc17d.JournalEntryPage.58f2359e84667cba]{Previous: D3 - Bone Chime Gallery} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.f5226d36a26bc17d.JournalEntryPage.d00f000ecbade270]{Next: D5 - The Memory Loom}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "chapel"
+        }
+      },
+      "_key": "!journal.pages!f5226d36a26bc17d.f55e738d3f46823a"
+    },
+    {
+      "_id": "d00f000ecbade270",
+      "name": "D5 - The Memory Loom",
+      "type": "text",
+      "sort": 600000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>D5. The Memory Loom</h1>\n<blockquote>\n<p>The room is full of thread, but there is no fabric on the loom. Each strand runs from a small object suspended in the dark: a spoon, a worn glove, a brass room key. When the shuttle crosses, a voice gives an ordinary answer to a question nobody asked.</p>\n<p>Three thick cords leave the loom through separate holes. One is knotted with tiny nameplates. One glistens like a serpent's shed skin. The last moves when something far away breathes.</p>\n<p>Between them, a fourth cord remains slack.</p>\n</blockquote>\n<p><strong>Automatic information:</strong> the three cords correspond to NAMES, TRUST and FLESH on Corven's diagram. They feed three independent organ stops. The slack fourth cord connects to the protected core.</p>\n<p><strong>Interaction:</strong> dampen or sever one sample thread; hear its corresponding voice falter in the next chamber. The sample reconnects only when the visible shuttle returns across it. Stopping the shuttle pins that interruption in place long enough to study, not enough to win remotely.</p>\n<p><strong>Skill option:</strong> DC 15 Arcana, Investigation, thieves' tools or weaver's tools obtains a clear sequence immediately. Failure costs time in the fiction and the loom speaks a character's public name; the essential explanation is still discovered.</p>\n<p><strong>Reward:</strong> the counter-statement <strong>'The body is not a prison.'</strong> Also obtain one remembrance anchor, or replace a missing one. The route to the final core is never gated on owning a particular artefact.</p>\n<p><strong>Coven glimpse:</strong> Babha owns the nameplates, Mama's reflection moves along the slick cord, and Gahgah's two mouths breathe against the flesh-cord. These are remote images. The party is not suddenly fighting the original CR 22/15/18 stat blocks here.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.f5226d36a26bc17d.JournalEntryPage.f55e738d3f46823a]{Previous: D4 - Mirror Chapel} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.f5226d36a26bc17d.JournalEntryPage.142720364157b2f6]{Next: D6 - Shared Nightmare Trial}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "loom"
+        }
+      },
+      "_key": "!journal.pages!f5226d36a26bc17d.d00f000ecbade270"
+    },
+    {
+      "_id": "142720364157b2f6",
+      "name": "D6 - Shared Nightmare Trial",
+      "type": "text",
+      "sort": 700000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>D6. Do not let the dream isolate them</h1>\n<p>Give each PC <strong>one brief image and one choice</strong>, all in a common room. Keep each spotlight to roughly a minute before returning to the group. No long solo combat for every character.</p>\n<blockquote>\n<p>The walls open into rooms that belong to other years. A childhood doorway. A table with a place left empty. A battlefield after the shouting has stopped.</p>\n<p>In each room stands someone who knows how to hurt you with a sentence.</p>\n<p>'If you really cared,' they begin.</p>\n</blockquote>\n<p>Use only the fictional fears agreed before play. The dream makes an accusation; the player chooses whether to answer, reject the premise, accept a real regret without accepting the lie, or ask a companion for help.</p>\n<h3>Four ready prompts</h3>\n<p><strong>Forgotten friend:</strong> 'Say one thing you remember that nobody else would notice.' <strong>Failed rescue:</strong> 'What did you do, not what does this voice claim you should have done?' <strong>Public accusation:</strong> 'Who here has actually seen you choose differently?' <strong>The empty stretcher:</strong> 'What remains true about Uppa even when he cannot answer?'</p>\n<p>A grounded reply supported by established play succeeds. Otherwise use DC 15 Wisdom, Charisma or an appropriate skill; an ally's specific support grants advantage. On failure take 7 (2d6) psychic damage and retain one unsettling image, but the character is not locked away or forced to attack a friend. A token can turn the attempt into a success.</p>\n<p><strong>Completion:</strong> once everyone has acted, the exit opens regardless of the number of failed checks. Each successful participant gains a Lucid token or reduces Terror by one. The room's purpose is mutual recognition, not a pass/fail test of acting ability.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.f5226d36a26bc17d.JournalEntryPage.d00f000ecbade270]{Previous: D5 - The Memory Loom} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.f5226d36a26bc17d.JournalEntryPage.294b7de02a977a84]{Next: D7 - The quiet threshold}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "trial"
+        }
+      },
+      "_key": "!journal.pages!f5226d36a26bc17d.142720364157b2f6"
+    },
+    {
+      "_id": "294b7de02a977a84",
+      "name": "D7 - The quiet threshold",
+      "type": "text",
+      "sort": 800000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>D7. A real moment to breathe</h1>\n<blockquote>\n<p>Beyond the mirrors lies a small room with a stone bench. There are no voices here. No writing rearranges itself when you blink. A cup of water sits beside a folded cloth.</p>\n<p>The red cord passes through the room and continues under the far door.</p>\n<p>For a little while, the quiet is only quiet.</p>\n</blockquote>\n<p>This is a genuine safe spot. Ten minutes here can trigger the stated respite recovery. If your pacing allows a short rest, let its normal benefits apply; do not secretly attack the group because they trusted the only honest room.</p>\n<p>On the door is the final diagram: <strong>three stops around one core</strong>. Through a narrow opening the PCs can observe the arena, identify each stop and plan a division of effort. There is no initiative scramble, surprise loss of spells or unseen final preparation tax.</p>\n<p>The door can be opened, or the party can return along the cord. Enter @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.0372dd61e62dfc2b]{the Hydra's Maw} when they choose.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.f5226d36a26bc17d.JournalEntryPage.142720364157b2f6]{Previous: D6 - Shared Nightmare Trial}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "threshold"
+        }
+      },
+      "_key": "!journal.pages!f5226d36a26bc17d.294b7de02a977a84"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "dungeon",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "03 - Dream Dungeon"
+    },
+    "stillroots-song-journals": {
+      "key": "dungeon",
+      "audience": "gm",
+      "group": "03 - Dream Dungeon",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!f5226d36a26bc17d"
+}

@@ -1,0 +1,465 @@
+{
+  "module": "stillroots-song-journals",
+  "version": "1.2.0",
+  "journals": [
+    {
+      "key": "start",
+      "id": "51568cbd1c2f53df",
+      "name": "00 - GM Command Centre",
+      "pack": "gm-journals",
+      "group": "00 - Run the Game",
+      "audience": "gm",
+      "pages": 5
+    },
+    {
+      "key": "truth",
+      "id": "66d06aa48fc28d63",
+      "name": "01 - The Truth and Evidence Web",
+      "pack": "gm-journals",
+      "group": "00 - Run the Game",
+      "audience": "gm",
+      "pages": 3
+    },
+    {
+      "key": "rules",
+      "id": "ba872b141c8533da",
+      "name": "02 - House Rules, Terror and Dream Logic",
+      "pack": "gm-journals",
+      "group": "00 - Run the Game",
+      "audience": "gm",
+      "pages": 4
+    },
+    {
+      "key": "arrival",
+      "id": "9848b98a77681d3a",
+      "name": "03 - Arrival, Refuge and Uppa Kase",
+      "pack": "gm-journals",
+      "group": "01 - Acts and Locations",
+      "audience": "gm",
+      "pages": 3
+    },
+    {
+      "key": "village",
+      "id": "7c35ad3c3aca79cd",
+      "name": "04 - Stillroot Hollow: Location Key",
+      "pack": "gm-journals",
+      "group": "01 - Acts and Locations",
+      "audience": "gm",
+      "pages": 2
+    },
+    {
+      "key": "crossing",
+      "id": "30ded8c4eb53e9e8",
+      "name": "05 - Revelation, Betrayal and the Crossing",
+      "pack": "gm-journals",
+      "group": "01 - Acts and Locations",
+      "audience": "gm",
+      "pages": 5
+    },
+    {
+      "key": "dungeon",
+      "id": "f5226d36a26bc17d",
+      "name": "06 - The Shared Dream: Room-by-Room",
+      "pack": "gm-journals",
+      "group": "03 - Dream Dungeon",
+      "audience": "gm",
+      "pages": 8
+    },
+    {
+      "key": "finale",
+      "id": "0372dd61e62dfc2b",
+      "name": "07 - Break the Chorus: Finale",
+      "pack": "gm-journals",
+      "group": "03 - Dream Dungeon",
+      "audience": "gm",
+      "pages": 5
+    },
+    {
+      "key": "endings",
+      "id": "7227e97956ec0c2a",
+      "name": "08 - Dawn, Grief and Endings",
+      "pack": "gm-journals",
+      "group": "00 - Run the Game",
+      "audience": "gm",
+      "pages": 2
+    },
+    {
+      "key": "tracker",
+      "id": "64c139810b16c4e4",
+      "name": "09 - Editable GM Session Tracker",
+      "pack": "gm-journals",
+      "group": "00 - Run the Game",
+      "audience": "gm",
+      "pages": 1
+    },
+    {
+      "key": "cast",
+      "id": "a4a82098d2ad6ed2",
+      "name": "10 - Cast Index and Relationships",
+      "pack": "gm-journals",
+      "group": "02 - Villager Dossiers",
+      "audience": "gm",
+      "pages": 1
+    },
+    {
+      "key": "marnie",
+      "id": "042891bee7c93b81",
+      "name": "11 - Marnie Clover, the Butcher's Widow",
+      "pack": "gm-journals",
+      "group": "02 - Villager Dossiers",
+      "audience": "gm",
+      "pages": 2
+    },
+    {
+      "key": "thomlin",
+      "id": "faaa4ec63b69cf5f",
+      "name": "12 - Thomlin, the Blacksmith's Boy",
+      "pack": "gm-journals",
+      "group": "02 - Villager Dossiers",
+      "audience": "gm",
+      "pages": 2
+    },
+    {
+      "key": "hoss",
+      "id": "353fd39665abdf09",
+      "name": "13 - Reverend Ervin Hoss",
+      "pack": "gm-journals",
+      "group": "02 - Villager Dossiers",
+      "audience": "gm",
+      "pages": 3
+    },
+    {
+      "key": "naya",
+      "id": "aee1f0bbefed24bb",
+      "name": "14 - Naya and Coppers",
+      "pack": "gm-journals",
+      "group": "02 - Villager Dossiers",
+      "audience": "gm",
+      "pages": 2
+    },
+    {
+      "key": "torbin",
+      "id": "eefede03062b04f4",
+      "name": "15 - Torbin Crest, the Smiling Blacksmith",
+      "pack": "gm-journals",
+      "group": "02 - Villager Dossiers",
+      "audience": "gm",
+      "pages": 2
+    },
+    {
+      "key": "nella",
+      "id": "abd471fb49f0eaa2",
+      "name": "16 - Granny Nella, Apple-Pie Seller",
+      "pack": "gm-journals",
+      "group": "02 - Villager Dossiers",
+      "audience": "gm",
+      "pages": 2
+    },
+    {
+      "key": "halden",
+      "id": "631d9b3a0cacf8bd",
+      "name": "17 - Mrs. Halden, the Woman They Forget",
+      "pack": "gm-journals",
+      "group": "02 - Villager Dossiers",
+      "audience": "gm",
+      "pages": 1
+    },
+    {
+      "key": "jonas",
+      "id": "c1ad48ca063c7686",
+      "name": "18 - Jonas Verstand, the Dream Warden",
+      "pack": "gm-journals",
+      "group": "02 - Villager Dossiers",
+      "audience": "gm",
+      "pages": 1
+    },
+    {
+      "key": "bakery",
+      "id": "5901d8f9115db498",
+      "name": "20 - The Bakery: The Cradle Crust",
+      "pack": "gm-journals",
+      "group": "01 - Acts and Locations",
+      "audience": "gm",
+      "pages": 2
+    },
+    {
+      "key": "inn",
+      "id": "1f0c412a75cec824",
+      "name": "21 - Humblenook Inn: Mounted",
+      "pack": "gm-journals",
+      "group": "01 - Acts and Locations",
+      "audience": "gm",
+      "pages": 2
+    },
+    {
+      "key": "home",
+      "id": "e28a14cc133b79ee",
+      "name": "22 - Hearthhouse: Echoes in the Rocking Room",
+      "pack": "gm-journals",
+      "group": "01 - Acts and Locations",
+      "audience": "gm",
+      "pages": 2
+    },
+    {
+      "key": "tailor",
+      "id": "5291d63a5044e820",
+      "name": "23 - Unraveled: Threadbare Truths",
+      "pack": "gm-journals",
+      "group": "01 - Acts and Locations",
+      "audience": "gm",
+      "pages": 2
+    },
+    {
+      "key": "crystal",
+      "id": "547690f61d0e4f51",
+      "name": "24 - The Glowing Crystals: Choral Bloom",
+      "pack": "gm-journals",
+      "group": "01 - Acts and Locations",
+      "audience": "gm",
+      "pages": 2
+    },
+    {
+      "key": "coven",
+      "id": "324a27e6b537b4f3",
+      "name": "30 - Babha Yagha's Coven: Performance",
+      "pack": "gm-journals",
+      "group": "04 - Coven and Creatures",
+      "audience": "gm",
+      "pages": 4
+    },
+    {
+      "key": "covenstats",
+      "id": "61d5f0fb7403f229",
+      "name": "31 - Coven Source Stat Blocks",
+      "pack": "gm-journals",
+      "group": "04 - Coven and Creatures",
+      "audience": "gm",
+      "pages": 7
+    },
+    {
+      "key": "audit",
+      "id": "1abafce5d3fc121a",
+      "name": "32 - Mechanical Audit: Explicit Decisions",
+      "pack": "gm-journals",
+      "group": "04 - Coven and Creatures",
+      "audience": "gm",
+      "pages": 2
+    },
+    {
+      "key": "jail",
+      "id": "321cee58cb2e099b",
+      "name": "40 - The Giant's Den: The Bone Ring",
+      "pack": "gm-journals",
+      "group": "05 - Optional Scenes and Lore",
+      "audience": "gm",
+      "pages": 3
+    },
+    {
+      "key": "minuet",
+      "id": "1c264d3b588c6ab6",
+      "name": "41 - The Bone Minuet: A Death Cleric's Flute",
+      "pack": "gm-journals",
+      "group": "05 - Optional Scenes and Lore",
+      "audience": "gm",
+      "pages": 1
+    },
+    {
+      "key": "camp",
+      "id": "b80c4bb719ef3065",
+      "name": "42 - Hag Camp: Daring Rescue",
+      "pack": "gm-journals",
+      "group": "05 - Optional Scenes and Lore",
+      "audience": "gm",
+      "pages": 2
+    },
+    {
+      "key": "library",
+      "id": "3d8b573a7bc9559d",
+      "name": "43 - Ardeep Library and Elysia",
+      "pack": "gm-journals",
+      "group": "05 - Optional Scenes and Lore",
+      "audience": "gm",
+      "pages": 2
+    },
+    {
+      "key": "aegis",
+      "id": "d9c720176785bcaf",
+      "name": "44 - Aegis of Elara: Source Artefact Appendix",
+      "pack": "gm-journals",
+      "group": "05 - Optional Scenes and Lore",
+      "audience": "gm",
+      "pages": 5
+    },
+    {
+      "key": "hekate",
+      "id": "eb9a815ed614c3db",
+      "name": "45 - Hekate: Optional Crossroads Motif",
+      "pack": "gm-journals",
+      "group": "05 - Optional Scenes and Lore",
+      "audience": "gm",
+      "pages": 1
+    },
+    {
+      "key": "art",
+      "id": "d0a99522d8ace769",
+      "name": "46 - Artwork Register and Reveal Plan",
+      "pack": "gm-journals",
+      "group": "06 - Production and Archive",
+      "audience": "gm",
+      "pages": 2
+    },
+    {
+      "key": "archive",
+      "id": "a45d4f574d4d78a0",
+      "name": "47 - Development Archive and Source Notes",
+      "pack": "gm-journals",
+      "group": "06 - Production and Archive",
+      "audience": "gm",
+      "pages": 5
+    },
+    {
+      "key": "p-welcome",
+      "id": "219d4361a12a9077",
+      "name": "P01 - Welcome to Stillroot's Song",
+      "pack": "handouts",
+      "group": "Player - Before the Game",
+      "audience": "player",
+      "pages": 1
+    },
+    {
+      "key": "p-build",
+      "id": "133dceed183b3b9e",
+      "name": "P02 - Character Creation and Preparation",
+      "pack": "handouts",
+      "group": "Player - Before the Game",
+      "audience": "player",
+      "pages": 1
+    },
+    {
+      "key": "p-backstory",
+      "id": "190bbe2440309423",
+      "name": "P03 - Shared Backstory: The Road Behind You",
+      "pack": "handouts",
+      "group": "Player - Before the Game",
+      "audience": "player",
+      "pages": 1
+    },
+    {
+      "key": "p-rules",
+      "id": "835bade6e22699ee",
+      "name": "P04 - House Rules Reference",
+      "pack": "handouts",
+      "group": "Player - Before the Game",
+      "audience": "player",
+      "pages": 1
+    },
+    {
+      "key": "p-anchors",
+      "id": "958262e2ec5cfb7f",
+      "name": "P05 - Personal Memory Card",
+      "pack": "handouts",
+      "group": "Player - Before the Game",
+      "audience": "player",
+      "pages": 1
+    },
+    {
+      "key": "h-letter",
+      "id": "b67a37bea76de4b0",
+      "name": "H01 - Perrin's Outside Letter",
+      "pack": "handouts",
+      "group": "Player - Reveal Handouts",
+      "audience": "player",
+      "pages": 1
+    },
+    {
+      "key": "h-ledger",
+      "id": "89e50d07bc62b36f",
+      "name": "H02 - Ada's Flour Ledger",
+      "pack": "handouts",
+      "group": "Player - Reveal Handouts",
+      "audience": "player",
+      "pages": 1
+    },
+    {
+      "key": "h-register",
+      "id": "bef41a753027d81e",
+      "name": "H03 - Edda's Red Register",
+      "pack": "handouts",
+      "group": "Player - Reveal Handouts",
+      "audience": "player",
+      "pages": 1
+    },
+    {
+      "key": "h-thread",
+      "id": "22c113e75d6952a0",
+      "name": "H04 - Sella's Thread Note",
+      "pack": "handouts",
+      "group": "Player - Reveal Handouts",
+      "audience": "player",
+      "pages": 1
+    },
+    {
+      "key": "h-diagram",
+      "id": "9059f0c5a20e7ecf",
+      "name": "H05 - Corven's Resonance Diagram",
+      "pack": "handouts",
+      "group": "Player - Reveal Handouts",
+      "audience": "player",
+      "pages": 1
+    },
+    {
+      "key": "h-journal",
+      "id": "aa8ce8bb9da9c159",
+      "name": "H06 - Jonas Verstand's Last Entries",
+      "pack": "handouts",
+      "group": "Player - Reveal Handouts",
+      "audience": "player",
+      "pages": 1
+    },
+    {
+      "key": "h-crossing",
+      "id": "13f0a078af64e89f",
+      "name": "H07 - The Lucid Crossing",
+      "pack": "handouts",
+      "group": "Player - Reveal Handouts",
+      "audience": "player",
+      "pages": 1
+    },
+    {
+      "key": "h-lucid",
+      "id": "ad29fec40a2366c1",
+      "name": "H08 - Lucid Token Card",
+      "pack": "handouts",
+      "group": "Player - Reveal Handouts",
+      "audience": "player",
+      "pages": 1
+    },
+    {
+      "key": "h-unicorn",
+      "id": "66a58efdddf8a7b6",
+      "name": "H09 - The Mask's First Riddle",
+      "pack": "handouts",
+      "group": "Player - Reveal Handouts",
+      "audience": "player",
+      "pages": 1
+    },
+    {
+      "key": "h-blood",
+      "id": "5f4792a87634298a",
+      "name": "H10 - The Mask's Second Riddle",
+      "pack": "handouts",
+      "group": "Player - Reveal Handouts",
+      "audience": "player",
+      "pages": 1
+    },
+    {
+      "key": "h-proof",
+      "id": "41ff2f837b584ef9",
+      "name": "H11 - Evidence Board",
+      "pack": "handouts",
+      "group": "Player - Reveal Handouts",
+      "audience": "player",
+      "pages": 1
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "_id": "0372dd61e62dfc2b",
+  "name": "07 - Break the Chorus: Finale",
+  "sort": 800000,
+  "folder": "7dc02ee089d8ff31",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "0f2aec6f0280c37c",
+      "name": "The attainable objective",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Silence the apparatus, save the village</h1>\n<p><strong>Level-10 encounter adaptation.</strong> The original coven is too powerful to treat as three routine level-10 combatants plus mounts. Their real stat blocks remain in @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.61d5f0fb7403f229]{the source journal}. This finale uses a <strong>dreambound false hydra and a three-stop organ</strong>, through which the hags project their power. It does not silently change Babha, Mama or Gahgah.</p>\n<p><strong>Victory:</strong> disable all three stops and destroy or unbind the exposed core. This collapses the local dream, removes the song and ejects the coven's projections. Killing the hydra is useful but <strong>not required</strong>. The real hags survive elsewhere unless the campaign later confronts them; their Stillroot project is genuinely ended.</p>\n<p><strong>Party scaling, not certified balance:</strong> 4 PCs: hydra 220 HP, two legendary actions. 5 PCs: 260 HP, two legendary actions. 6 PCs: 320 HP, three legendary actions. Keep the stop/core HP fixed so the objective remains attractive. These values are designed estimates and have not been live-playtested with the party's builds.</p>\n<h3>Read aloud</h3>\n<blockquote>\n<p>The chamber opens like the inside of a great instrument. Pale arches rise overhead. Along the walls, hollows breathe in sequence, gathering a note that has followed you through every room.</p>\n<p>The organ stands at the far end. Three sets of pipes rise around a dark central chamber: one hung with names, one wound with serpent shapes, one braced by something that tightens like muscle. You recognise the pattern. You know where it can be broken.</p>\n<p>Between you and the instrument lies a mass of pallid flesh. Six long necks lift from it, each carrying an almost-human face. Their mouths remain closed until the note begins.</p>\n<p>In the polished faces of the pipes, three figures look back: an old matriarch, a snake-haired hag, and the enormous twin-headed shape of Gahgah Yagha.</p>\n<p>Babha's reflection inclines her head. 'You have mistaken a lullaby for an invitation.'</p>\n</blockquote>\n<h3>Arena sketch for your map</h3>\n<p>Use approximately <strong>80 by 60 feet</strong>, ceiling 30 feet, if you need a theatre-of-the-mind scale. Entry at one end; hydra in the middle; the three stops separated by 15-20 feet along the far half; the core between them. Two sturdy pillars provide cover. A shallow channel of memory-ooze is difficult terrain, not an instant-death pit. Leave at least two clear routes around the creature.</p>\n<p>The apparatus can be reached with mobility magic. There is no invented anti-flight ceiling, anti-teleport bubble or damage immunity activated solely because a player brought the right spell.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.0372dd61e62dfc2b.JournalEntryPage.8890dd6b832dc995]{Next: The three stops and the core}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "overview"
+        }
+      },
+      "_key": "!journal.pages!0372dd61e62dfc2b.0f2aec6f0280c37c"
+    },
+    {
+      "_id": "8890dd6b832dc995",
+      "name": "The three stops and the core",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Organ objectives</h1>\n<p>The stops are visible, reachable targets. Describe their connection to the core before initiative. Their effects are <strong>homebrew properties</strong>, not the normal rules of an ordinary musical instrument.</p>\n<p><strong>Each stop:</strong> AC 16; 45 HP; immune poison and psychic; no other resistance. A stop can be disabled by reducing it to 0 HP, by <strong>one successful Dispel Magic against a 5th-level spell effect</strong>, or by completing its two-step unbinding below. Damaged stops do not repair themselves.</p>\n<h3>Unbinding without destroying</h3>\n<p>At a stop, a creature uses an action and either succeeds on a DC 16 relevant check or spends a Lucid token: the stop becomes <strong>exposed</strong>. A second action at that stop using its counter-statement and a genuine named keepsake disables it automatically. If no keepsake was recovered, a willing PC may supply a harmless, specific memory instead; this costs one Lucid token, <strong>not permanent amnesia</strong>. Allies can split the two actions.</p>\n<table>\n<thead>\n<tr>\n<th>Stop</th>\n<th>Applicable check</th>\n<th>Counter-statement</th>\n<th>Power removed when disabled</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Babha: Names</td>\n<td>Arcana, Religion, Investigation</td>\n<td>'A name is not a debt.'</td>\n<td>Names lair effect; one use of legendary resistance if any remain.</td>\n</tr>\n<tr>\n<td>Mama: Trust</td>\n<td>Insight, Persuasion, Performance</td>\n<td>'Trust is freely given.'</td>\n<td>Trust lair effect and psychic resistance.</td>\n</tr>\n<tr>\n<td>Gahgah: Flesh</td>\n<td>Athletics, Medicine, relevant tools</td>\n<td>'The body is not a prison.'</td>\n<td>Flesh lair effect and regeneration.</td>\n</tr>\n</tbody>\n</table>\n<p>A clever, equivalent statement works; this is not a password-pronunciation trap. Clear successful magic or an appropriate class feature can substitute for a check at the GM's announced discretion.</p>\n<p><strong>Breakthrough reward:</strong> each stop's destruction reduces every PC's Terror by one and releases one visible knot of captive memories. A PC at 0 Terror instead gains 5 temporary HP; these do not stack.</p>\n<h3>Core</h3>\n<p><strong>AC 15, HP 60; immune poison and psychic.</strong> While any stop remains active it is visibly protected by interlaced force, and attacks against it cause visible ripples but no damage. Tell players this before they commit their first attack against the barrier; no hidden threshold.</p>\n<p>When all three stops are down, the barrier ends. The core can be destroyed normally, dispelled as a 6th-level spell effect, or unbound with two successful DC 16 Arcana/Religion/Performance actions at the keyboard. Failures cause 7 (2d6) psychic damage to the acting character but do not reset progress.</p>\n<h3>Silence</h3>\n<p>Silence covering a stop suppresses its corresponding lair effect while it lasts; it does not permanently disable the stop. Silence covering the core suppresses audible song effects in its normal area. The hydra still has a body and can attack. This is a powerful, legitimate countermeasure.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.0372dd61e62dfc2b.JournalEntryPage.0f2aec6f0280c37c]{Previous: The attainable objective} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.0372dd61e62dfc2b.JournalEntryPage.8887547048e73bf4]{Next: Dreambound False Hydra - complete encounter block}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "organ"
+        }
+      },
+      "_key": "!journal.pages!0372dd61e62dfc2b.8890dd6b832dc995"
+    },
+    {
+      "_id": "8887547048e73bf4",
+      "name": "Dreambound False Hydra - complete encounter block",
+      "type": "text",
+      "sort": 300000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Dreambound False Hydra</h1>\n<p><strong>Gargantuan aberration, chaotic evil. New ritual manifestation; not an official published stat block.</strong></p>\n<p><strong>AC</strong> 17; <strong>HP</strong> 260 (use scaling on the overview); <strong>Speed</strong> 20 ft., climb 20 ft.</p>\n<table>\n<thead>\n<tr>\n<th>STR</th>\n<th>DEX</th>\n<th>CON</th>\n<th>INT</th>\n<th>WIS</th>\n<th>CHA</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>20 (+5)</td>\n<td>10 (+0)</td>\n<td>20 (+5)</td>\n<td>16 (+3)</td>\n<td>16 (+3)</td>\n<td>20 (+5)</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Saves</strong> Con +9, Wis +7, Cha +9. <strong>Skills</strong> Perception +7. <strong>Resistance</strong> psychic while Mama's stop is active. <strong>Immunities</strong> poison; Charmed, Frightened, Poisoned, Prone. <strong>Senses</strong> blindsight 60 ft., darkvision 120 ft.; passive Perception 17. <strong>Languages</strong> understands Common and the coven's languages; telepathy 60 ft. <strong>Proficiency bonus</strong> +4. <strong>Challenge</strong> unrated; encounter objective and party equipment substantially affect difficulty.</p>\n<h3>Traits</h3>\n<p><strong>Six heads, one creature.</strong> The heads share one HP pool and one turn. There are no separate head initiatives, arbitrary head-severing thresholds or extra turns. Advantage on Perception checks. A spell affecting the creature uses its normal rules; heads do not create unlisted condition immunity.</p>\n<p><strong>Legendary Resistance (2/day).</strong> On a failed save, choose to succeed. Disabling the Names stop removes one unused use, if any.</p>\n<p><strong>Flesh-link regeneration.</strong> Regain 15 HP at the start of the turn while Gahgah's stop is active and the hydra has at least 1 HP. Acid damage prevents this regeneration on its next turn. At 0 HP it collapses and does not revive during the encounter; the organ must still be stopped.</p>\n<p><strong>Recognition song.</strong> Outside initiative, use the @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da.JournalEntryPage.fff2165a855d8ceb]{declared memory rules}. In combat, do not force characters to forget valid targets or cancel declared spells. The battle's memory interference is handled only by the bounded lair effects below.</p>\n<h3>Actions</h3>\n<p><strong>Multiattack.</strong> Two Bites and one Grasping Neck, or two Bites if already holding two creatures. It can replace one Bite with Moving the Taken.</p>\n<p><strong>Bite.</strong> Melee weapon attack +9, reach 20 feet, one target. Hit: 16 (2d10 + 5) piercing plus 7 (2d6) psychic damage.</p>\n<p><strong>Grasping Neck.</strong> Melee weapon attack +9, reach 20 feet, one Large or smaller creature. Hit: 12 (2d6 + 5) bludgeoning; target is Grappled (escape DC 16). At most two targets held. The target is not automatically Restrained.</p>\n<p><strong>Moving the Taken.</strong> Move one grappled target up to 15 feet to an unoccupied space within reach, then release it. The target takes no extra damage and is not automatically thrown into an unavoidable fatal hazard.</p>\n<p><strong>Dissonant Breath (recharge 5-6).</strong> A 30-foot cone; DC 17 Wisdom save. Failure: 22 (4d10) psychic damage and no reactions until the start of the hydra's next turn. Success: half damage and reactions retained. This replaces the whole Multiattack, not one bite. Deafened creatures and creatures in Silence automatically succeed against this sound-carried effect.</p>\n<h3>Legendary actions</h3>\n<p>Two points per round, or three for six PCs, regained at the start of its turn. One option at the end of another creature's turn; never on its own turn.</p>\n<p><strong>Slither (1).</strong> Move up to 10 feet without opportunity attacks.</p>\n<p><strong>Doubt (1).</strong> One creature within 60 feet that can hear: DC 17 Wisdom save or take 7 (2d6) psychic damage. Success: no damage. No additional condition.</p>\n<p><strong>Lash (2).</strong> Make one Grasping Neck attack.</p>\n<h3>Tactics</h3>\n<p>Pressure the closest active stop, use movement to force decisions, and shift attention between PCs. Do not target unconscious bodies to remove players from a one-shot. The creature guards a machine, not an abstract damage-per-round target.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.0372dd61e62dfc2b.JournalEntryPage.8890dd6b832dc995]{Previous: The three stops and the core} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.0372dd61e62dfc2b.JournalEntryPage.379adaa59af20a98]{Next: Lair effects and encounter running}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "hydra"
+        }
+      },
+      "_key": "!journal.pages!0372dd61e62dfc2b.8887547048e73bf4"
+    },
+    {
+      "_id": "379adaa59af20a98",
+      "name": "Lair effects and encounter running",
+      "type": "text",
+      "sort": 400000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>One lair event, not three hag turns</h1>\n<p>At initiative count 20, losing ties, choose <strong>one</strong> effect from an active, unsilenced stop. Do not repeat the same effect on consecutive rounds. If no available effect remains, there is no lair action. These effects stop when the core is broken or all stops are disabled.</p>\n<p><strong>Names - Babha.</strong> One creature that can hear the organ makes a DC 16 Charisma save. On failure it cannot take reactions until count 20 next round. Its own action, spell slots and initiative are not erased.</p>\n<p><strong>Trust - Mama.</strong> A 10-foot-radius area within 60 feet appears safe and inviting. Mark it visibly as the effect begins. A creature entering it for the first time on a turn or starting there makes a DC 16 Wisdom save: 7 (2d6) psychic damage on failure, none on success. One save per creature per round; area ends at count 20 next round. Do not force friendly fire.</p>\n<p><strong>Flesh - Gahgah.</strong> A visible floor-ridge crosses a 20-foot line. Creatures on it make DC 16 Dexterity saves or take 10 (3d6) bludgeoning damage and fall Prone. On success take half damage and do not fall. Mark the line first so the geometry is clear.</p>\n<h3>Three beats of the battle</h3>\n<p><strong>Opening:</strong> give a view of all objectives and let the players execute a plan. <strong>First stop falls:</strong> a distinct voice leaves the choir; make the weakened ability obvious. <strong>Core exposed:</strong> describe relief and urgency, not a new hidden phase with full resources.</p>\n<h3>Gahgah's mid-battle lines</h3>\n<p>Left head: 'They are pulling the stitches!'</p>\n<p>Right head: 'Then stop admiring them and bite!'</p>\n<p>When Flesh fails: 'No. No, that part was mine.'</p>\n<h3>Concede good play</h3>\n<p>If the party rapidly disables the stops with well-chosen spells and positioning, let them succeed. Do not inflate the core HP secretly. If the hydra is defeated first, the remaining apparatus is still dangerous through its stated lair effects but does not conjure another full boss.</p>\n<p><strong>GM log:</strong> record stop states, core HP, regeneration suppressed until next turn, legendary points, LR uses, and Terror reductions. The @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{session tracker} contains a ready table.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.0372dd61e62dfc2b.JournalEntryPage.8887547048e73bf4]{Previous: Dreambound False Hydra - complete encounter block} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.0372dd61e62dfc2b.JournalEntryPage.a13d10e519957945]{Next: Sacrifice without a hidden punishment}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "lair"
+        }
+      },
+      "_key": "!journal.pages!0372dd61e62dfc2b.379adaa59af20a98"
+    },
+    {
+      "_id": "a13d10e519957945",
+      "name": "Sacrifice without a hidden punishment",
+      "type": "text",
+      "sort": 500000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>The offered price</h1>\n<p>The early outline required a sacrifice and a forgotten survivor. This compiled edition makes that <strong>an informed, optional bargain</strong>, not an unavoidable punishment after victory.</p>\n<p>Before the core is exposed, Babha offers: 'Give us one name willingly, and the village wakes.' Explain the mechanical and narrative terms out of character before accepting. Do not obtain consent through deliberately ambiguous prose.</p>\n<h3>Three outcomes the table can choose</h3>\n<p><strong>Reject the bargain:</strong> complete the organ objectives. No mandatory personal erasure follows. The cost is risk, spent resources and confronting the victims' deaths.</p>\n<p><strong>Offer a keepsake-memory:</strong> a PC voluntarily loses the emotional vividness of one player-chosen, nonessential memory, not skills, class features or their entire identity. The offering disables one stop immediately. Their companions and written notes retain the facts. Restoration may be a later story, as agreed.</p>\n<p><strong>Become the forgotten hero:</strong> only with explicit player agreement, a PC offers their public recognition to break the core once exposed. People outside the party forget their previous association with that PC; the player still controls a present, visible character. Exact scope and reversal are agreed, not secretly expanded to erase family and equipment.</p>\n<p>Rescued captives and named keepsakes can supply enough remembrance to avoid a personal sacrifice. Do not make an NPC choose self-erasure purely to force the predetermined tragic ending.</p>\n<h3>Read aloud when the core breaks</h3>\n<blockquote>\n<p>The last note does not fade. It ends.</p>\n<p>For one unbearable instant, every pipe holds the shape of a mouth that has forgotten how to speak. The six heads turn toward the organ. The three reflections turn toward you.</p>\n<p>Then the names come back. Not as a scream. As fragments of ordinary life: a joke half finished, somebody calling from another room, a chair drawn up beside a fire.</p>\n<p>The chamber opens along lines of white light. Something releases your wrist. Your own name is yours again.</p>\n</blockquote>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.0372dd61e62dfc2b.JournalEntryPage.379adaa59af20a98]{Previous: Lair effects and encounter running}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "sacrifice"
+        }
+      },
+      "_key": "!journal.pages!0372dd61e62dfc2b.a13d10e519957945"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "finale",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "03 - Dream Dungeon"
+    },
+    "stillroots-song-journals": {
+      "key": "finale",
+      "audience": "gm",
+      "group": "03 - Dream Dungeon",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!0372dd61e62dfc2b"
+}

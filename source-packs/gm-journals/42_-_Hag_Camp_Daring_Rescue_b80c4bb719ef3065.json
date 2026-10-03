@@ -1,0 +1,74 @@
+{
+  "_id": "b80c4bb719ef3065",
+  "name": "42 - Hag Camp: Daring Rescue",
+  "sort": 3000000,
+  "folder": "af6d3e69f9dbf232",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "2e0d7ad44707a95c",
+      "name": "The dream of Ardeep",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>A rescue, not a war against an army</h1>\n<p><strong>Optional extension, 20-30 minutes.</strong> Use only in the longer session or as a replacement for two dream rooms. The supplied Ardeep camp is preserved as a <strong>dream reflection of the coven's larger power</strong>. It is not a demand that level-10 characters fight an entire army.</p>\n<blockquote>\n<p>The trees lean over a mist-filled clearing. Between them stand huts of woven branches and patched cloth, their doorways marked with charms that move when nothing touches them.</p>\n<p>Beyond the nearest fire, trolls wait in ranks. Darkling knights sit above great flail snails whose shells catch the sickly light. Farther out, shapes assemble and dissolve before you can count them.</p>\n<p>None of that is the sound that brought you here.</p>\n<p>The sound comes from a small enclosure near the supply tents: a careful knock against iron, repeated only when the guards look away. Someone inside is still trying to be heard.</p>\n</blockquote>\n<h3>Captives</h3>\n<p>The source names <strong>Kholdrer</strong> among captive children and <strong>Ayla</strong> as a rescuing companion. Retain those names only where they belong to your campaign; do not impose them as player characters or assume a particular PC identity. For a standalone group, Kholdrer is a named captive with no prior relationship required. Replace children with adult travellers if preferred by the table.</p>\n<p>Captives are alive, huddled together and responsive. No graphic harm to them is needed to establish the threat. Among them may be Mrs. Halden if she was drawn into the dream earlier.</p>\n<h3>Three actionable objectives</h3>\n<p>Reach the cages, open them, and get everyone to the red-thread path. The vast background army belongs to the horizon of the nightmare; only a local patrol can respond during this short rescue.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.b80c4bb719ef3065.JournalEntryPage.df7fd80ee2af143b]{Next: The rescue procedure}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "arrival"
+        }
+      },
+      "_key": "!journal.pages!b80c4bb719ef3065.2e0d7ad44707a95c"
+    },
+    {
+      "_id": "df7fd80ee2af143b",
+      "name": "The rescue procedure",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Running the camp as a compact heist</h1>\n<p>Give the party a clear view of the prison, supply cart, guard fire and exit. They choose an approach. Resolve one meaningful obstacle for each objective, not an unlimited series of stealth rolls.</p>\n<table>\n<thead>\n<tr>\n<th>Objective</th>\n<th>Mundane approach</th>\n<th>Magical / social approach</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Reach the cage</td>\n<td>DC 15 group Stealth using tents as cover</td>\n<td>Distraction, illusion, invisibility or impersonation with normal limits</td>\n</tr>\n<tr>\n<td>Free the captives</td>\n<td>DC 15 thieves' tools; steal a visible key; break a lock AC 15 / 15 HP</td>\n<td>Appropriate unlocking, teleportation or transformation effect</td>\n</tr>\n<tr>\n<td>Reach the path</td>\n<td>DC 15 Survival or Athletics to guide the group through mist</td>\n<td>Silence, transport or a convincingly staged false alarm</td>\n</tr>\n</tbody>\n</table>\n<p>Failures raise <strong>Alarm</strong> by one, maximum three, and alter the situation instead of killing captives. At Alarm 1 a patrol moves closer. At 2 an exit is watched. At 3 two local guards intercept; the party may fight briefly, distract them, or abandon an optional stolen object to keep the captives moving. Do not spawn the whole army.</p>\n<h3>Rewards and consequences</h3>\n<p>Each rescued group supplies one collective remembrance anchor. This can substitute for a keepsake in the finale. Kholdrer knows a short phrase: 'Grandma counts what Mama comforts. Gahgah keeps it still.' It helps match the controls to the hags.</p>\n<p><strong>Visible but not compulsory:</strong> Babha's hut beyond the fires, the cauldron circling above, Valdershmort sleeping beside a pavilion, and an enormous far-off shape identified as Gargantua. None activates merely because the GM listed its stat block.</p>\n<p>The camp can lead to @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.f5226d36a26bc17d.JournalEntryPage.d00f000ecbade270]{the Memory Loom} through a supply tunnel, keeping the rescue on the adventure's forward route.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.b80c4bb719ef3065.JournalEntryPage.2e0d7ad44707a95c]{Previous: The dream of Ardeep}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "heist"
+        }
+      },
+      "_key": "!journal.pages!b80c4bb719ef3065.df7fd80ee2af143b"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "camp",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "05 - Optional Scenes and Lore"
+    },
+    "stillroots-song-journals": {
+      "key": "camp",
+      "audience": "gm",
+      "group": "05 - Optional Scenes and Lore",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!b80c4bb719ef3065"
+}

@@ -1,0 +1,74 @@
+{
+  "_id": "5901d8f9115db498",
+  "name": "20 - The Bakery: The Cradle Crust",
+  "sort": 2000000,
+  "folder": "5d25a994cbeca5af",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "97d75012bfce186b",
+      "name": "Discovery and read-aloud",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>The Cradle Crust</h1>\n<p><strong>Victim:</strong> Ada Brindle, adult baker. <strong>Not Marnie or Granny Nella.</strong> <strong>Purpose:</strong> establish that ordinary countermeasures work. <strong>Onward leads:</strong> inn receipt; crystal dust; Nella's delivery.</p>\n<h3>Before the door opens</h3>\n<p>The front display is orderly. Yesterday's loaves are hard at the edges. A tray has been left with room for one more pie. The shop is unlocked; locals keep remembering errands elsewhere when they approach it.</p>\n<blockquote>\n<p>Apples and cinnamon reach you before the warmth does. For a moment the bakery offers the kind of comfort you have been walking toward: flour on the boards, a cloth over rising dough, a low orange light beneath the oven door.</p>\n<p>Then you hear the ticking. Not a clock. Something small touching the same place on the counter, again and again.</p>\n<p>A hand rests beside a cooling pie. Two fingers move whenever the chimney draws. Beyond the counter, Ada Brindle sits against the oven with her apron arranged across her knees, as neatly as if someone had helped her sit down. Her head is bowed. Her chest has been opened and packed with apples. Strips of baked dough have been laid across it in a patient lattice.</p>\n<p>The fire has gone out. Nothing in the room should still be warm.</p>\n<p>Beside her, on a patch of clean flour, a finger has written four words: I COULD HEAR AGAIN.</p>\n</blockquote>\n<p>Pause here. Let the players decide what they approach. The moving fingers are lifted by a barely visible dream-thread, not proof Ada remains alive. A medical examination establishes death without a roll.</p>\n<h3>Escalation after examination</h3>\n<p>A faint voice from the oven repeats a harmless phrase a PC said on entering. It stops when the flue is blocked or the thread is cut. Do not spring damage for checking the obvious clue. A Terror save is appropriate once, only at the agreed intensity.</p>\n<p><strong>Lower-detail alternative:</strong> Ada is found wrapped in oven cloth beside a cooling pie. Flour outlines the shape of hands that held her still. Her body is not described further; all evidence below remains available.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.5901d8f9115db498.JournalEntryPage.8723cec086d116c4]{Next: Evidence, answers and solution}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "scene"
+        }
+      },
+      "_key": "!journal.pages!5901d8f9115db498.97d75012bfce186b"
+    },
+    {
+      "_id": "8723cec086d116c4",
+      "name": "Evidence, answers and solution",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Investigating Ada's death</h1>\n<p><strong>True sequence:</strong> Ada experimented with wax ear-stoppers and realised she could identify a forgotten customer. Nella visited after closing, learned about the experiment and channelled a nightmare through the marked delivery paper. The body was staged afterward. The warmth is lingering dream magic, not the oven's ordinary heat.</p>\n<table>\n<thead>\n<tr>\n<th>Examination</th>\n<th>Finding</th>\n<th>What it means</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Look beside Ada's apron</td>\n<td>Two wax ear-stoppers, one crushed, one intact</td>\n<td>Hearing protection is relevant. No check needed.</td>\n</tr>\n<tr>\n<td>Read the ledger</td>\n<td>'P. Voss, Humblenook, paid for five. Nella collected.'</td>\n<td>Names a witness and connects the delivery to the inn.</td>\n</tr>\n<tr>\n<td>Check the flour</td>\n<td>Small left shoeprint with a missing triangular patch; a clear splinter in its edge</td>\n<td>Matches Nella's shoe and the inn print.</td>\n</tr>\n<tr>\n<td>Examine her work note</td>\n<td>A list of names she recovered while wearing the wax; Oren Halden appears</td>\n<td>Cross-reference Thomlin and Hearthhouse.</td>\n</tr>\n<tr>\n<td>DC 14 Medicine</td>\n<td>The oven's heat does not account for the injuries; death preceded the careful staging</td>\n<td>This was not a cooking accident.</td>\n</tr>\n<tr>\n<td>DC 15 Arcana or Detect Magic within normal limits</td>\n<td>Faint enchantment on the delivery paper and illusion on the still-warm display</td>\n<td>Magical invitation and presentation, not magical flour.</td>\n</tr>\n</tbody>\n</table>\n<p>A failed check still gives the listed obvious objects. It may leave the exact order of events uncertain.</p>\n<h3>Speak with Dead: five likely answers</h3>\n<p><strong>Who visited?</strong> 'Granny. Basket on her left arm. Sella's stitch on her cuff.'</p>\n<p><strong>What were you doing?</strong> 'Testing the wax. I remembered Oren.'</p>\n<p><strong>What attacked you?</strong> 'Her shadow... no basket in it. Three voices where one should be.'</p>\n<p><strong>Where is your proof?</strong> 'Under the flour ledger. He took a copy to the inn.'</p>\n<p><strong>What did you learn?</strong> 'Not hearing it helped. It did not like that.'</p>\n<p>Ada cannot name a monster she never saw clearly. These answers are truthful unless the spell's usual hostility conditions apply.</p>\n<h3>Player leverage</h3>\n<p>Effective wax grants the declared protection in @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da.JournalEntryPage.fff2165a855d8ceb]{the song rules}. Players who reproduce Ada's experiment gain a reliable observation and a Lucid token. Her clue is not bait that fails as soon as it becomes useful.</p>\n<h3>Red herring resolved</h3>\n<p>Marnie's knife marks appear on a delivery crate, not the victim. Her shop supplied meat days earlier. The ledger and witness at her stall establish the innocent explanation.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.5901d8f9115db498.JournalEntryPage.97d75012bfce186b]{Previous: Discovery and read-aloud}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "evidence"
+        }
+      },
+      "_key": "!journal.pages!5901d8f9115db498.8723cec086d116c4"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "bakery",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "01 - Acts and Locations"
+    },
+    "stillroots-song-journals": {
+      "key": "bakery",
+      "audience": "gm",
+      "group": "01 - Acts and Locations",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!5901d8f9115db498"
+}

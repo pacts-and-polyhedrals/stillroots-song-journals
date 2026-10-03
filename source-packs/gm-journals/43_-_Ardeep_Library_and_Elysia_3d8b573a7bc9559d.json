@@ -1,0 +1,74 @@
+{
+  "_id": "3d8b573a7bc9559d",
+  "name": "43 - Ardeep Library and Elysia",
+  "sort": 3100000,
+  "folder": "af6d3e69f9dbf232",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "42a03c326300ef53",
+      "name": "The Chronicler of Ages",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Elysia and the Aegis of Elara</h1>\n<p><strong>Optional lore scene.</strong> Elysia is the chronicler from the supplied Ardeep material, <strong>not</strong> a replacement name for Jonas Verstand. This scene can be a dream archive or an actual book recovered from the coven's camp.</p>\n<blockquote>\n<p>The shelves grow out of the roots of an old tree. Books rest between them like objects caught in a river and carefully dried. A desk stands in a circle of clean light. Beside an ink-darkened quill is a page that has not moved for centuries.</p>\n<p>Its first sentence is still perfectly legible: WHAT IS KEPT TOGETHER NEED NOT BE HELD ALONE.</p>\n</blockquote>\n<h3>Read or share</h3>\n<p>Elysia wore midnight-blue robes and carried an ink-stained quill. A historian and chronicler of the Age of Legends, she gathered texts, oral accounts and fragmented traditions concerning the Aegis of Elara. Her record outlived her; her origin and fate remain uncertain.</p>\n<p>The supplied overview says four components but later names a fifth, the Earthheart Shield. <strong>This edition uses the five named components for the optional lore:</strong> Starshard Amulet, Moonshadow Dagger, Sunfire Gauntlet, Windwhisper Bow and Earthheart Shield. The discrepancy is recorded rather than disguised.</p>\n<h3>Connection to this adventure</h3>\n<p>The useful lesson is <strong>interdependence</strong>, not 'find a mandatory celestial artefact'. A diagram of five relics sharing a centre helps the party interpret the organ's linked mechanisms. The party can gain that insight with a reasonable examination; no check is required to spot the diagram.</p>\n<h3>Mechanical boundary</h3>\n<p>Reading the chronicle does not grant an artefact, attunement or immunity to the song. The original item write-ups remain in @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.d9c720176785bcaf]{the source appendix}, with missing durations and values identified. They are optional campaign-level material, not part of the level-10 starting allowance.</p>\n<p>A recovered poem can instead serve as a remembrance anchor: a preserved text someone cared enough to keep.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.3d8b573a7bc9559d.JournalEntryPage.9a889dc229ba3043]{Next: Elysia's poems - supplied lore}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "lore"
+        }
+      },
+      "_key": "!journal.pages!3d8b573a7bc9559d.42a03c326300ef53"
+    },
+    {
+      "_id": "9a889dc229ba3043",
+      "name": "Elysia's poems - supplied lore",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Elysia's poems</h1>\n<p>The verse below preserves the supplied lore with line breaks normalised. These are optional reading, not required passwords or historical claims about a real culture.</p>\n<h2>Aegis of Elara</h2>\n<p>In realms of old, where legends dwell,<br/>\nAegis of Elara, a tale to tell.<br/>\nArtifacts intertwined, their powers unite,<br/>\nTo shield against darkness, a radiant light.</p>\n<p>Starshard Amulet, gleaming divine,<br/>\nSafeguard from spells, radiant and fine.<br/>\nAegis of protection, a celestial embrace,<br/>\nDefying enchantments, with unwavering grace.</p>\n<p>Moonshadow Dagger, whispers in the night,<br/>\nA stealthy companion, veiled from sight.<br/>\nNecrotic touch, a silent strike,<br/>\nCloaked in shadows, deadly and blight.</p>\n<p>Sunfire Gauntlet, ablaze with might,<br/>\nEmbers ignite, a searing light.<br/>\nFlames dance upon the wielder's hand,<br/>\nUnleashing infernos, scorching the land.</p>\n<p>Windwhisper Bow, a zephyr's call,<br/>\nGuided arrows, swift and enthralled.<br/>\nBreezes carry the flight, with precision and grace,<br/>\nPiercing gales, enemies can't escape.</p>\n<p>Earthheart Shield, stalwart and strong,<br/>\nBulwark of defense, against all wrong.<br/>\nBludgeons repelled, slashes denied,<br/>\nTerra's retribution, foes pushed aside.</p>\n<p>Combined as one, the Aegis takes form,<br/>\nA convergence of power, through a mystical storm.<br/>\nArmor fortified, resistance embraced,<br/>\nA guardian's essence, never to be erased.</p>\n<p>Elara's Fury, unleashed in direst need,<br/>\nA cataclysmic force, destruction shall heed.<br/>\nFoes tremble and fall, in its radiant wrath,<br/>\nAegis of Elara, safeguarding the path.</p>\n<p>Through ages untold, this legend prevails,<br/>\nA beacon of hope, where darkness assails.<br/>\nWith artifacts united, their magic profound,<br/>\nAegis of Elara, a defender renowned.</p>\n<h2>Dragon Princes of Kalemor</h2>\n<p>In lands where ancient oaks entwine,<br/>\nA tale of heroes bold and fine.<br/>\nThe Dragon Princes of Kalemor,<br/>\nTheir steeds aloft, forever soar.</p>\n<p>With scales aglow, a radiant sheen,<br/>\nElven riders, noble and serene.<br/>\nOn wings of might, they take to skies,<br/>\nTheir bond unbroken, none can surmise.</p>\n<p>Through clouds they dance, as one they glide,<br/>\nA harmony felt far and wide.<br/>\nWith whispers old, the dragons heed,<br/>\nTheir riders' call, a sacred creed.</p>\n<p>In battle fierce, their flames ignite,<br/>\nAgainst darkness, they shine so bright.<br/>\nProtectors true, defenders brave,<br/>\nTheir valor, a legacy they engrave.</p>\n<p>In tales of old, their names resound,<br/>\nWithin elven hearts, forever bound.<br/>\nDragon Princes of Kalemor's fame,<br/>\nA testament to honor and acclaim.</p>\n<h2>Astral Veil, Migration Unveiled</h2>\n<p>From realms unknown, a journey begun,<br/>\nThe Astral Elves, their ties undone.<br/>\nThrough astral seas, they set their sail,<br/>\nSeeking a home, beyond the veil.</p>\n<p>Through silver veils, they slip unseen,<br/>\nTheir essence drifting, ethereal sheen.<br/>\nFrom material bonds, they find release,<br/>\nEmbracing the astral plane's sweet peace.</p>\n<p>Amongst the stars, their footsteps tread,<br/>\nTheir luminous forms, a celestial thread.<br/>\nWith whispered chants, they chart their course,<br/>\nIn harmony with cosmic force.</p>\n<p>In astral dance, they find their place,<br/>\nA realm of dreams, an endless chase.<br/>\nEthereal beings, astral elves roam,<br/>\nForever seeking, a celestial home.</p>\n<h2>The Shadow's Birth</h2>\n<p>In caverns deep, where darkness thrives,<br/>\nA tale unfolds of shadowed lives.<br/>\nFrom ancient roots, the Dark Elves rise,<br/>\nTheir origin veiled beneath dim skies.</p>\n<p>Born of moonless nights and shadowed plight,<br/>\nThey emerged, seeking eternal night.<br/>\nSilent whispers, their haunting call,<br/>\nIn deepest gloom, they stand tall.</p>\n<p>Cursed lineage, a twisted birth,<br/>\nDarkness embraced upon their earth.<br/>\nFrom surface dwellers, they were shunned,<br/>\nInto the depths, their fate was spun.</p>\n<p>In caverns black, they found their solace,<br/>\nTheir souls entwined with night's embrace.<br/>\nEyes aglow with eerie radiance,<br/>\nThey ventured forth, in eerie dance.</p>\n<p>Dark Elves, mysterious and profound,<br/>\nIn shadow's depths, their secrets bound.<br/>\nBorn of darkness, they wield its might,<br/>\nA blend of shadow and elven light.</p>\n<p><strong>GM note:</strong> the last poem is an in-world author's mythic account, not an objective statement about all dark elves' morality or a requirement for a player's character.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.3d8b573a7bc9559d.JournalEntryPage.42a03c326300ef53]{Previous: The Chronicler of Ages}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "poems"
+        }
+      },
+      "_key": "!journal.pages!3d8b573a7bc9559d.9a889dc229ba3043"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "library",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "05 - Optional Scenes and Lore"
+    },
+    "stillroots-song-journals": {
+      "key": "library",
+      "audience": "gm",
+      "group": "05 - Optional Scenes and Lore",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!3d8b573a7bc9559d"
+}

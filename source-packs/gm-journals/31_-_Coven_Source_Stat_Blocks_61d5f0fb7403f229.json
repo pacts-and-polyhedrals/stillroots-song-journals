@@ -1,0 +1,189 @@
+{
+  "_id": "61d5f0fb7403f229",
+  "name": "31 - Coven Source Stat Blocks",
+  "sort": 2600000,
+  "folder": "17b62bca0a547d74",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "f6d8f75ec2b41e13",
+      "name": "Read this before using the numbers",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Original author statistics</h1>\n<p>The following pages retain the <strong>names, numerical values and abilities from the author's original stat blocks</strong>, with layout normalised. They are reference text, not imported Actors. Apparent arithmetic errors, missing formulas and ambiguous actions are intentionally not silently corrected. See @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.1abafce5d3fc121a]{Mechanical audit and proposed rulings} before running the true creatures.</p>\n<p>These blocks are not a certification of their stated challenge ratings. All three hags plus mounts are outside the intended default level-10 encounter. Use @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.0372dd61e62dfc2b]{the ritual manifestation} for the one-shot, or explicitly choose a different high-power campaign encounter.</p>\n<p>No original Gargantua stat block was supplied. Its rider interaction is preserved; no tarrasque statistics have been invented to fill the gap.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.61d5f0fb7403f229.JournalEntryPage.b0628313c62652f3]{Next: Babha Yagha - original supplied block}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "source"
+        }
+      },
+      "_key": "!journal.pages!61d5f0fb7403f229.f6d8f75ec2b41e13"
+    },
+    {
+      "_id": "b0628313c62652f3",
+      "name": "Babha Yagha - original supplied block",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Babha Yagha, Grandma, The Malevolent Matriarch</h1>\n<p><em>Large Fiend (Hag), chaotic evil</em></p>\n<p><strong>Armor Class</strong> 17 (natural armor). <strong>Hit Points</strong> 330 (40d10 + 120). <strong>Speed</strong> 30 ft.</p>\n<table>\n<thead>\n<tr>\n<th>STR</th>\n<th>DEX</th>\n<th>CON</th>\n<th>INT</th>\n<th>WIS</th>\n<th>CHA</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>18 (+4)</td>\n<td>16 (+3)</td>\n<td>16 (+3)</td>\n<td>22 (+6)</td>\n<td>18 (+4)</td>\n<td>24 (+7)</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Saving Throws:</strong> Str +10, Dex +9, Con +9, Int +10, Wis +10, Cha +13.</p>\n<p><strong>Skills:</strong> Arcana +12, Deception +10, Insight +12, Intimidation +10, Nature +12, Perception +12, Stealth +11.</p>\n<p><strong>Damage Resistance:</strong> Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks Not Made With Silvered Weapon.</p>\n<p><strong>Damage Immunities:</strong> cold, fire, poison. <strong>Condition Immunities:</strong> charmed, frightened, poisoned.</p>\n<p><strong>Senses:</strong> darkvision 120 ft., passive Perception 22. <strong>Languages:</strong> Abyssal, Common, Draconic, Sylvan, telepathy 120 ft. <strong>Challenge:</strong> 22.</p>\n<p><strong>Innate Spellcasting.</strong> Charisma (spell save DC 22), no material components. At will: disguise self, detect magic, mage hand, minor illusion. 1/day each: baleful polymorph, feeblemind, power word stun.</p>\n<p><strong>Legendary Resistance (3/Day).</strong> If Babha Yagha fails a saving throw, she can choose to succeed instead.</p>\n<p><strong>Magic Resistance.</strong> Advantage on saving throws against spells and other magical effects.</p>\n<p><strong>Magic Weapons.</strong> Her weapon attacks are magical.</p>\n<p><strong>Regeneration.</strong> Regains 20 hit points at the start of her turn if she has at least 1 hit point.</p>\n<h2>Actions</h2>\n<p><strong>Multiattack.</strong> Babha Yagha can use her Frightening Gaze and then make two claw attacks.</p>\n<p><strong>Claw.</strong> Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage plus 14 (4d6) poison damage.</p>\n<p><strong>Frightening Gaze.</strong> One creature she can see within 30 feet. If the target can see her, it must succeed on a DC 22 Wisdom saving throw against this magic or become frightened for 1 minute. Repeat the save at the end of each turn, ending on success. Success or ending the effect grants immunity to her Frightening Gaze for 24 hours.</p>\n<p><strong>Soul Steal.</strong> Babha Yagha attempts to steal the soul of a creature she can see within 60 feet. The target must succeed on a DC 22 Charisma save or its hit point maximum is reduced by an amount equal to the damage taken. Reduction lasts until a long rest. The target dies if its maximum becomes 0. <strong>Source omission: no damage amount was specified.</strong></p>\n<p><strong>Summon Darklings (1/Day).</strong> Summons 2d4 Darklings within 60 feet. They act immediately, rolling their own initiative. They remain for 1 hour or until dismissed as a bonus action.</p>\n<h2>Legendary actions</h2>\n<p>Three per round; one option at the end of another creature's turn; refresh at the start of her turn.</p>\n<p><strong>Cackle (1).</strong> All creatures within 30 feet make a DC 21 Wisdom save or become frightened of her for 1 minute.</p>\n<p><strong>Summon Servants (2).</strong> Summons 1d4 + 1 darklings, berbalangs, or other creatures of her choice to an unoccupied space within 30 feet.</p>\n<p><strong>Rotting Curse (3).</strong> One creature within 60 feet makes a DC 21 Constitution save. Failure: 8d8 necrotic damage and ages 1d6 x 10 years. Success: half damage, no aging. If beyond the average lifespan of its race, another DC 21 Constitution save; failure means death of old age. The effect can only be removed by Remove Curse or similar magic.</p>\n<h2>Mounted</h2>\n<p><strong>One with the Cauldron.</strong> +5 AC while riding her cauldron. She can use its abilities while riding it, including levitation or boiling-hot liquid attacks.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.61d5f0fb7403f229.JournalEntryPage.f6d8f75ec2b41e13]{Previous: Read this before using the numbers} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.61d5f0fb7403f229.JournalEntryPage.22b7e692ad9a045c]{Next: Babha Yagha's Cauldron - original supplied block}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "babha"
+        }
+      },
+      "_key": "!journal.pages!61d5f0fb7403f229.b0628313c62652f3"
+    },
+    {
+      "_id": "22b7e692ad9a045c",
+      "name": "Babha Yagha's Cauldron - original supplied block",
+      "type": "text",
+      "sort": 300000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Babha Yagha's Cauldron</h1>\n<p><em>Huge construct, unaligned</em></p>\n<p><strong>AC</strong> 18 (natural armor). <strong>HP</strong> 200 (16d10 + 96). <strong>Speed</strong> 30 ft., fly 60 ft. (hover).</p>\n<table>\n<thead>\n<tr>\n<th>STR</th>\n<th>DEX</th>\n<th>CON</th>\n<th>INT</th>\n<th>WIS</th>\n<th>CHA</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>20 (+5)</td>\n<td>14 (+2)</td>\n<td>20 (+5)</td>\n<td>1 (-5)</td>\n<td>10 (+0)</td>\n<td>1 (-5)</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Damage Immunities:</strong> Poison, Psychic. <strong>Condition Immunities:</strong> Charmed, Exhaustion, Frightened, Paralyzed, Poisoned, Stunned.</p>\n<p><strong>Senses:</strong> Darkvision 60 ft., passive Perception 10. <strong>Languages:</strong> understands its creator's languages but cannot speak. <strong>Challenge:</strong> 9 (5,000 XP).</p>\n<p><strong>Immutable Form.</strong> Immune to spells or effects that alter its form.</p>\n<p><strong>Magic Resistance.</strong> Advantage on saving throws against spells and other magical effects.</p>\n<p><strong>Magic Weapons.</strong> Weapon attacks are magical.</p>\n<h2>Actions and movement traits as supplied</h2>\n<p><strong>Slam.</strong> Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 20 (4d8 + 2) bludgeoning damage.</p>\n<p><strong>Spit Acid.</strong> Ranged Weapon Attack: +6 to hit, range 60 ft., one target. Hit: 22 (5d8) acid damage.</p>\n<p><strong>Hover.</strong> Can hover in place if it takes the Dash action.</p>\n<p><strong>Flyby.</strong> Does not provoke opportunity attacks when flying out of an enemy's reach.</p>\n<p><strong>Audit note:</strong> the source lists hover both in speed and as a Dash-dependent property; choose one interpretation before use. No Cauldron Leap attack has been added.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.61d5f0fb7403f229.JournalEntryPage.b0628313c62652f3]{Previous: Babha Yagha - original supplied block} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.61d5f0fb7403f229.JournalEntryPage.7019c1c1b439e38f]{Next: Babha Yagha's Hut - original supplied block}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "cauldron"
+        }
+      },
+      "_key": "!journal.pages!61d5f0fb7403f229.22b7e692ad9a045c"
+    },
+    {
+      "_id": "7019c1c1b439e38f",
+      "name": "Babha Yagha's Hut - original supplied block",
+      "type": "text",
+      "sort": 400000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Babha Yagha's Hut</h1>\n<p><em>Gargantuan construct, unaligned</em></p>\n<p><strong>AC</strong> 20 (natural armor). <strong>HP</strong> 300 (24d10 + 144). <strong>Speed</strong> 60 ft., fly 90 ft.</p>\n<table>\n<thead>\n<tr>\n<th>STR</th>\n<th>DEX</th>\n<th>CON</th>\n<th>INT</th>\n<th>WIS</th>\n<th>CHA</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>20 (+5)</td>\n<td>10 (+0)</td>\n<td>20 (+5)</td>\n<td>1 (-5)</td>\n<td>3 (-4)</td>\n<td>1 (-5)</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Damage Immunities:</strong> Poison, Psychic. <strong>Condition Immunities:</strong> Charmed, Exhaustion, Frightened, Paralyzed, Poisoned.</p>\n<p><strong>Senses:</strong> Darkvision 120 ft., passive Perception 16. <strong>Languages:</strong> understands its creator's languages but cannot speak. <strong>Challenge:</strong> 16 (15,000 XP).</p>\n<p><strong>Magic Resistance.</strong> Advantage on saves against spells and other magical effects. <strong>Magic Weapons.</strong> Weapon attacks are magical.</p>\n<p><strong>False Appearance.</strong> While motionless, indistinguishable from a normal hut.</p>\n<p><strong>Siege Monster.</strong> Double damage to objects and structures.</p>\n<h2>Actions</h2>\n<p><strong>Slam.</strong> Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 27 (4d8 + 9) bludgeoning damage.</p>\n<p><strong>Teleport (1/day).</strong> Magically teleports itself and any creatures within 120 feet of it to a location up to 10 miles away. The destination must be a place the hut has visited or can see or visualise in its mind. It can bring objects within its carrying capacity. It may use this to escape or move to a desired location.</p>\n<h2>Legendary actions</h2>\n<p>Three per round, at the end of other creatures' turns, refreshed at the start of its turn.</p>\n<p><strong>Slam Attack (1).</strong> Makes one slam attack.</p>\n<p><strong>Chicken Run (1).</strong> Moves up to its speed without provoking opportunity attacks.</p>\n<p><strong>Preservation note:</strong> Teleport remains an action, 1/day, with the supplied 10-mile range. A later draft's 1-mile legendary-action rewrite, Stomp and Consume are not part of this source block.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.61d5f0fb7403f229.JournalEntryPage.22b7e692ad9a045c]{Previous: Babha Yagha's Cauldron - original supplied block} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.61d5f0fb7403f229.JournalEntryPage.fd5975eef11457fe]{Next: Mama Yagha - original supplied block}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "hut"
+        }
+      },
+      "_key": "!journal.pages!61d5f0fb7403f229.7019c1c1b439e38f"
+    },
+    {
+      "_id": "fd5975eef11457fe",
+      "name": "Mama Yagha - original supplied block",
+      "type": "text",
+      "sort": 500000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Mama Yagha, The Venomous Fang</h1>\n<p><em>Large Fiend (Hag), chaotic evil</em></p>\n<p><strong>AC</strong> 17 (natural armor). <strong>HP</strong> 330 (40d10 + 120). <strong>Speed</strong> 30 ft.</p>\n<table>\n<thead>\n<tr>\n<th>STR</th>\n<th>DEX</th>\n<th>CON</th>\n<th>INT</th>\n<th>WIS</th>\n<th>CHA</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>22 (+6)</td>\n<td>18 (+4)</td>\n<td>20 (+5)</td>\n<td>18 (+4)</td>\n<td>14 (+2)</td>\n<td>20 (+5)</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Saves:</strong> Str +12, Dex +9, Con +10, Int +8, Wis +7, Cha +10.</p>\n<p><strong>Skills:</strong> Arcana +8, Deception +11, Perception +9, Stealth +9.</p>\n<p><strong>Damage Resistance:</strong> Cold, Fire; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks Not Made With Silvered Weapon.</p>\n<p><strong>Damage Immunity:</strong> Poison. <strong>Condition Immunities:</strong> Charmed, Poisoned.</p>\n<p><strong>Senses:</strong> Darkvision 120 ft., passive Perception 19. <strong>Languages:</strong> Abyssal, Common, Draconic, Giant, Infernal, Yuan-ti. <strong>Challenge:</strong> 15.</p>\n<p><strong>Innate Spellcasting.</strong> Charisma, spell save DC 19; no material components. At will: darkness, detect magic, detect poison and disease, shield, suggestion. 3/day each: contagion, dominate person, lightning bolt, poison spray, wall of fire. 1/day each: cloudkill, finger of death, power word kill.</p>\n<p><strong>Rejuvenation.</strong> When slain she reverts to snake form and turns to stone until the next dawn, when she regains all HP and returns to hag form.</p>\n<p><strong>Shapechanger.</strong> As an action, polymorph into a giant snake or back to her yuan-ti/hag hybrid form. Statistics remain the same, but she cannot use claws or bite in snake form. <strong>This unusual source restriction is retained.</strong></p>\n<p><strong>Snake Hair.</strong> Any creature starting its turn within 5 feet makes a DC 19 Constitution save: 21 (6d6) poison damage on failure, half on success.</p>\n<p><strong>Spell Resistance.</strong> Advantage on saving throws against spells and other magical effects.</p>\n<h2>Actions</h2>\n<p><strong>Multiattack.</strong> Two claws, or one bite and one claw.</p>\n<p><strong>Claws.</strong> Melee Weapon Attack: +12 to hit, reach 5 ft.; 15 (2d8 + 6) slashing damage.</p>\n<p><strong>Bite.</strong> Melee Weapon Attack: +12 to hit, reach 5 ft.; 15 (2d8 + 6) piercing plus 14 (4d6) poison damage.</p>\n<p><strong>Summon Snakes (1/day).</strong> Summons a loyal unit of Yuan-ti within 60 feet, lasting 1 minute or until she dismisses it as an action. Hostile to creatures other than Mama and allies. <strong>Source omission: unit composition/number is not specified.</strong></p>\n<h2>Legendary actions</h2>\n<p>Three per round; refresh at the start of her turn. Options without a stated cost use the source's implicit one-action cost, pending GM confirmation.</p>\n<p><strong>Venomous Bite.</strong> Melee fang attack; on hit 2d6 + 4 piercing, then DC 17 Constitution save for 21 (6d6) poison on failure, half poison on success. <strong>Attack bonus/reach not stated here.</strong></p>\n<p><strong>Serpentine Coils.</strong> Moves up to her speed without opportunity attacks, through spaces of Large or smaller creatures. Each passed-through creature makes DC 17 Dexterity save or takes 2d8 + 4 bludgeoning and falls prone.</p>\n<p><strong>Yuan-ti Magic.</strong> Casts a known spell with casting time 1 action, one target, range touch; examples given are inflict wounds or bestow curse. Those examples are not on her supplied spell list.</p>\n<p><strong>Snake Hair.</strong> Up to three targets within 30 feet make DC 17 Dexterity saves or take 2d8 + 4 piercing damage and become poisoned for 1 minute, repeating the save at the end of each turn.</p>\n<p><strong>Recharge Innate Magic (2).</strong> Roll d6; on 5-6 regain a spell slot or renew a spell slot for an ally. <strong>Source uses slots despite innate per-day uses.</strong></p>\n<h2>Mounted</h2>\n<p><strong>One with the Serpent.</strong> +2 AC while riding Valdershmort; can use the basilisk's abilities while riding it.</p>\n<p><strong>Regeneration.</strong> While Mama rides it, the basilisk regains 10 HP at the start of each of its turns if it has at least 1 HP.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.61d5f0fb7403f229.JournalEntryPage.7019c1c1b439e38f]{Previous: Babha Yagha's Hut - original supplied block} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.61d5f0fb7403f229.JournalEntryPage.d6335097b3aab584]{Next: Valdershmort - original supplied block}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "mama"
+        }
+      },
+      "_key": "!journal.pages!61d5f0fb7403f229.fd5975eef11457fe"
+    },
+    {
+      "_id": "d6335097b3aab584",
+      "name": "Valdershmort - original supplied block",
+      "type": "text",
+      "sort": 600000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Valdershmort</h1>\n<p><em>Huge monstrosity, unaligned</em></p>\n<p><strong>AC</strong> 18 (natural armor). <strong>HP</strong> 325 (23d12 + 161). <strong>Speed</strong> 50 ft., swim 50 ft.</p>\n<table>\n<thead>\n<tr>\n<th>STR</th>\n<th>DEX</th>\n<th>CON</th>\n<th>INT</th>\n<th>WIS</th>\n<th>CHA</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>20 (+5)</td>\n<td>10 (+0)</td>\n<td>20 (+5)</td>\n<td>1 (-5)</td>\n<td>Score missing; modifier (-4) supplied</td>\n<td>1 (-5)</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Saves:</strong> Str +12, Con +13. <strong>Damage Immunities:</strong> Poison, Psychic. <strong>Condition Immunities:</strong> Petrified, Poisoned. <strong>Skill:</strong> Stealth +4.</p>\n<p><strong>Senses:</strong> darkvision 60 ft., passive Perception 10. <strong>Languages:</strong> none. <strong>Challenge:</strong> 14.</p>\n<p><strong>Keen Smell.</strong> Advantage on Wisdom (Perception) checks relying on smell.</p>\n<p><strong>Petrifying Gaze.</strong> A creature starting its turn within 30 feet, where both it and the basilisk can see each other, can be forced to make a DC 18 Constitution save if the basilisk is not incapacitated. Failure starts petrification and Restrained. Repeat the save at the end of its next turn: success ends the effect, failure means Petrified until Greater Restoration or other magic. A creature not surprised may avert its eyes at the start of its turn to avoid the save; it cannot then see the basilisk until its next turn. Looking at it in the meantime immediately calls for the save.</p>\n<h2>Actions</h2>\n<p><strong>Bite.</strong> Melee Weapon Attack: +14 to hit, reach 10 feet; 22 (3d8 + 8) piercing damage plus 12d6 poison on a failed DC 20 Constitution save, or half as much poison on success.</p>\n<p><strong>Poison Breath (recharge 5-6).</strong> A 60-foot cone; DC 20 Constitution save: 77 (22d6) poison damage on failure, half on success.</p>\n<h2>Legendary actions</h2>\n<p>Three per round, at other creatures' turn ends; refresh on its turn.</p>\n<p><strong>Move (1).</strong> Up to half speed.</p>\n<p><strong>Bite (2).</strong> Makes a bite attack.</p>\n<p><strong>Petrifying Gaze (3).</strong> Uses Petrifying Gaze. <strong>Source does not specify how this interacts with the start-of-turn trigger.</strong></p>\n<p>No additional Toxic Cloud or automatic poisoned condition has been added.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.61d5f0fb7403f229.JournalEntryPage.fd5975eef11457fe]{Previous: Mama Yagha - original supplied block} &nbsp; | &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.61d5f0fb7403f229.JournalEntryPage.e5e3a1de50e7da7a]{Next: Gahgah Yagha - original supplied block}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "valdershmort"
+        }
+      },
+      "_key": "!journal.pages!61d5f0fb7403f229.d6335097b3aab584"
+    },
+    {
+      "_id": "e5e3a1de50e7da7a",
+      "name": "Gahgah Yagha - original supplied block",
+      "type": "text",
+      "sort": 700000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Gahgah Yagha, The Tenebrous Troll</h1>\n<p><em>Huge Fiend (Hag), chaotic evil</em></p>\n<p><strong>AC</strong> 16 (natural armor). <strong>HP</strong> 325 (22d10 + 198). <strong>Speed</strong> 40 ft.</p>\n<table>\n<thead>\n<tr>\n<th>STR</th>\n<th>DEX</th>\n<th>CON</th>\n<th>INT</th>\n<th>WIS</th>\n<th>CHA</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>26 (+8)</td>\n<td>14 (+2)</td>\n<td>28 (+9)</td>\n<td>14 (+2)</td>\n<td>16 (+4), as supplied</td>\n<td>20 (+5)</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Saves:</strong> Str +14, Dex +8, Con +15, Int +8, Wis +10, Cha +11.</p>\n<p><strong>Skills:</strong> Athletics +14, Deception +17, Perception +10, Persuasion +11.</p>\n<p><strong>Damage Resistance:</strong> Fire, Necrotic, Radiant; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks. <strong>Damage Immunities:</strong> Cold, Poison. <strong>Condition Immunities:</strong> Charmed, Poisoned.</p>\n<p><strong>Senses:</strong> Darkvision 120 ft., passive Perception 19. <strong>Languages:</strong> Abyssal, Common, Draconic, Giant, Infernal. <strong>Challenge:</strong> 18.</p>\n<p><strong>Innate Spellcasting.</strong> No material components. At will: detect magic, mage hand, minor illusion. 3/day each: darkness, fear, misty step. 1/day each: cloudkill, cone of cold, teleport. <strong>Source omission: spellcasting ability and DC not stated.</strong></p>\n<p><strong>Regeneration.</strong> Regains 20 HP at the start of her turn. <strong>Acid damage</strong> prevents this at the start of her next turn. Dies only if starting her turn with 0 HP and not regenerating.</p>\n<p><strong>Two Heads.</strong> Advantage on Perception and saves against Blinded, Charmed, Deafened, Frightened, Stunned, and being knocked unconscious.</p>\n<p><strong>Spell Resistance.</strong> Advantage on saving throws against spells and other magical effects.</p>\n<h2>Actions</h2>\n<p>The supplied action heading contains the fragment 'attack.' No standard-turn Multiattack was specified here.</p>\n<p><strong>Bite.</strong> Melee Weapon Attack: +15 to hit, reach 10 feet; 21 (2d12 + 8) piercing plus 7 (2d6) poison.</p>\n<p><strong>Claw.</strong> Melee Weapon Attack: +15 to hit, reach 10 feet; 17 (2d10 + 8) slashing damage. On hit the target is Grappled, escape DC 15. Until escape it is Restrained and has disadvantage on Strength checks and saves.</p>\n<p><strong>Fling.</strong> Hurls a grappled creature up to 60 feet in any direction; 21 (6d6) bludgeoning damage and Prone. If it collides with an object or creature, add 7 (2d6) bludgeoning for each 10 feet thrown beyond the first 10 feet.</p>\n<h2>Legendary actions</h2>\n<p>Three per round, at the end of others' turns, refreshed at the start of her turn. Costs not explicitly written are left as supplied and audited separately.</p>\n<p><strong>Multiattack.</strong> Two claw or bite attacks.</p>\n<p><strong>Enraging Howl (2).</strong> Creatures within 30 feet make DC 18 Wisdom saves or become enraged and attack the nearest creature, friend or foe, until the end of their next turn. If attacked, a creature can repeat the save at the end of its turn.</p>\n<p><strong>Regeneration (2).</strong> Regains 20 HP at the start of her turn for 1 minute.</p>\n<p><strong>Stunning Slamalam.</strong> A melee head attack attempting to stun; target makes DC 18 Constitution save or is Stunned until the end of its next turn. <strong>Source omission: attack bonus and damage not specified.</strong></p>\n<p><strong>Flying Headbutt (2).</strong> Melee head attack against a Large or smaller creature; on hit it takes damage 'as normal' and makes DC 18 Strength save or falls Prone and is pushed 10 feet. <strong>Source omission: the head attack's base damage is not defined.</strong></p>\n<h2>Mounted</h2>\n<p><strong>One with the tarrasque.</strong> +5 AC while riding Gargantua and may use Gargantua's abilities while riding it.</p>\n<p><strong>Regeneration.</strong> While she rides Gargantua, it regains 10 HP at the start of each of its turns if it has at least 1 HP.</p>\n<p><strong>Gargantua:</strong> a tarrasque mount was named, but its own statistics were not supplied.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.61d5f0fb7403f229.JournalEntryPage.d6335097b3aab584]{Previous: Valdershmort - original supplied block}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "gahgah"
+        }
+      },
+      "_key": "!journal.pages!61d5f0fb7403f229.e5e3a1de50e7da7a"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "covenstats",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "04 - Coven and Creatures"
+    },
+    "stillroots-song-journals": {
+      "key": "covenstats",
+      "audience": "gm",
+      "group": "04 - Coven and Creatures",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!61d5f0fb7403f229"
+}

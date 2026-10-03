@@ -1,0 +1,51 @@
+{
+  "_id": "1c264d3b588c6ab6",
+  "name": "41 - The Bone Minuet: A Death Cleric's Flute",
+  "sort": 2900000,
+  "folder": "af6d3e69f9dbf232",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "7d58c445efcceaf6",
+      "name": "An unsettling encounter, not an automatic fight",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>The Bone Minuet</h1>\n<p><strong>Optional, 10-15 minutes.</strong> Place at the graveyard or between dream rooms. The flute-player may be a visiting death cleric named <strong>Veyra</strong>, or a PC death cleric when this is their scene. The original request did not require the cleric to be evil.</p>\n<blockquote>\n<p>The first notes are almost too soft to separate from the wind. Then the rhythm settles, and pale shapes begin to move among the gravestones.</p>\n<p>Skeletons turn in measured pairs. A rusted breastplate dips in a courtly bow. A scrap of funeral silk circles an empty ribcage. Their feet touch the earth lightly, as if remembering the dance matters more than holding their weight.</p>\n<p>At the centre stands a death cleric in dark travelling robes, playing a bone flute. The music is mournful, not frantic. Each time a note falters, one dancer hesitates.</p>\n<p>The cleric lowers the instrument. Every skull turns toward you.</p>\n<p>'There is room,' the cleric says. 'The living may join.'</p>\n</blockquote>\n<h3>What is happening</h3>\n<p>Veyra is preserving a funeral dance whose participants' names were erased. The skeletons are not the five freshly murdered witnesses and are not proof all undead serve the hags. The dance offers a way to honour the forgotten without restoring them to life.</p>\n<h3>Choices</h3>\n<p>Join respectfully, offer a remembered name, or ask about the tune. A specific gesture of respect succeeds without a roll. DC 14 Performance or Religion can earn a further detail: the flute's rhythm leaves deliberate gaps where the coven's song demands continuous repetition.</p>\n<p><strong>Reward:</strong> one remembrance anchor or a Lucid token. Veyra says, 'Leave space between the notes. That is where another voice can answer.' This supports the organ solution without replacing it.</p>\n<p><strong>If attacked:</strong> the dancers defend and disengage; use owned skeleton statistics if needed. Do not turn a short atmospheric scene into dozens of initiative entries. Veyra ends the animation rather than sacrificing the dead to prolong combat.</p>\n<p>The flute itself is a ritual prop, not an unlisted magic item with an automatic anti-hydra effect.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "encounter"
+        }
+      },
+      "_key": "!journal.pages!1c264d3b588c6ab6.7d58c445efcceaf6"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "minuet",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "05 - Optional Scenes and Lore"
+    },
+    "stillroots-song-journals": {
+      "key": "minuet",
+      "audience": "gm",
+      "group": "05 - Optional Scenes and Lore",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!1c264d3b588c6ab6"
+}

@@ -1,0 +1,51 @@
+{
+  "_id": "ad29fec40a2366c1",
+  "name": "H08 - Lucid Token Card",
+  "sort": 4800000,
+  "folder": "6bbdde26a71965b0",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "2bd6d8d9556e5579",
+      "name": "A moment of clarity",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal sr-handout\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; PLAYER HANDOUT</p><h1>LUCID</h1>\n<p><strong>A fact you have held onto. A name you have kept.</strong></p>\n<p>Spend this token to succeed on a save against the adventure's Terror or memory illusion, recall a true fact your character has learned, or shape one minor dream detail using an established memory.</p>\n<p>A handrail. A familiar tool. A light. A route you marked.</p>\n<p>It cannot invent unlimited power or erase another character's choices.</p>\n<p>Maximum three tokens held. Your actual notes do not require a token to consult.</p>\n<p><strong>I remember:</strong> ______________________</p>\n</section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "token"
+        }
+      },
+      "_key": "!journal.pages!ad29fec40a2366c1.2bd6d8d9556e5579"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "h-lucid",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "player",
+      "stillrootGroup": "Player - Reveal Handouts"
+    },
+    "stillroots-song-journals": {
+      "key": "h-lucid",
+      "audience": "player",
+      "group": "Player - Reveal Handouts",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!ad29fec40a2366c1"
+}

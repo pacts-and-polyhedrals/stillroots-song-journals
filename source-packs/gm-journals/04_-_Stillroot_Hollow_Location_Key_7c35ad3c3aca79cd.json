@@ -1,0 +1,74 @@
+{
+  "_id": "7c35ad3c3aca79cd",
+  "name": "04 - Stillroot Hollow: Location Key",
+  "sort": 500000,
+  "folder": "5d25a994cbeca5af",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "5527b1e6282c69c7",
+      "name": "Surface locations for your existing map",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Map-pin index</h1>\n<p>The village map is supplied separately by the GM. This journal adds <strong>no invented coordinates and no replacement Scene</strong>. Place Journal Notes on the actual map and select the relevant page. Map images are not bundled with this module.</p>\n<table>\n<thead>\n<tr>\n<th>Code</th>\n<th>Location</th>\n<th>Function</th>\n<th>Journal</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>S1</td>\n<td>Village square and old well</td>\n<td>Arrival, quiet experiments, main descent</td>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.9848b98a77681d3a]{Arrival} / @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.30ded8c4eb53e9e8]{Crossing}</td>\n</tr>\n<tr>\n<td>S2</td>\n<td>Humblenook Inn</td>\n<td>Refuge, antler murder, receipt trail</td>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.1f0c412a75cec824]{The inn}</td>\n</tr>\n<tr>\n<td>S3</td>\n<td>Forgotten Chapel</td>\n<td>Hoss, Uppa, Jonas's chest</td>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.353fd39665abdf09]{Ervin Hoss}</td>\n</tr>\n<tr>\n<td>S4</td>\n<td>Quiet Bakery</td>\n<td>First proof of acoustic interference</td>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.5901d8f9115db498]{The bakery}</td>\n</tr>\n<tr>\n<td>S5</td>\n<td>Unraveled, the tailor</td>\n<td>Red guide-thread and Nella's cuff</td>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.5291d63a5044e820]{The tailor}</td>\n</tr>\n<tr>\n<td>S6</td>\n<td>Hearthhouse, old people's home</td>\n<td>Names, habits and elder testimony</td>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.e28a14cc133b79ee]{Hearthhouse}</td>\n</tr>\n<tr>\n<td>S7</td>\n<td>Orchard's edge</td>\n<td>Nella encounter; path to crystals</td>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.abd471fb49f0eaa2]{Granny Nella}</td>\n</tr>\n<tr>\n<td>S8</td>\n<td>Overgrown graveyard</td>\n<td>Memorials; optional bone minuet</td>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.1c264d3b588c6ab6]{The Bone Minuet}</td>\n</tr>\n<tr>\n<td>S9</td>\n<td>Dream-spy's cottage</td>\n<td>Receipt search and confrontation</td>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.30ded8c4eb53e9e8.JournalEntryPage.79852b713fef3bdd]{Nella's reveal}</td>\n</tr>\n<tr>\n<td>S10</td>\n<td>Old ruins / sealed cellar</td>\n<td>Physical alternative to the well</td>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.30ded8c4eb53e9e8.JournalEntryPage.b59579d1da9c0126]{Physical entry}</td>\n</tr>\n<tr>\n<td>S11</td>\n<td>Glowing crystal formation</td>\n<td>Final surface clue and acoustic bypass</td>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.547690f61d0e4f51]{Choral Bloom}</td>\n</tr>\n<tr>\n<td>S12</td>\n<td>Forge</td>\n<td>Torbin, Thomlin, tools and Oren's records</td>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.eefede03062b04f4]{Torbin} / @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.faaa4ec63b69cf5f]{Thomlin}</td>\n</tr>\n<tr>\n<td>S13</td>\n<td>Giant's den jail cells</td>\n<td>Optional riddle and murder</td>\n<td>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.321cee58cb2e099b]{The Bone Ring}</td>\n</tr>\n</tbody>\n</table>\n<p>If a landmark is not on the finished map, place its scene inside an existing building or use it as a dream room. Do not stop the session to redesign terrain.</p>\n<h3>Connections</h3>\n<p>The inn, bakery, tailor, chapel and square are a short walk apart. Hearthhouse borders the orchard. The orchard path leads to the crystal formation. The ruins/cellar and the well both lead to the under-village cistern. The dream reproduces these connections with distortions, but the red thread remains a usable route.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.7c35ad3c3aca79cd.JournalEntryPage.c431e6b26542f953]{Next: Village improvisation prompts}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "key"
+        }
+      },
+      "_key": "!journal.pages!7c35ad3c3aca79cd.5527b1e6282c69c7"
+    },
+    {
+      "_id": "c431e6b26542f953",
+      "name": "Village improvisation prompts",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Ordinary life with one wrong seam</h1>\n<p><strong>Square:</strong> three benches, a dry rim around the well, a noticeboard advertising a harvest supper. The attendance count has been corrected downward without changing the number of meals ordered.</p>\n<p><strong>Chapel:</strong> polished wood, damp wool, a faint trace of incense. A bell rope disappears through the ceiling. Hoss insists there has never been a bell tower. The rope is still ordinary rope and can be followed.</p>\n<p><strong>Forge:</strong> good work, well-maintained tools, two heights of worn handles. Torbin has large hands; the smaller set belonged to Oren. Thomlin knows whose tools they are until someone contradicts him.</p>\n<p><strong>Orchard:</strong> windfall apples are gathered neatly in rows that resemble place settings. Nella's left footprint misses a triangular patch. Tracks can be measured and followed.</p>\n<p><strong>Graveyard:</strong> several graves have family symbols but no names. Dirt under the headstones is old; these are not fresh murders. A mourner can describe an anniversary while unable to name the person mourned.</p>\n<p><strong>Ruins:</strong> old fitted stone, a modern lock and a recently replaced hinge. An ordinary route has been maintained through a supposedly abandoned place.</p>\n<h3>Three lines for nameless villagers</h3>\n<p>'You're staying? Good. Travellers never seem to stay.'</p>\n<p>'Everyone who belongs here is here.'</p>\n<p>'I did set two cups. I always set two cups. Is that unusual?'</p>\n<p>Give a villager a concrete task and an immediate worry unrelated to the horror. Their humanity makes the contradictions matter.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.7c35ad3c3aca79cd.JournalEntryPage.5527b1e6282c69c7]{Previous: Surface locations for your existing map}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "prompts"
+        }
+      },
+      "_key": "!journal.pages!7c35ad3c3aca79cd.c431e6b26542f953"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "village",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "01 - Acts and Locations"
+    },
+    "stillroots-song-journals": {
+      "key": "village",
+      "audience": "gm",
+      "group": "01 - Acts and Locations",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!7c35ad3c3aca79cd"
+}

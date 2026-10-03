@@ -1,0 +1,74 @@
+{
+  "_id": "e28a14cc133b79ee",
+  "name": "22 - Hearthhouse: Echoes in the Rocking Room",
+  "sort": 2200000,
+  "folder": "5d25a994cbeca5af",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "7e1815b7dadcf7c9",
+      "name": "A place kept for someone",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Echoes in the Rocking Room</h1>\n<p><strong>Victim:</strong> Edda Senn, retired schoolmistress. <strong>Surviving witness:</strong> Mrs. Halden. <strong>Purpose:</strong> memory through habit; restore dignity to forgotten people.</p>\n<blockquote>\n<p>Hearthhouse smells of boiled linen, tea left too long on the leaves, and the faint sweetness of polished wood. Along the corridor, chairs have been moved carefully away from damp patches in the ceiling. Somebody is still looking after this place.</p>\n<p>The sunroom holds five rocking chairs facing windows silvered with condensation. Four are still. The fifth moves just enough to complain at each end of its arc.</p>\n<p>An old woman sits in it beneath a knitted blanket. Her head inclines toward the empty chair beside her, as though listening to a familiar visitor. One hand rests on a red book in her lap. The other is stretched toward a second cup of tea.</p>\n<p>As you come close, the rocking stops. Her body settles beneath the blanket with a sound too light for a person. The chair has been holding a shape that can no longer hold itself.</p>\n<p>Behind her, a row of names has been carved into the plaster at seated eye level. Beneath each name is a small ordinary fact: TAKES NO SUGAR. LIKES THE WINDOW OPEN. SINGS WHILE WASHING.</p>\n<p>The last line has been started but not finished: IF I FORGET, PLEASE...</p>\n</blockquote>\n<p>Edda is already dead. The blanket obscures the worst of the dream-staging; a closer examination may reveal the hollowed, paperlike collapse described in earlier drafts, at the group's agreed level of detail. The moving chair comes from a thread tied beneath its rocker. It is cuttable.</p>\n<h3>Psychological turn</h3>\n<p>Mrs. Halden quietly sets down a second cup before realising there is nobody to give it to. Do not immediately replace that human grief with another jump scare.</p>\n<p>The names on the wall do not automatically contain a PC's ancient birth name. A fresh line can contain a name the party actually spoke in the building; that is surveillance evidence, not a contradiction in the timeline.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.e28a14cc133b79ee.JournalEntryPage.89bfeb78400fde3b]{Next: Registers, habits and the living witness}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "scene"
+        }
+      },
+      "_key": "!journal.pages!e28a14cc133b79ee.7e1815b7dadcf7c9"
+    },
+    {
+      "_id": "89bfeb78400fde3b",
+      "name": "Registers, habits and the living witness",
+      "type": "text",
+      "sort": 200000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; GM DOSSIER</p><h1>Edda kept people real</h1>\n<p><strong>True sequence:</strong> Edda's register tracked households and visitors, exposing how often Nella visited isolated residents. Nella took her after the evening tea round and used the rocking-chair loop to discourage staff from checking. Mrs. Halden saw the departure but was told she had dreamed it.</p>\n<table>\n<thead>\n<tr>\n<th>Examination</th>\n<th>Finding</th>\n<th>Inference</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Open the red book</td>\n<td>Five witnesses, their occupations and meeting dates</td>\n<td>The deaths target a network, not random victims.</td>\n</tr>\n<tr>\n<td>Check the tea tray</td>\n<td>Five ordinary cups; a sixth unused cup beneath a red basket-cloth</td>\n<td>Someone visited but did not drink.</td>\n</tr>\n<tr>\n<td>Examine chair underside</td>\n<td>Black dream-thread vanishes when cut; real carving remains</td>\n<td>The motion is magical staging, not a survivor breathing.</td>\n</tr>\n<tr>\n<td>Read the wall</td>\n<td>Habits corroborate Oren's apprenticeship and Garrick's marriage</td>\n<td>Emotion and routine retain traces after names are suppressed.</td>\n</tr>\n<tr>\n<td>Speak to Mrs. Halden</td>\n<td>She describes Nella's repaired cuff and the crystal in her heel</td>\n<td>Another independent connection to the culprit.</td>\n</tr>\n<tr>\n<td>DC 14 Investigation</td>\n<td>'Three voices' is written separately from 'five witnesses'</td>\n<td>Do not mistake the number of murders for the number of controllers.</td>\n</tr>\n</tbody>\n</table>\n<h3>Speak with Dead</h3>\n<p><strong>Who visited?</strong> 'Granny brought supper. She did not pour herself a cup.'</p>\n<p><strong>What worried you?</strong> 'The chairs. We keep putting them away for people who never left.'</p>\n<p><strong>Where is the proof?</strong> 'My red register. Behind the cover, not between the pages.'</p>\n<p><strong>What happened?</strong> 'She asked whether I was tired of remembering. I said no.'</p>\n<p><strong>Who else knew?</strong> 'Sella had a way to keep the path. Red thread.'</p>\n<p>The corpse retains an intact mouth beneath the blanket. If the group veils examination, the spell can still be resolved without requiring a graphic description.</p>\n<h3>Rescue opportunity</h3>\n<p>Mrs. Halden is still alive. She can be escorted to the chapel, kept in a quiet field, or given a written identity anchor. She provides an extra Lucid token and one safe counter-statement in the finale if protected. Do not make her rescue compete with the only clue needed to finish the adventure.</p>\n<h3>Exit leads</h3>\n<p>@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.5291d63a5044e820]{Sella's thread} and @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.547690f61d0e4f51]{Corven's diagram} appear in the register. An entry referring to 'three stops, one instrument' points toward Jonas's chest at the chapel.</p>\n<p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.51568cbd1c2f53df]{Command Centre} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.66d06aa48fc28d63.JournalEntryPage.70b524c8443bc0fc]{Evidence Web} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.ba872b141c8533da]{Rules} &nbsp; / &nbsp; @UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.64c139810b16c4e4]{Session Tracker}</p><p class=\"sr-nav\">@UUID[Compendium.stillroots-song-journals.gm-journals.JournalEntry.e28a14cc133b79ee.JournalEntryPage.7e1815b7dadcf7c9]{Previous: A place kept for someone}</p></section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "evidence"
+        }
+      },
+      "_key": "!journal.pages!e28a14cc133b79ee.89bfeb78400fde3b"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "home",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "gm",
+      "stillrootGroup": "01 - Acts and Locations"
+    },
+    "stillroots-song-journals": {
+      "key": "home",
+      "audience": "gm",
+      "group": "01 - Acts and Locations",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!e28a14cc133b79ee"
+}

@@ -1,0 +1,51 @@
+{
+  "_id": "5f4792a87634298a",
+  "name": "H10 - The Mask's Second Riddle",
+  "sort": 5000000,
+  "folder": "6bbdde26a71965b0",
+  "categories": [],
+  "pages": [
+    {
+      "_id": "f8a9bac8d6d12dc9",
+      "name": "The second voice",
+      "type": "text",
+      "sort": 100000,
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<section class=\"sr-journal sr-handout\"><p class=\"sr-eyebrow\">STILLROOT'S SONG &nbsp; | &nbsp; PLAYER HANDOUT</p><h1>The second voice</h1>\n<blockquote>\n<p>No mouth have I, yet wounds let me speak.</p>\n<p>I run when the body's walls grow weak.</p>\n<p>Within you, hidden; spilled, bright red.</p>\n<p>What keeps the living from the dead?</p>\n</blockquote>\n</section>"
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "world": {
+          "stillrootPageKey": "riddle"
+        }
+      },
+      "_key": "!journal.pages!5f4792a87634298a.f8a9bac8d6d12dc9"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "world": {
+      "stillrootPack": "stillroots-song-journals",
+      "stillrootKey": "h-blood",
+      "stillrootVersion": "1.2.0",
+      "stillrootAudience": "player",
+      "stillrootGroup": "Player - Reveal Handouts"
+    },
+    "stillroots-song-journals": {
+      "key": "h-blood",
+      "audience": "player",
+      "group": "Player - Reveal Handouts",
+      "version": "1.2.0"
+    }
+  },
+  "_key": "!journal!5f4792a87634298a"
+}
